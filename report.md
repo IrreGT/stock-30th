@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-10-08 21:29 UTC
+# Estado do monitor — 2026-10-09 01:23 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@
 | [CentroXogo](https://centroxogo.pt) | error | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='centroxogo.pt', port=443): Read timed out. (read timeout=20) |
 | [Charbinder](https://charbinder.com) | shopify | 1 | 1 |  |
 | [Colecionar](https://colecionar.pt) | error | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
-| [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 1 | 0 |  |
+| [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [Continente](https://continente.pt) | html:/search?q={q} | 0 | 0 |  |
-| [Diver](https://diver.pt) | error | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='diver.pt', port=443): Read timed out. (read timeout=20) |
+| [Diver](https://diver.pt) | presta | 1 | 0 |  |
 | [DrawPhase](https://drawphase.pt) | shopify | 0 | 0 |  |
 | [Drawstep](https://drawstep.com) | shopify | 5 | 0 |  |
 | [El Corte Inglés](https://elcorteingles.pt) | error | 0 | 0 |  |
@@ -41,21 +41,21 @@
 | [OhliCards](https://ohlicards.pt) | woo | 11 | 7 |  |
 | [OPortoGG](https://oportogg.com) | shopify | 7 | 0 |  |
 | [Packpoint](https://packpoint.pt) | shopify | 0 | 0 |  |
-| [PandaCollecting](https://pandacollecting.com) | html:/?s={q}&post_type=product | 12 | 4 |  |
+| [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 |  |
 | [Papelinho](https://papelinho.pt) | presta | 0 | 0 |  |
-| [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 2 | 0 |  |
-| [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 28 | 0 |  |
+| [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='www.playerspot.pt', port=443): Read timed out. (read timeout=20) |
+| [PokeboxStore](https://pokeboxstore.pt) | error | 0 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 8 | 0 |  |
 | [PressStart](https://pressstart.pt) | error | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
 | [Psydeck](https://psydeck.com) | shopify | 10 | 0 |  |
 | [PTMerch](https://ptmerch.com) | error | 0 | 0 |  |
 | [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 |  |
-| [Rota151](https://rota151.pt) | error | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='rota151.pt', port=443): Read timed out. (read timeout=20) |
+| [Rota151](https://rota151.pt) | woo | 9 | 1 |  |
 | [SenhorGato](https://lojasenhorgato.pt) | shopify | 4 | 3 |  |
 | [Shop4Nerds](https://shop4nerds.pt) | error | 0 | 0 |  |
 | [Stickerpoint](https://stickerpoint.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [TCGFamily](https://tcg-family.com) | shopify | 6 | 5 |  |
-| [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 6 | 0 |  |
+| [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [TemplarsArena](https://templarsarena.com) | shopify | 12 | 6 |  |
 | [The Kanto Market](https://thekantomarket.com) | shopify | 0 | 0 |  |
 | [Totobayshop](https://totobayshop.com) | shopify | 9 | 0 |  |
@@ -94,10 +94,7 @@
 - **OhliCards** — [Pokémon 30th Celebration – Mini Tin (Aleatório) (Pré-Venda)](https://www.ohlicards.pt/produto/pokemon-30th-celebration-mini-tin-aleatorio/) — 27.99€
 - **OhliCards** — [Pokémon 30th Celebration – Poster Collection](https://www.ohlicards.pt/produto/pokemon-30th-celebration-poster-collection/) — 59.99€
 - **OhliCards** — [Pokémon 30th Celebration – Sylveon EX Tin](https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/) — 64.99€
-- **PandaCollecting** — [30th Celebration Simplified Chinese Espeon ex Luxury Set](https://pandacollecting.com/product/30th-celebration-simplified-chinese-espeon-ex-luxury-set/)
-- **PandaCollecting** — [30th Celebration Simplified Chinese Umbreon ex Luxury Set](https://pandacollecting.com/product/30th-celebration-simplified-chinese-umbreon-ex-luxury-set/)
-- **PandaCollecting** — [Pikachu 30th Celebration Plush](https://pandacollecting.com/product/pikachu-30th-celebration-plush/)
-- **PandaCollecting** — [Pikachu 30th Celebration Plush Key Chain](https://pandacollecting.com/product/pikachu-30th-celebration-plush-key-chain/)
+- **Rota151** — [30th Anniversary Celebration – Original Partner Card Set Vol. 1 (CHN)](https://rota151.pt/30th-anniversary-celebration-original-partner-card-set-vol-1/) — 19.90€
 - **SenhorGato** — [Pokémon TCG - 30th Anniversary Dream Painting Figure - Chinês - PRÉ-RESERVA](https://lojasenhorgato.pt/products/pokemon-tcg-30th-anniversary-dream-painting-figure-chines-pre-reserva) — 35.00€
 - **SenhorGato** — [TCG Pokémon - 30th Anniversary First Partner Series 2 - Chinese](https://lojasenhorgato.pt/products/tcg-pokemon-30th-anniversary-first-partner-series-2-chinese) — 15.00€
 - **SenhorGato** — [TCG Pokémon - 30th Anniversary First Partner Series 3 - Chinese](https://lojasenhorgato.pt/products/tcg-pokemon-30th-anniversary-first-partner-series-3-chinese) — 15.00€
@@ -106,7 +103,7 @@
 - **TCGFamily** — [Pokémon TCG 30th Anniversary Celebration Greninja EX Card Display Set Chinese Ver.](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-greninja-ex-card-display-set-chinese-ver) — 37.00€
 - **TCGFamily** — [Pokémon TCG 30th Anniversary Celebration Sylveon EX Card Display Set Chinese Ver.](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-sylveon-ex-card-display-set-chinese-ver) — 37.00€
 - **TCGFamily** — [Pokémon TCG – 30th Anniversary Dream Painting Pikachu Figure Set Blind Box (Simplified Chinese)](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese) — 37.00€
-- **TemplarsArena** — [30th Celebration Booster Bundle](https://templarsarena.com/products/30th-celebration-booster-bundle) — 89.90€
+- **TemplarsArena** — [30th Celebration Booster Bundle](https://templarsarena.com/products/30th-celebration-booster-bundle) — 85.00€
 - **TemplarsArena** — [30th Celebration Elite Trainer Box](https://templarsarena.com/products/30th-celebration-elite-trainer-box) — 159.90€
 - **TemplarsArena** — [30th Celebration Mini Tin (Random)](https://templarsarena.com/products/30th-celebration-mini-tin-random) — 25.00€
 - **TemplarsArena** — [30th Celebration Poster Collection](https://templarsarena.com/products/30th-celebration-poster-collection) — 50.00€
