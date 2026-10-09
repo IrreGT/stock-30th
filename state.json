@@ -185,7 +185,7 @@
    "url": "https://anixways.com/product/30th-celebration-mewtwo-figure-collection/"
   },
   "https://anixways.com/product/30th-celebration-mini-tin-random-art/": {
-   "available": true,
+   "available": false,
    "domain": "anixways.com",
    "price": "25.90",
    "store": "AnixWays",
@@ -591,14 +591,6 @@
    "store": "Gatorcards",
    "title": "30th Celebration Greninja Ex Tin",
    "url": "https://gatorcards.pt/products/30th-celebration-greninja-ex-tin"
-  },
-  "https://gatorcards.pt/products/30th-celebration-mini-tin": {
-   "available": false,
-   "domain": "gatorcards.pt",
-   "price": "20.00",
-   "store": "Gatorcards",
-   "title": "30th Celebration Mini Tin",
-   "url": "https://gatorcards.pt/products/30th-celebration-mini-tin"
   },
   "https://gatorcards.pt/products/30th-celebration-poster-collection": {
    "available": false,
@@ -1459,7 +1451,7 @@
   "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-coin-set-chinese-ver": {
    "available": true,
    "domain": "tcg-family.com",
-   "price": "24.00",
+   "price": "22.00",
    "store": "TCGFamily",
    "title": "Pokémon TCG 30th Anniversary Celebration Coin Set CHINESE Ver.",
    "url": "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-coin-set-chinese-ver"
@@ -1491,7 +1483,7 @@
   "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese": {
    "available": true,
    "domain": "tcg-family.com",
-   "price": "37.00",
+   "price": "34.00",
    "store": "TCGFamily",
    "title": "Pokémon TCG – 30th Anniversary Dream Painting Pikachu Figure Set Blind Box (Simplified Chinese)",
    "url": "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese"
@@ -1977,7 +1969,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-09 19:52 UTC",
+ "last_run": "2026-10-09 23:53 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",

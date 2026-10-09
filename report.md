@@ -1,10 +1,10 @@
-# Estado do monitor — 2026-10-09 19:52 UTC
+# Estado do monitor — 2026-10-09 23:53 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
 | [AJogar](https://ajogar.com) | shopify | 12 | 0 |  |
-| [AnixWays](https://anixways.com) | woo | 26 | 2 |  |
+| [AnixWays](https://anixways.com) | woo | 26 | 1 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 1 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 13 | 4 |  |
 | [Brokards](https://brokards.com) | shopify | 9 | 0 |  |
@@ -20,7 +20,7 @@
 | [Drawstep](https://drawstep.com) | shopify | 5 | 0 |  |
 | [El Corte Inglés](https://elcorteingles.pt) | error | 0 | 0 |  |
 | [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 |  |
-| [Gatorcards](https://gatorcards.pt) | shopify | 8 | 1 |  |
+| [Gatorcards](https://gatorcards.pt) | shopify | 7 | 1 |  |
 | [Geekhaven](https://geekhaven.pt) | shopify | 13 | 0 |  |
 | [GgLounge](https://gglounge.pt) | error | 0 | 0 |  |
 | [GM Cards & Toys](https://gmcardsandtoys.com) | shopify | 0 | 0 |  |
@@ -49,7 +49,7 @@
 | [PressStart](https://pressstart.pt) | error | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
 | [Psydeck](https://psydeck.com) | shopify | 10 | 0 |  |
 | [PTMerch](https://ptmerch.com) | error | 0 | 0 |  |
-| [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='rorizlair.com', port=443): Read timed out. (read timeout=20) |
+| [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 |  |
 | [Rota151](https://rota151.pt) | woo | 9 | 1 |  |
 | [SenhorGato](https://lojasenhorgato.pt) | shopify | 6 | 4 |  |
 | [Shop4Nerds](https://shop4nerds.pt) | error | 0 | 0 |  |
@@ -69,7 +69,6 @@
 
 ## Produtos com stock agora
 
-- **AnixWays** — [30th Celebration Mini Tin (Random Art)](https://anixways.com/product/30th-celebration-mini-tin-random-art/) — 25.90€
 - **AnixWays** — [30th Celebration Poster Collection](https://anixways.com/product/30th-celebration-poster-collection/) — 44.90€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.1](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1) — 15.50€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.3](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-3) — 16.00€
@@ -99,10 +98,10 @@
 - **SenhorGato** — [TCG Pokémon - 30th Anniversary First Partner Series 2 - Chinese](https://lojasenhorgato.pt/products/tcg-pokemon-30th-anniversary-first-partner-series-2-chinese) — 15.00€
 - **SenhorGato** — [TCG Pokémon - 30th Anniversary First Partner Series 3 - Chinese](https://lojasenhorgato.pt/products/tcg-pokemon-30th-anniversary-first-partner-series-3-chinese) — 15.00€
 - **TCGFamily** — [Pokémon TCG 30th Anniversary Celebration Booster Box Chinese Ver](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver) — 126.00€
-- **TCGFamily** — [Pokémon TCG 30th Anniversary Celebration Coin Set CHINESE Ver.](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-coin-set-chinese-ver) — 24.00€
+- **TCGFamily** — [Pokémon TCG 30th Anniversary Celebration Coin Set CHINESE Ver.](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-coin-set-chinese-ver) — 22.00€
 - **TCGFamily** — [Pokémon TCG 30th Anniversary Celebration Greninja EX Card Display Set Chinese Ver.](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-greninja-ex-card-display-set-chinese-ver) — 37.00€
 - **TCGFamily** — [Pokémon TCG 30th Anniversary Celebration Sylveon EX Card Display Set Chinese Ver.](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-sylveon-ex-card-display-set-chinese-ver) — 37.00€
-- **TCGFamily** — [Pokémon TCG – 30th Anniversary Dream Painting Pikachu Figure Set Blind Box (Simplified Chinese)](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese) — 37.00€
+- **TCGFamily** — [Pokémon TCG – 30th Anniversary Dream Painting Pikachu Figure Set Blind Box (Simplified Chinese)](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese) — 34.00€
 - **TemplarsArena** — [30th Celebration Booster Bundle](https://templarsarena.com/products/30th-celebration-booster-bundle) — 85.00€
 - **TemplarsArena** — [30th Celebration Elite Trainer Box](https://templarsarena.com/products/30th-celebration-elite-trainer-box) — 159.90€
 - **TemplarsArena** — [30th Celebration Mini Tin (Random)](https://templarsarena.com/products/30th-celebration-mini-tin-random) — 25.00€
