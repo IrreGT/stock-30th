@@ -33,7 +33,7 @@
    "url": "https://ajogar.com/products/pkm-30-exboxgreninja"
   },
   "https://ajogar.com/products/pkm-30-exboxsylveon": {
-   "available": false,
+   "available": true,
    "domain": "ajogar.com",
    "price": "44.99",
    "store": "AJogar",
@@ -480,14 +480,6 @@
    "title": "Pokémon 30th Celebration Tech Sticker Collection Lucario",
    "url": "https://brokards.com/products/pokemon-30th-celebration-tech-sticker-collection-lucario"
   },
-  "https://byulverse.eu/en/products/trading-card-games/pokemon-tcg/30th-celebration": {
-   "available": null,
-   "domain": "byulverse.eu",
-   "price": null,
-   "store": "Byulverse",
-   "title": "30th Celebration",
-   "url": "https://byulverse.eu/en/products/trading-card-games/pokemon-tcg/30th-celebration"
-  },
   "https://charbinder.com/products/pokemon-tcg-30th-anniversary-first-partner-card-set-vol-1-cn": {
    "available": true,
    "domain": "charbinder.com",
@@ -495,14 +487,6 @@
    "store": "Charbinder",
    "title": "Pokémon TCG 30th Anniversary First Partner Card Set Vol. 1 (CN)",
    "url": "https://charbinder.com/products/pokemon-tcg-30th-anniversary-first-partner-card-set-vol-1-cn"
-  },
-  "https://conbini.pt/product/37813-pokemon-tcg-30th-celebration-mini-tin-english-1-mini-tin-aleatoria-196214146273": {
-   "available": null,
-   "domain": "conbini.pt",
-   "price": null,
-   "store": "Conbini",
-   "title": "Pokémon TCG - 30th Celebration Mini Tin English - 1 Mini Tin Aleatória",
-   "url": "https://conbini.pt/product/37813-pokemon-tcg-30th-celebration-mini-tin-english-1-mini-tin-aleatoria-196214146273"
   },
   "https://diver.pt/pt/pkm-boosters/105984-pkm-30th-celebration-tech-sticker-collection.html": {
    "available": false,
@@ -591,6 +575,14 @@
    "store": "Gatorcards",
    "title": "30th Celebration Greninja Ex Tin",
    "url": "https://gatorcards.pt/products/30th-celebration-greninja-ex-tin"
+  },
+  "https://gatorcards.pt/products/30th-celebration-mini-tin": {
+   "available": false,
+   "domain": "gatorcards.pt",
+   "price": "20.00",
+   "store": "Gatorcards",
+   "title": "30th Celebration Mini Tin",
+   "url": "https://gatorcards.pt/products/30th-celebration-mini-tin"
   },
   "https://gatorcards.pt/products/30th-celebration-poster-collection": {
    "available": false,
@@ -1969,7 +1961,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-09 23:53 UTC",
+ "last_run": "2026-10-10 04:55 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
@@ -1977,7 +1969,7 @@
   "arkay.pt": "html:/search?q={q}",
   "biridama.pt": "shopify",
   "brokards.com": "shopify",
-  "byulverse.eu": "html:/search?q={q}",
+  "byulverse.eu": "error",
   "cardfever.pt": "error",
   "centroxogo.pt": "error",
   "charbinder.com": "shopify",

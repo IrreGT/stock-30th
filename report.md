@@ -1,26 +1,26 @@
-# Estado do monitor — 2026-10-09 23:53 UTC
+# Estado do monitor — 2026-10-10 04:55 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
-| [AJogar](https://ajogar.com) | shopify | 12 | 0 |  |
+| [AJogar](https://ajogar.com) | shopify | 12 | 1 |  |
 | [AnixWays](https://anixways.com) | woo | 26 | 1 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 1 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 13 | 4 |  |
 | [Brokards](https://brokards.com) | shopify | 9 | 0 |  |
-| [Byulverse](https://byulverse.eu) | html:/search?q={q} | 1 | 0 |  |
+| [Byulverse](https://byulverse.eu) | error | 0 | 0 |  |
 | [CardFever](https://cardfever.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [CentroXogo](https://centroxogo.pt) | error | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='centroxogo.pt', port=443): Read timed out. (read timeout=20) |
 | [Charbinder](https://charbinder.com) | shopify | 1 | 1 |  |
 | [Colecionar](https://colecionar.pt) | error | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
-| [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 1 | 0 |  |
+| [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [Continente](https://continente.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Diver](https://diver.pt) | presta | 1 | 0 |  |
 | [DrawPhase](https://drawphase.pt) | shopify | 0 | 0 |  |
 | [Drawstep](https://drawstep.com) | shopify | 5 | 0 |  |
 | [El Corte Inglés](https://elcorteingles.pt) | error | 0 | 0 |  |
-| [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 |  |
-| [Gatorcards](https://gatorcards.pt) | shopify | 7 | 1 |  |
+| [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 | ConnectTimeout: HTTPSConnectionPool(host='games-island.eu', port=443): Max retries exceeded with url: /products.json?limit=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='games-island.eu', por |
+| [Gatorcards](https://gatorcards.pt) | shopify | 8 | 1 |  |
 | [Geekhaven](https://geekhaven.pt) | shopify | 13 | 0 |  |
 | [GgLounge](https://gglounge.pt) | error | 0 | 0 |  |
 | [GM Cards & Toys](https://gmcardsandtoys.com) | shopify | 0 | 0 |  |
@@ -55,7 +55,7 @@
 | [Shop4Nerds](https://shop4nerds.pt) | error | 0 | 0 |  |
 | [Stickerpoint](https://stickerpoint.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [TCGFamily](https://tcg-family.com) | shopify | 6 | 5 |  |
-| [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 6 | 0 |  |
+| [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [TemplarsArena](https://templarsarena.com) | shopify | 13 | 6 |  |
 | [The Kanto Market](https://thekantomarket.com) | shopify | 0 | 0 |  |
 | [Totobayshop](https://totobayshop.com) | shopify | 9 | 0 |  |
@@ -69,6 +69,7 @@
 
 ## Produtos com stock agora
 
+- **AJogar** — [Pokemon 30th Celebration Ex Box - Sylveon, English Edition](https://ajogar.com/products/pkm-30-exboxsylveon) — 44.99€
 - **AnixWays** — [30th Celebration Poster Collection](https://anixways.com/product/30th-celebration-poster-collection/) — 44.90€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.1](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1) — 15.50€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.3](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-3) — 16.00€
