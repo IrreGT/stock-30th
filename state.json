@@ -105,7 +105,7 @@
    "url": "https://anixways.com/product/30th-celebration-2-pack-blister-eevee/"
   },
   "https://anixways.com/product/30th-celebration-booster-bundle/": {
-   "available": false,
+   "available": true,
    "domain": "anixways.com",
    "price": "79.90",
    "store": "AnixWays",
@@ -185,7 +185,7 @@
    "url": "https://anixways.com/product/30th-celebration-mewtwo-figure-collection/"
   },
   "https://anixways.com/product/30th-celebration-mini-tin-random-art/": {
-   "available": false,
+   "available": true,
    "domain": "anixways.com",
    "price": "25.90",
    "store": "AnixWays",
@@ -479,6 +479,14 @@
    "store": "Charbinder",
    "title": "Pokémon TCG 30th Anniversary First Partner Card Set Vol. 1 (CN)",
    "url": "https://charbinder.com/products/pokemon-tcg-30th-anniversary-first-partner-card-set-vol-1-cn"
+  },
+  "https://conbini.pt/product/37813-pokemon-tcg-30th-celebration-mini-tin-english-1-mini-tin-aleatoria-196214146273": {
+   "available": null,
+   "domain": "conbini.pt",
+   "price": null,
+   "store": "Conbini",
+   "title": "Pokémon TCG - 30th Celebration Mini Tin English - 1 Mini Tin Aleatória",
+   "url": "https://conbini.pt/product/37813-pokemon-tcg-30th-celebration-mini-tin-english-1-mini-tin-aleatoria-196214146273"
   },
   "https://diver.pt/pt/pkm-boosters/105984-pkm-30th-celebration-tech-sticker-collection.html": {
    "available": false,
@@ -816,14 +824,6 @@
    "title": "PROMOÇÃO Pokémon 30th Celebration Poster Collection",
    "url": "https://lootlab.pt/p/pokemon-30th-celebration-poster-collection"
   },
-  "https://lotusvalley.pt/produto/30th-celebration-ditto-premium-collection/": {
-   "available": true,
-   "domain": "lotusvalley.pt",
-   "price": "120.00",
-   "store": "LotusValley",
-   "title": "30th Celebration Ditto Premium Collection",
-   "url": "https://lotusvalley.pt/produto/30th-celebration-ditto-premium-collection/"
-  },
   "https://lotusvalley.pt/produto/30th-celebration-espeon-ex-battle-deck/": {
    "available": true,
    "domain": "lotusvalley.pt",
@@ -904,6 +904,14 @@
    "title": "Pokémon TCG: 30th Celebration – Blister 2 Boosters Eevee",
    "url": "https://oportogg.com/products/pokemon-tcg-30th-celebration-blister-2-boosters-eevee"
   },
+  "https://oportogg.com/products/pokemon-tcg-30th-celebration-booster-bundle-6-boosters-en": {
+   "available": true,
+   "domain": "oportogg.com",
+   "price": "75.00",
+   "store": "OPortoGG",
+   "title": "Pokémon TCG: 30th Celebration – Booster Bundle (6 Boosters) (EN)",
+   "url": "https://oportogg.com/products/pokemon-tcg-30th-celebration-booster-bundle-6-boosters-en"
+  },
   "https://oportogg.com/products/pokemon-tcg-30th-celebration-elite-trainer-box": {
    "available": false,
    "domain": "oportogg.com",
@@ -927,6 +935,14 @@
    "store": "OPortoGG",
    "title": "Pokémon TCG: 30th Celebration – Greninja ex Tin",
    "url": "https://oportogg.com/products/pokemon-tcg-30th-celebration-greninja-ex-tin"
+  },
+  "https://oportogg.com/products/pokemon-tcg-30th-celebration-mini-tin-en": {
+   "available": true,
+   "domain": "oportogg.com",
+   "price": "25.00",
+   "store": "OPortoGG",
+   "title": "Pokémon TCG: 30th Celebration – Mini Tin (EN) Aleatório",
+   "url": "https://oportogg.com/products/pokemon-tcg-30th-celebration-mini-tin-en"
   },
   "https://oportogg.com/products/pokemon-tcg-30th-celebration-poster-collection": {
    "available": false,
@@ -1600,14 +1616,6 @@
    "title": "Pokémon TCG 30th Celebration Elite Trainer Box English",
    "url": "https://venturacardgames.com/products/pokemon-tcg-30th-celebration-elite-trainer-box-english"
   },
-  "https://www.arkay.pt/product-page/30th-anniversary-first-partner-special-card-set-series-1": {
-   "available": null,
-   "domain": "arkay.pt",
-   "price": null,
-   "store": "Arkay",
-   "title": "30th ANNIVERSARY - FIRST PARTNER SPECIAL CARD SET - SERIES 1 Preço normal 22,50 € Preço promocional 18,00 €",
-   "url": "https://www.arkay.pt/product-page/30th-anniversary-first-partner-special-card-set-series-1"
-  },
   "https://www.mysticmirage.shop/30th-celebration/": {
    "available": true,
    "domain": "mysticmirage.shop",
@@ -1713,7 +1721,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-10 11:01 UTC",
+ "last_run": "2026-10-10 16:14 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",

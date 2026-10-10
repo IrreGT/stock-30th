@@ -1,11 +1,11 @@
-# Estado do monitor — 2026-10-10 11:01 UTC
+# Estado do monitor — 2026-10-10 16:14 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
 | [AJogar](https://ajogar.com) | shopify | 12 | 0 |  |
-| [AnixWays](https://anixways.com) | woo | 26 | 1 |  |
-| [Arkay](https://arkay.pt) | html:/search?q={q} | 1 | 0 |  |
+| [AnixWays](https://anixways.com) | woo | 26 | 3 |  |
+| [Arkay](https://arkay.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 12 | 4 |  |
 | [Brokards](https://brokards.com) | shopify | 9 | 0 |  |
 | [Byulverse](https://byulverse.eu) | error | 0 | 0 |  |
@@ -13,7 +13,7 @@
 | [CentroXogo](https://centroxogo.pt) | error | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='centroxogo.pt', port=443): Read timed out. (read timeout=20) |
 | [Charbinder](https://charbinder.com) | shopify | 1 | 1 |  |
 | [Colecionar](https://colecionar.pt) | error | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
-| [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
+| [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 1 | 0 |  |
 | [Continente](https://continente.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Diver](https://diver.pt) | presta | 1 | 0 |  |
 | [DrawPhase](https://drawphase.pt) | shopify | 0 | 0 |  |
@@ -30,7 +30,7 @@
 | [LojaDosPops](https://lojadospops.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [LootLab](https://lootlab.pt) | html:/search?q={q} | 4 | 0 |  |
 | [LostForgeStore](https://lostforgestore.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
-| [LotusValley](https://lotusvalley.pt) | woo | 5 | 5 |  |
+| [LotusValley](https://lotusvalley.pt) | woo | 4 | 4 |  |
 | [ManaTCG](https://manatcg.com) | shopify | 5 | 0 |  |
 | [ManaVault](https://manavault.pt) | shopify | 0 | 0 |  |
 | [MasterPacks](https://masterpacks.pt) | html:/search?q={q} | 0 | 0 |  |
@@ -39,7 +39,7 @@
 | [MyPopMania](https://mypopmania.pt) | html:/pesquisa?controller=search&s={q} | 0 | 0 |  |
 | [MysticMirage](https://mysticmirage.shop) | html:/search?q={q} | 2 | 1 |  |
 | [OhliCards](https://ohlicards.pt) | woo | 11 | 6 |  |
-| [OPortoGG](https://oportogg.com) | shopify | 7 | 0 |  |
+| [OPortoGG](https://oportogg.com) | shopify | 9 | 2 |  |
 | [Packpoint](https://packpoint.pt) | shopify | 0 | 0 |  |
 | [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 |  |
 | [Papelinho](https://papelinho.pt) | presta | 0 | 0 |  |
@@ -49,8 +49,8 @@
 | [PressStart](https://pressstart.pt) | error | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
 | [Psydeck](https://psydeck.com) | shopify | 10 | 0 |  |
 | [PTMerch](https://ptmerch.com) | error | 0 | 0 |  |
-| [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
-| [Rota151](https://rota151.pt) | woo | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='rota151.pt', port=443): Read timed out. (read timeout=20) |
+| [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 |  |
+| [Rota151](https://rota151.pt) | woo | 9 | 1 |  |
 | [SenhorGato](https://lojasenhorgato.pt) | shopify | 6 | 4 |  |
 | [Shop4Nerds](https://shop4nerds.pt) | error | 0 | 0 |  |
 | [Stickerpoint](https://stickerpoint.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
@@ -69,6 +69,8 @@
 
 ## Produtos com stock agora
 
+- **AnixWays** — [30th Celebration Booster Bundle](https://anixways.com/product/30th-celebration-booster-bundle/) — 79.90€
+- **AnixWays** — [30th Celebration Mini Tin (Random Art)](https://anixways.com/product/30th-celebration-mini-tin-random-art/) — 25.90€
 - **AnixWays** — [30th Celebration Poster Collection](https://anixways.com/product/30th-celebration-poster-collection/) — 44.90€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.1](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1) — 15.50€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.3](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-3) — 16.00€
@@ -80,12 +82,13 @@
 - **God of Cards** — [Pokemon 30th Anniversary Celebration Partner Card Set Vol. 1 S-Chinesisch](https://godofcards.com/products/pokemon-30th-anniversary-celebration-partner-card-set-vol-1-s-chinesisch) — 13.95€
 - **IberianCard** — [Break Pokémon 30th Anniversary – First Partner Vol. 1 (Chinês Simplificado)](https://iberiancard.com/products/break-pokemon-30th-anniversary-first-partner-vol-1-chines-simplificado) — 14.90€
 - **IberianCard** — [Pokémon 30th Anniversary – First Partner Vol. 1 (Chinês Simplificado)](https://iberiancard.com/products/pokemon-30th-anniversary-first-partner-vol-1-chines-simplificado) — 14.90€
-- **LotusValley** — [30th Celebration Ditto Premium Collection](https://lotusvalley.pt/produto/30th-celebration-ditto-premium-collection/) — 120.00€
 - **LotusValley** — [30th Celebration Mew Figure Collection](https://lotusvalley.pt/produto/30th-celebration-mew-figure-collection/) — 100.00€
 - **LotusValley** — [30th Celebration Mewtwo Figure Collection](https://lotusvalley.pt/produto/30th-celebration-mewtwo-figure-collection/) — 100.00€
 - **LotusValley** — [30th Celebration:  Umbreon ex Battle Deck](https://lotusvalley.pt/produto/30th-celebration-umbreon-ex-battle-deck/) — 50.00€
 - **LotusValley** — [30th Celebration: Espeon ex Battle Deck](https://lotusvalley.pt/produto/30th-celebration-espeon-ex-battle-deck/) — 50.00€
 - **MysticMirage** — [30th Celebration](https://www.mysticmirage.shop/30th-celebration/)
+- **OPortoGG** — [Pokémon TCG: 30th Celebration – Booster Bundle (6 Boosters) (EN)](https://oportogg.com/products/pokemon-tcg-30th-celebration-booster-bundle-6-boosters-en) — 75.00€
+- **OPortoGG** — [Pokémon TCG: 30th Celebration – Mini Tin (EN) Aleatório](https://oportogg.com/products/pokemon-tcg-30th-celebration-mini-tin-en) — 25.00€
 - **OhliCards** — [Pokémon 30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.1](https://www.ohlicards.pt/produto/pokemon-30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1/) — 16.99€
 - **OhliCards** — [Pokémon 30th Celebration – Booster Pack (Japonês)](https://www.ohlicards.pt/produto/pokemon-30th-celebration-booster-pack-japones/) — 17.99€
 - **OhliCards** — [Pokémon 30th Celebration – Greninja EX Box](https://www.ohlicards.pt/produto/pokemon-30th-celebration-greninja-ex-box/) — 64.99€
