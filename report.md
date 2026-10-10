@@ -1,11 +1,11 @@
-# Estado do monitor — 2026-10-10 20:10 UTC
+# Estado do monitor — 2026-10-10 23:34 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
 | [AJogar](https://ajogar.com) | shopify | 12 | 0 |  |
 | [AnixWays](https://anixways.com) | woo | 26 | 3 |  |
-| [Arkay](https://arkay.pt) | html:/search?q={q} | 0 | 0 |  |
+| [Arkay](https://arkay.pt) | html:/search?q={q} | 1 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 12 | 4 |  |
 | [Brokards](https://brokards.com) | shopify | 9 | 0 |  |
 | [Byulverse](https://byulverse.eu) | error | 0 | 0 |  |
@@ -19,7 +19,7 @@
 | [DrawPhase](https://drawphase.pt) | shopify | 0 | 0 |  |
 | [Drawstep](https://drawstep.com) | shopify | 5 | 0 |  |
 | [El Corte Inglés](https://elcorteingles.pt) | error | 0 | 0 |  |
-| [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 | ConnectTimeout: HTTPSConnectionPool(host='games-island.eu', port=443): Max retries exceeded with url: /products.json?limit=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='games-island.eu', por |
+| [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 |  |
 | [Gatorcards](https://gatorcards.pt) | shopify | 8 | 1 |  |
 | [Geekhaven](https://geekhaven.pt) | shopify | 13 | 0 |  |
 | [GgLounge](https://gglounge.pt) | error | 0 | 0 |  |
@@ -42,9 +42,9 @@
 | [OPortoGG](https://oportogg.com) | shopify | 9 | 2 |  |
 | [Packpoint](https://packpoint.pt) | shopify | 0 | 0 |  |
 | [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 |  |
-| [Papelinho](https://papelinho.pt) | presta | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='papelinho.pt', port=443): Read timed out. (read timeout=20) |
+| [Papelinho](https://papelinho.pt) | presta | 0 | 0 |  |
 | [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 2 | 0 |  |
-| [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 30 | 0 |  |
+| [PokeboxStore](https://pokeboxstore.pt) | error | 0 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 8 | 0 |  |
 | [PressStart](https://pressstart.pt) | error | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
 | [Psydeck](https://psydeck.com) | shopify | 10 | 0 |  |
@@ -54,8 +54,8 @@
 | [SenhorGato](https://lojasenhorgato.pt) | shopify | 6 | 4 |  |
 | [Shop4Nerds](https://shop4nerds.pt) | error | 0 | 0 |  |
 | [Stickerpoint](https://stickerpoint.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
-| [TCGFamily](https://tcg-family.com) | shopify | 6 | 5 |  |
-| [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
+| [TCGFamily](https://tcg-family.com) | shopify | 6 | 3 |  |
+| [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 6 | 0 |  |
 | [TemplarsArena](https://templarsarena.com) | shopify | 13 | 6 |  |
 | [The Kanto Market](https://thekantomarket.com) | shopify | 0 | 0 |  |
 | [Totobayshop](https://totobayshop.com) | shopify | 9 | 0 |  |
@@ -87,8 +87,8 @@
 - **LotusValley** — [30th Celebration:  Umbreon ex Battle Deck](https://lotusvalley.pt/produto/30th-celebration-umbreon-ex-battle-deck/) — 50.00€
 - **LotusValley** — [30th Celebration: Espeon ex Battle Deck](https://lotusvalley.pt/produto/30th-celebration-espeon-ex-battle-deck/) — 50.00€
 - **MysticMirage** — [30th Celebration](https://www.mysticmirage.shop/30th-celebration/)
-- **OPortoGG** — [Pokémon TCG: 30th Celebration – Booster Bundle (6 Boosters) (EN)](https://oportogg.com/products/pokemon-tcg-30th-celebration-booster-bundle-6-boosters-en) — 70.00€
-- **OPortoGG** — [Pokémon TCG: 30th Celebration – Mini Tin (EN) Aleatório](https://oportogg.com/products/pokemon-tcg-30th-celebration-mini-tin-en) — 23.00€
+- **OPortoGG** — [Pokémon TCG: 30th Celebration – Booster Bundle (6 Boosters) (EN)](https://oportogg.com/products/pokemon-tcg-30th-celebration-booster-bundle-6-boosters-en) — 75.00€
+- **OPortoGG** — [Pokémon TCG: 30th Celebration – Mini Tin (EN) Aleatório](https://oportogg.com/products/pokemon-tcg-30th-celebration-mini-tin-en) — 25.00€
 - **OhliCards** — [Pokémon 30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.1](https://www.ohlicards.pt/produto/pokemon-30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1/) — 16.99€
 - **OhliCards** — [Pokémon 30th Celebration – Booster Pack (Japonês)](https://www.ohlicards.pt/produto/pokemon-30th-celebration-booster-pack-japones/) — 17.99€
 - **OhliCards** — [Pokémon 30th Celebration – Greninja EX Box](https://www.ohlicards.pt/produto/pokemon-30th-celebration-greninja-ex-box/) — 64.99€
@@ -102,8 +102,6 @@
 - **SenhorGato** — [TCG Pokémon - 30th Anniversary First Partner Series 3 - Chinese](https://lojasenhorgato.pt/products/tcg-pokemon-30th-anniversary-first-partner-series-3-chinese) — 15.00€
 - **TCGFamily** — [Pokémon TCG 30th Anniversary Celebration Booster Box Chinese Ver](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver) — 126.00€
 - **TCGFamily** — [Pokémon TCG 30th Anniversary Celebration Coin Set CHINESE Ver.](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-coin-set-chinese-ver) — 22.00€
-- **TCGFamily** — [Pokémon TCG 30th Anniversary Celebration Greninja EX Card Display Set Chinese Ver.](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-greninja-ex-card-display-set-chinese-ver) — 37.00€
-- **TCGFamily** — [Pokémon TCG 30th Anniversary Celebration Sylveon EX Card Display Set Chinese Ver.](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-sylveon-ex-card-display-set-chinese-ver) — 37.00€
 - **TCGFamily** — [Pokémon TCG – 30th Anniversary Dream Painting Pikachu Figure Set Blind Box (Simplified Chinese)](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese) — 34.00€
 - **TemplarsArena** — [30th Celebration Booster Bundle](https://templarsarena.com/products/30th-celebration-booster-bundle) — 85.00€
 - **TemplarsArena** — [30th Celebration Elite Trainer Box](https://templarsarena.com/products/30th-celebration-elite-trainer-box) — 159.90€
