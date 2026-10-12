@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-10-12 02:33 UTC
+# Estado do monitor — 2026-10-12 09:41 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [GM Cards & Toys](https://gmcardsandtoys.com) | shopify | 0 | 0 |  |
 | [God of Cards](https://godofcards.com) | shopify | 2 | 2 |  |
 | [IberianCard](https://iberiancard.com) | shopify | 2 | 2 |  |
-| [Kaissa](https://kaissa.gr) | error | 0 | 0 |  |
+| [Kaissa](https://kaissa.gr) | html:/?s={q}&post_type=product | 1 | 0 |  |
 | [LojaDosPops](https://lojadospops.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [LootLab](https://lootlab.pt) | html:/search?q={q} | 4 | 0 |  |
 | [LostForgeStore](https://lostforgestore.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
@@ -44,7 +44,7 @@
 | [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 |  |
 | [Papelinho](https://papelinho.pt) | presta | 0 | 0 |  |
 | [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 2 | 0 |  |
-| [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 30 | 0 |  |
+| [PokeboxStore](https://pokeboxstore.pt) | error | 0 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 8 | 0 |  |
 | [PressStart](https://pressstart.pt) | error | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
 | [Psydeck](https://psydeck.com) | shopify | 10 | 0 |  |
