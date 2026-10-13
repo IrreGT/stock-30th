@@ -873,7 +873,7 @@
    "url": "https://oportogg.com/products/pokemon-tcg-30th-celebration-blister-2-boosters-eevee"
   },
   "https://oportogg.com/products/pokemon-tcg-30th-celebration-booster-bundle-6-boosters-en": {
-   "available": true,
+   "available": false,
    "domain": "oportogg.com",
    "price": "75.00",
    "store": "OPortoGG",
@@ -1339,7 +1339,7 @@
   "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese": {
    "available": true,
    "domain": "tcg-family.com",
-   "price": "33.00",
+   "price": "34.00",
    "store": "TCGFamily",
    "title": "Pokémon TCG – 30th Anniversary Dream Painting Pikachu Figure Set Blind Box (Simplified Chinese)",
    "url": "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese"
@@ -1793,7 +1793,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-12 19:24 UTC",
+ "last_run": "2026-10-13 01:33 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
