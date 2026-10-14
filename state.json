@@ -360,6 +360,14 @@
    "title": "30th Celebration Booster Box S-Chinese",
    "url": "https://biridama.pt/products/30th-celebration-booster-box-s-chinese"
   },
+  "https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese": {
+   "available": true,
+   "domain": "biridama.pt",
+   "price": "39.50",
+   "store": "Biridama",
+   "title": "30th Celebration Card Showcase Set",
+   "url": "https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese"
+  },
   "https://biridama.pt/products/celebration-greninja-ex-tin": {
    "available": false,
    "domain": "biridama.pt",
@@ -840,6 +848,14 @@
    "title": "30th Celebration Mewtwo Figure Collection",
    "url": "https://lotusvalley.pt/produto/30th-celebration-mewtwo-figure-collection/"
   },
+  "https://lotusvalley.pt/produto/30th-celebration-mini-tin-arte-aleatoria/": {
+   "available": true,
+   "domain": "lotusvalley.pt",
+   "price": "29.90",
+   "store": "LotusValley",
+   "title": "30th Celebration Mini Tin (Arte Aleatória)",
+   "url": "https://lotusvalley.pt/produto/30th-celebration-mini-tin-arte-aleatoria/"
+  },
   "https://lotusvalley.pt/produto/30th-celebration-umbreon-ex-battle-deck/": {
    "available": true,
    "domain": "lotusvalley.pt",
@@ -927,6 +943,102 @@
    "store": "OPortoGG",
    "title": "Pokémon TCG: 30th Celebration – Sylveon ex Tin",
    "url": "https://oportogg.com/products/pokemon-tcg-30th-celebration-sylveon-ex-tin"
+  },
+  "https://pandacollecting.com/product/30th-celebration-booster-bundle/": {
+   "available": false,
+   "domain": "pandacollecting.com",
+   "price": null,
+   "store": "PandaCollecting",
+   "title": "30th Celebration Booster Bundle",
+   "url": "https://pandacollecting.com/product/30th-celebration-booster-bundle/"
+  },
+  "https://pandacollecting.com/product/30th-celebration-charizard-collectors-figure-box/": {
+   "available": false,
+   "domain": "pandacollecting.com",
+   "price": null,
+   "store": "PandaCollecting",
+   "title": "30th Celebration Charizard Collector’s Figure Box",
+   "url": "https://pandacollecting.com/product/30th-celebration-charizard-collectors-figure-box/"
+  },
+  "https://pandacollecting.com/product/30th-celebration-dream-painting-collection-pikachu-figure-set/": {
+   "available": null,
+   "domain": "pandacollecting.com",
+   "price": null,
+   "store": "PandaCollecting",
+   "title": "30th Celebration Dream Painting Collection Pikachu Figure Set",
+   "url": "https://pandacollecting.com/product/30th-celebration-dream-painting-collection-pikachu-figure-set/"
+  },
+  "https://pandacollecting.com/product/30th-celebration-mini-tin-random-tin/": {
+   "available": false,
+   "domain": "pandacollecting.com",
+   "price": null,
+   "store": "PandaCollecting",
+   "title": "30th Celebration: Mini Tin (Random Tin)",
+   "url": "https://pandacollecting.com/product/30th-celebration-mini-tin-random-tin/"
+  },
+  "https://pandacollecting.com/product/30th-celebration-simplified-chinese-booster-box/": {
+   "available": false,
+   "domain": "pandacollecting.com",
+   "price": null,
+   "store": "PandaCollecting",
+   "title": "30th Celebration Simplified Chinese Booster Box",
+   "url": "https://pandacollecting.com/product/30th-celebration-simplified-chinese-booster-box/"
+  },
+  "https://pandacollecting.com/product/30th-celebration-simplified-chinese-espeon-ex-luxury-set/": {
+   "available": true,
+   "domain": "pandacollecting.com",
+   "price": null,
+   "store": "PandaCollecting",
+   "title": "30th Celebration Simplified Chinese Espeon ex Luxury Set",
+   "url": "https://pandacollecting.com/product/30th-celebration-simplified-chinese-espeon-ex-luxury-set/"
+  },
+  "https://pandacollecting.com/product/30th-celebration-simplified-chinese-espeon-ex-umbreon-ex-gift-box/": {
+   "available": null,
+   "domain": "pandacollecting.com",
+   "price": null,
+   "store": "PandaCollecting",
+   "title": "30th Celebration Simplified Chinese Espeon ex & Umbreon ex Gift Box",
+   "url": "https://pandacollecting.com/product/30th-celebration-simplified-chinese-espeon-ex-umbreon-ex-gift-box/"
+  },
+  "https://pandacollecting.com/product/30th-celebration-simplified-chinese-greninja-ex-card-showcase-set/": {
+   "available": null,
+   "domain": "pandacollecting.com",
+   "price": null,
+   "store": "PandaCollecting",
+   "title": "30th Celebration Simplified Chinese Greninja ex Card Showcase Set",
+   "url": "https://pandacollecting.com/product/30th-celebration-simplified-chinese-greninja-ex-card-showcase-set/"
+  },
+  "https://pandacollecting.com/product/30th-celebration-simplified-chinese-sylveon-ex-card-showcase-set/": {
+   "available": null,
+   "domain": "pandacollecting.com",
+   "price": null,
+   "store": "PandaCollecting",
+   "title": "30th Celebration Simplified Chinese Sylveon ex Card Showcase Set",
+   "url": "https://pandacollecting.com/product/30th-celebration-simplified-chinese-sylveon-ex-card-showcase-set/"
+  },
+  "https://pandacollecting.com/product/30th-celebration-simplified-chinese-umbreon-ex-luxury-set/": {
+   "available": true,
+   "domain": "pandacollecting.com",
+   "price": null,
+   "store": "PandaCollecting",
+   "title": "30th Celebration Simplified Chinese Umbreon ex Luxury Set",
+   "url": "https://pandacollecting.com/product/30th-celebration-simplified-chinese-umbreon-ex-luxury-set/"
+  },
+  "https://pandacollecting.com/product/pikachu-30th-celebration-plush-key-chain/": {
+   "available": true,
+   "domain": "pandacollecting.com",
+   "price": null,
+   "store": "PandaCollecting",
+   "title": "Pikachu 30th Celebration Plush Key Chain",
+   "url": "https://pandacollecting.com/product/pikachu-30th-celebration-plush-key-chain/"
+  },
+  "https://pandacollecting.com/product/pikachu-30th-celebration-plush/": {
+   "available": true,
+   "domain": "pandacollecting.com",
+   "price": null,
+   "store": "PandaCollecting",
+   "title": "Pikachu 30th Celebration Plush",
+   "url": "https://pandacollecting.com/product/pikachu-30th-celebration-plush/"
   },
   "https://playerspot.pt/30th-anniversary-celebration-original-partner-card-set-vol1": {
    "available": false,
@@ -1331,7 +1443,7 @@
   "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver": {
    "available": true,
    "domain": "tcg-family.com",
-   "price": "126.00",
+   "price": "115.00",
    "store": "TCGFamily",
    "title": "Pokémon TCG 30th Anniversary Celebration Booster Box Chinese Ver",
    "url": "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver"
@@ -1393,11 +1505,11 @@
    "url": "https://tcghaven.pt/30th-celebration-ex-tin"
   },
   "https://tcghaven.pt/30th-celebration-mini-tins-1": {
-   "available": null,
+   "available": false,
    "domain": "tcghaven.pt",
    "price": null,
    "store": "TCGHaven",
-   "title": "30th Celebration Mini Tins | 30th",
+   "title": "Ir para 30th Celebration Mini Tins | 30th",
    "url": "https://tcghaven.pt/30th-celebration-mini-tins-1"
   },
   "https://tcghaven.pt/30th-celebration-poster-collection": {
@@ -1849,7 +1961,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-box/"
   },
   "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/": {
-   "available": true,
+   "available": false,
    "domain": "ohlicards.pt",
    "price": "64.99",
    "store": "OhliCards",
@@ -1857,7 +1969,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-13 21:21 UTC",
+ "last_run": "2026-10-14 00:30 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
@@ -1899,7 +2011,7 @@
   "ohlicards.pt": "woo",
   "oportogg.com": "shopify",
   "packpoint.pt": "shopify",
-  "pandacollecting.com": "error",
+  "pandacollecting.com": "html:/?s={q}&post_type=product",
   "papelinho.pt": "presta",
   "playerspot.pt": "html:/search?q={q}",
   "pokeboxstore.pt": "html:/?s={q}&post_type=product",

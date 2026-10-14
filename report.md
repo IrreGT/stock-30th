@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-10-13 21:21 UTC
+# Estado do monitor — 2026-10-14 00:30 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -6,7 +6,7 @@
 | [AJogar](https://ajogar.com) | shopify | 12 | 0 |  |
 | [AnixWays](https://anixways.com) | woo | 26 | 2 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 1 | 0 |  |
-| [Biridama](https://biridama.pt) | shopify | 12 | 4 |  |
+| [Biridama](https://biridama.pt) | shopify | 13 | 5 |  |
 | [Brokards](https://brokards.com) | shopify | 9 | 0 |  |
 | [Byulverse](https://byulverse.eu) | error | 0 | 0 |  |
 | [CardFever](https://cardfever.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
@@ -19,7 +19,7 @@
 | [DrawPhase](https://drawphase.pt) | shopify | 0 | 0 |  |
 | [Drawstep](https://drawstep.com) | shopify | 5 | 0 |  |
 | [El Corte Inglés](https://elcorteingles.pt) | error | 0 | 0 |  |
-| [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 | ConnectTimeout: HTTPSConnectionPool(host='games-island.eu', port=443): Max retries exceeded with url: /products.json?limit=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='games-island.eu', por |
+| [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 |  |
 | [Gatorcards](https://gatorcards.pt) | shopify | 8 | 1 |  |
 | [Geekhaven](https://geekhaven.pt) | shopify | 13 | 0 |  |
 | [GgLounge](https://gglounge.pt) | error | 0 | 0 |  |
@@ -30,7 +30,7 @@
 | [LojaDosPops](https://lojadospops.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [LootLab](https://lootlab.pt) | html:/search?q={q} | 4 | 0 |  |
 | [LostForgeStore](https://lostforgestore.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
-| [LotusValley](https://lotusvalley.pt) | woo | 4 | 4 |  |
+| [LotusValley](https://lotusvalley.pt) | woo | 5 | 5 |  |
 | [ManaTCG](https://manatcg.com) | shopify | 0 | 0 |  |
 | [ManaVault](https://manavault.pt) | shopify | 0 | 0 |  |
 | [MasterPacks](https://masterpacks.pt) | html:/search?q={q} | 0 | 0 |  |
@@ -38,12 +38,12 @@
 | [Miniversos](https://miniversos.pt) | shopify | 0 | 0 |  |
 | [MyPopMania](https://mypopmania.pt) | html:/pesquisa?controller=search&s={q} | 0 | 0 |  |
 | [MysticMirage](https://mysticmirage.shop) | html:/search?q={q} | 4 | 1 |  |
-| [OhliCards](https://ohlicards.pt) | woo | 11 | 6 |  |
+| [OhliCards](https://ohlicards.pt) | woo | 11 | 5 |  |
 | [OPortoGG](https://oportogg.com) | shopify | 9 | 2 |  |
 | [Packpoint](https://packpoint.pt) | shopify | 0 | 0 |  |
-| [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 |  |
-| [Papelinho](https://papelinho.pt) | presta | 0 | 0 |  |
-| [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 2 | 0 |  |
+| [PandaCollecting](https://pandacollecting.com) | html:/?s={q}&post_type=product | 12 | 4 |  |
+| [Papelinho](https://papelinho.pt) | presta | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='papelinho.pt', port=443): Read timed out. (read timeout=20) |
+| [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 30 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 8 | 0 |  |
 | [PressStart](https://pressstart.pt) | error | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
@@ -75,6 +75,7 @@
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.3](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-3) — 16.00€
 - **Biridama** — [30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.2](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-2) — 14.00€
 - **Biridama** — [30th Celebration Booster Box S-Chinese](https://biridama.pt/products/30th-celebration-booster-box-s-chinese) — 116.00€
+- **Biridama** — [30th Celebration Card Showcase Set](https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese) — 39.50€
 - **Charbinder** — [Pokémon TCG 30th Anniversary First Partner Card Set Vol. 1 (CN)](https://charbinder.com/products/pokemon-tcg-30th-anniversary-first-partner-card-set-vol-1-cn) — 17.90€
 - **Gatorcards** — [30th Celebration Booster Bundle](https://gatorcards.pt/products/30th-celebration-booster-bundle) — 74.00€
 - **God of Cards** — [Pokemon 30th Anniversary Celebration Partner Card Set Display Vol. 1 (8 Boxen) S-Chinesisch](https://godofcards.com/products/pokemon-30th-anniversary-celebration-partner-card-set-display-vol-1-8-boxen-s-chinesisch) — 114.95€
@@ -83,6 +84,7 @@
 - **IberianCard** — [Pokémon 30th Anniversary – First Partner Vol. 1 (Chinês Simplificado)](https://iberiancard.com/products/pokemon-30th-anniversary-first-partner-vol-1-chines-simplificado) — 14.90€
 - **LotusValley** — [30th Celebration Mew Figure Collection](https://lotusvalley.pt/produto/30th-celebration-mew-figure-collection/) — 100.00€
 - **LotusValley** — [30th Celebration Mewtwo Figure Collection](https://lotusvalley.pt/produto/30th-celebration-mewtwo-figure-collection/) — 100.00€
+- **LotusValley** — [30th Celebration Mini Tin (Arte Aleatória)](https://lotusvalley.pt/produto/30th-celebration-mini-tin-arte-aleatoria/) — 29.90€
 - **LotusValley** — [30th Celebration:  Umbreon ex Battle Deck](https://lotusvalley.pt/produto/30th-celebration-umbreon-ex-battle-deck/) — 50.00€
 - **LotusValley** — [30th Celebration: Espeon ex Battle Deck](https://lotusvalley.pt/produto/30th-celebration-espeon-ex-battle-deck/) — 50.00€
 - **MercadiaGames** — [Pokemon – 30th Celebration – Simplified Chinese Booster Box (20 Boosters)](https://mercadiagames.pt/produto/pokemon-30th-celebration-simplified-chinese-booster-box-20-boosters/) — 149.90€
@@ -94,12 +96,15 @@
 - **OhliCards** — [Pokémon 30th Celebration – Greninja EX Box](https://www.ohlicards.pt/produto/pokemon-30th-celebration-greninja-ex-box/) — 64.99€
 - **OhliCards** — [Pokémon 30th Celebration – Mini Tin (Aleatório)](https://www.ohlicards.pt/produto/pokemon-30th-celebration-mini-tin-aleatorio/) — 27.99€
 - **OhliCards** — [Pokémon 30th Celebration – Poster Collection](https://www.ohlicards.pt/produto/pokemon-30th-celebration-poster-collection/) — 59.99€
-- **OhliCards** — [Pokémon 30th Celebration – Sylveon EX Tin](https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/) — 64.99€
+- **PandaCollecting** — [30th Celebration Simplified Chinese Espeon ex Luxury Set](https://pandacollecting.com/product/30th-celebration-simplified-chinese-espeon-ex-luxury-set/)
+- **PandaCollecting** — [30th Celebration Simplified Chinese Umbreon ex Luxury Set](https://pandacollecting.com/product/30th-celebration-simplified-chinese-umbreon-ex-luxury-set/)
+- **PandaCollecting** — [Pikachu 30th Celebration Plush](https://pandacollecting.com/product/pikachu-30th-celebration-plush/)
+- **PandaCollecting** — [Pikachu 30th Celebration Plush Key Chain](https://pandacollecting.com/product/pikachu-30th-celebration-plush-key-chain/)
 - **SenhorGato** — [Pokémon TCG - 30th Anniversary Dream Painting Figure - Chinês](https://lojasenhorgato.pt/products/pokemon-tcg-30th-anniversary-dream-painting-figure-chines-pre-reserva) — 35.00€
 - **SenhorGato** — [TCG Pokémon - 30th Anniversary First Partner Series 1 - Chinese](https://lojasenhorgato.pt/products/tcg-pokemon-30th-anniversary-first-partner-series-1-chinese) — 15.00€
 - **SenhorGato** — [TCG Pokémon - 30th Anniversary First Partner Series 2 - Chinese](https://lojasenhorgato.pt/products/tcg-pokemon-30th-anniversary-first-partner-series-2-chinese) — 15.00€
 - **SenhorGato** — [TCG Pokémon - 30th Anniversary First Partner Series 3 - Chinese](https://lojasenhorgato.pt/products/tcg-pokemon-30th-anniversary-first-partner-series-3-chinese) — 15.00€
-- **TCGFamily** — [Pokémon TCG 30th Anniversary Celebration Booster Box Chinese Ver](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver) — 126.00€
+- **TCGFamily** — [Pokémon TCG 30th Anniversary Celebration Booster Box Chinese Ver](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver) — 115.00€
 - **TCGFamily** — [Pokémon TCG 30th Anniversary Celebration Booster break CH](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-break-ch) — 6.00€
 - **TCGFamily** — [Pokémon TCG 30th Anniversary Celebration Coin Set CHINESE Ver.](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-coin-set-chinese-ver) — 22.00€
 - **TCGFamily** — [Pokémon TCG – 30th Anniversary Dream Painting Pikachu Figure Set Blind Box (Simplified Chinese)](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese) — 34.00€
