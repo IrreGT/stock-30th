@@ -816,14 +816,6 @@
    "title": "PROMOÇÃO Pokémon 30th Celebration Poster Collection",
    "url": "https://lootlab.pt/p/pokemon-30th-celebration-poster-collection"
   },
-  "https://lotusvalley.pt/produto/30th-celebration-booster-bundle/": {
-   "available": true,
-   "domain": "lotusvalley.pt",
-   "price": "94.90",
-   "store": "LotusValley",
-   "title": "30th Celebration Booster Bundle",
-   "url": "https://lotusvalley.pt/produto/30th-celebration-booster-bundle/"
-  },
   "https://lotusvalley.pt/produto/30th-celebration-espeon-ex-battle-deck/": {
    "available": true,
    "domain": "lotusvalley.pt",
@@ -847,14 +839,6 @@
    "store": "LotusValley",
    "title": "30th Celebration Mewtwo Figure Collection",
    "url": "https://lotusvalley.pt/produto/30th-celebration-mewtwo-figure-collection/"
-  },
-  "https://lotusvalley.pt/produto/30th-celebration-mini-tin-arte-aleatoria/": {
-   "available": true,
-   "domain": "lotusvalley.pt",
-   "price": "29.90",
-   "store": "LotusValley",
-   "title": "30th Celebration Mini Tin (Arte Aleatória)",
-   "url": "https://lotusvalley.pt/produto/30th-celebration-mini-tin-arte-aleatoria/"
   },
   "https://lotusvalley.pt/produto/30th-celebration-umbreon-ex-battle-deck/": {
    "available": true,
@@ -881,7 +865,7 @@
    "url": "https://oportogg.com/products/pokemon-tcg-30th-celebration-blister-2-boosters-eevee"
   },
   "https://oportogg.com/products/pokemon-tcg-30th-celebration-booster-bundle-6-boosters-en": {
-   "available": true,
+   "available": false,
    "domain": "oportogg.com",
    "price": "75.00",
    "store": "OPortoGG",
@@ -1040,6 +1024,14 @@
    "title": "30th Celebration Booster Bundle",
    "url": "https://psydeck.com/products/30th-celebration-booster-bundle"
   },
+  "https://psydeck.com/products/30th-celebration-ditto-premium-collection": {
+   "available": false,
+   "domain": "psydeck.com",
+   "price": "105.00",
+   "store": "Psydeck",
+   "title": "30th Celebration Ditto Premium Collection",
+   "url": "https://psydeck.com/products/30th-celebration-ditto-premium-collection"
+  },
   "https://psydeck.com/products/30th-celebration-elite-trainer-box": {
    "available": false,
    "domain": "psydeck.com",
@@ -1063,6 +1055,22 @@
    "store": "Psydeck",
    "title": "30th Celebration ex Box Sylveon ex",
    "url": "https://psydeck.com/products/30th-celebration-ex-box-sylveon-ex"
+  },
+  "https://psydeck.com/products/30th-celebration-mew-figure-collection": {
+   "available": false,
+   "domain": "psydeck.com",
+   "price": "85.00",
+   "store": "Psydeck",
+   "title": "30th Celebration Mew Figure Collection",
+   "url": "https://psydeck.com/products/30th-celebration-mew-figure-collection"
+  },
+  "https://psydeck.com/products/30th-celebration-mewtwo-figure-collection-copy": {
+   "available": false,
+   "domain": "psydeck.com",
+   "price": "85.00",
+   "store": "Psydeck",
+   "title": "30th Celebration Mewtwo Figure Collection",
+   "url": "https://psydeck.com/products/30th-celebration-mewtwo-figure-collection-copy"
   },
   "https://psydeck.com/products/30th-celebration-mini-tin-day": {
    "available": false,
@@ -1096,13 +1104,21 @@
    "title": "30th Celebration Tech Sticker Collection Alolan Exeggutor",
    "url": "https://psydeck.com/products/30th-celebration-tech-sticker-collection-alolan-exeggutor"
   },
-  "https://psydeck.com/products/30th-celebration-tech-sticker-collection-lucario": {
+  "https://psydeck.com/products/30th-celebration-ultra-premium-collection-day": {
    "available": false,
    "domain": "psydeck.com",
-   "price": "30.00",
+   "price": "370.00",
    "store": "Psydeck",
-   "title": "30th Celebration Tech Sticker Collection Lucario",
-   "url": "https://psydeck.com/products/30th-celebration-tech-sticker-collection-lucario"
+   "title": "30th Celebration Ultra-Premium Collection Day",
+   "url": "https://psydeck.com/products/30th-celebration-ultra-premium-collection-day"
+  },
+  "https://psydeck.com/products/30th-celebration-ultra-premium-collection-night": {
+   "available": false,
+   "domain": "psydeck.com",
+   "price": "370.00",
+   "store": "Psydeck",
+   "title": "30th Celebration Ultra-Premium Collection Night",
+   "url": "https://psydeck.com/products/30th-celebration-ultra-premium-collection-night"
   },
   "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver": {
    "available": true,
@@ -1197,7 +1213,7 @@
    "domain": "templarsarena.com",
    "price": "85.00",
    "store": "TemplarsArena",
-   "title": "30th Celebration Booster Bundle",
+   "title": "30th Celebration Booster Bundle - English",
    "url": "https://templarsarena.com/products/30th-celebration-booster-bundle"
   },
   "https://templarsarena.com/products/30th-celebration-elite-trainer-box": {
@@ -1287,6 +1303,14 @@
    "store": "TemplarsArena",
    "title": "Pokémon TCG: 30th Celebration Ultra-Premium Collection—Night (Umbreon)",
    "url": "https://templarsarena.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon"
+  },
+  "https://templarsarena.com/products/pokemon-tcg-first-partner-30th-anniversary-display-vol-3-simplified-chinese": {
+   "available": false,
+   "domain": "templarsarena.com",
+   "price": "16.00",
+   "store": "TemplarsArena",
+   "title": "Pokémon TCG – First Partner 30th Anniversary – Vol. 3 – Simplified Chinese",
+   "url": "https://templarsarena.com/products/pokemon-tcg-first-partner-30th-anniversary-display-vol-3-simplified-chinese"
   },
   "https://totobayshop.com/products/30th-celebration-elite-trainer-box": {
    "available": false,
@@ -1633,7 +1657,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-14 15:22 UTC",
+ "last_run": "2026-10-14 19:36 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
