@@ -1,18 +1,18 @@
-# Estado do monitor — 2026-10-14 10:21 UTC
+# Estado do monitor — 2026-10-14 15:22 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
-| [AJogar](https://ajogar.com) | shopify | 12 | 2 |  |
+| [AJogar](https://ajogar.com) | shopify | 12 | 0 |  |
 | [AnixWays](https://anixways.com) | woo | 26 | 2 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 1 | 0 |  |
-| [Biridama](https://biridama.pt) | shopify | 13 | 5 |  |
+| [Biridama](https://biridama.pt) | shopify | 12 | 5 |  |
 | [Brokards](https://brokards.com) | shopify | 9 | 0 |  |
 | [Byulverse](https://byulverse.eu) | error | 0 | 0 |  |
 | [CardFever](https://cardfever.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [CentroXogo](https://centroxogo.pt) | error | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='centroxogo.pt', port=443): Read timed out. (read timeout=20) |
 | [Charbinder](https://charbinder.com) | shopify | 1 | 1 |  |
-| [Colecionar](https://colecionar.pt) | error | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
+| [Colecionar](https://colecionar.pt) | error | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='colecionar.pt', port=443): Read timed out. (read timeout=20) |
 | [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [Continente](https://continente.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Diver](https://diver.pt) | presta | 1 | 0 |  |
@@ -49,7 +49,7 @@
 | [PressStart](https://pressstart.pt) | error | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
 | [Psydeck](https://psydeck.com) | shopify | 10 | 0 |  |
 | [PTMerch](https://ptmerch.com) | error | 0 | 0 |  |
-| [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 |  |
+| [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='www.rorizlair.com', port=443): Read timed out. (read timeout=20) |
 | [Rota151](https://rota151.pt) | woo | 0 | 0 |  |
 | [SenhorGato](https://lojasenhorgato.pt) | shopify | 6 | 4 |  |
 | [Shop4Nerds](https://shop4nerds.pt) | error | 0 | 0 |  |
@@ -69,8 +69,6 @@
 
 ## Produtos com stock agora
 
-- **AJogar** — [Pokemon 30th Celebration Ex Box - Greninja, English Edition](https://ajogar.com/products/pkm-30-exboxgreninja) — 44.99€
-- **AJogar** — [Pokemon 30th Celebration Ex Box - Sylveon, English Edition](https://ajogar.com/products/pkm-30-exboxsylveon) — 44.99€
 - **AnixWays** — [30th Celebration Booster Bundle](https://anixways.com/product/30th-celebration-booster-bundle/) — 79.90€
 - **AnixWays** — [30th Celebration Poster Collection](https://anixways.com/product/30th-celebration-poster-collection/) — 44.90€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.1](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1) — 15.50€
@@ -102,10 +100,10 @@
 - **SenhorGato** — [TCG Pokémon - 30th Anniversary First Partner Series 1 - Chinese](https://lojasenhorgato.pt/products/tcg-pokemon-30th-anniversary-first-partner-series-1-chinese) — 15.00€
 - **SenhorGato** — [TCG Pokémon - 30th Anniversary First Partner Series 2 - Chinese](https://lojasenhorgato.pt/products/tcg-pokemon-30th-anniversary-first-partner-series-2-chinese) — 15.00€
 - **SenhorGato** — [TCG Pokémon - 30th Anniversary First Partner Series 3 - Chinese](https://lojasenhorgato.pt/products/tcg-pokemon-30th-anniversary-first-partner-series-3-chinese) — 15.00€
-- **TCGFamily** — [Pokémon TCG 30th Anniversary Celebration Booster Box Chinese Ver](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver) — 115.00€
+- **TCGFamily** — [Pokémon TCG 30th Anniversary Celebration Booster Box Chinese Ver](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver) — 114.00€
 - **TCGFamily** — [Pokémon TCG 30th Anniversary Celebration Booster break CH](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-break-ch) — 6.00€
 - **TCGFamily** — [Pokémon TCG 30th Anniversary Celebration Coin Set CHINESE Ver.](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-coin-set-chinese-ver) — 22.00€
-- **TCGFamily** — [Pokémon TCG – 30th Anniversary Dream Painting Pikachu Figure Set Blind Box (Simplified Chinese)](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese) — 34.00€
+- **TCGFamily** — [Pokémon TCG – 30th Anniversary Dream Painting Pikachu Figure Set Blind Box (Simplified Chinese)](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese) — 33.00€
 - **TemplarsArena** — [30th Celebration Booster Bundle](https://templarsarena.com/products/30th-celebration-booster-bundle) — 85.00€
 - **TemplarsArena** — [30th Celebration Elite Trainer Box](https://templarsarena.com/products/30th-celebration-elite-trainer-box) — 159.90€
 - **TemplarsArena** — [30th Celebration Greninja ex Tin](https://templarsarena.com/products/30th-celebration-greninja-ex-tin) — 55.00€

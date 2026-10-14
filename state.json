@@ -25,7 +25,7 @@
    "url": "https://ajogar.com/products/pkm-30-etb"
   },
   "https://ajogar.com/products/pkm-30-exboxgreninja": {
-   "available": true,
+   "available": false,
    "domain": "ajogar.com",
    "price": "44.99",
    "store": "AJogar",
@@ -33,7 +33,7 @@
    "url": "https://ajogar.com/products/pkm-30-exboxgreninja"
   },
   "https://ajogar.com/products/pkm-30-exboxsylveon": {
-   "available": true,
+   "available": false,
    "domain": "ajogar.com",
    "price": "44.99",
    "store": "AJogar",
@@ -319,14 +319,6 @@
    "store": "Biridama",
    "title": "30th Celebration: Day Mini Tin",
    "url": "https://biridama.pt/products/30-celebration-day-mini-tin"
-  },
-  "https://biridama.pt/products/30-celebration-night-mini-tin": {
-   "available": false,
-   "domain": "biridama.pt",
-   "price": "23.90",
-   "store": "Biridama",
-   "title": "30th Celebration: Night Mini Tin",
-   "url": "https://biridama.pt/products/30-celebration-night-mini-tin"
   },
   "https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1": {
    "available": true,
@@ -1115,7 +1107,7 @@
   "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver": {
    "available": true,
    "domain": "tcg-family.com",
-   "price": "115.00",
+   "price": "114.00",
    "store": "TCGFamily",
    "title": "Pokémon TCG 30th Anniversary Celebration Booster Box Chinese Ver",
    "url": "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver"
@@ -1139,7 +1131,7 @@
   "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese": {
    "available": true,
    "domain": "tcg-family.com",
-   "price": "34.00",
+   "price": "33.00",
    "store": "TCGFamily",
    "title": "Pokémon TCG – 30th Anniversary Dream Painting Pikachu Figure Set Blind Box (Simplified Chinese)",
    "url": "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese"
@@ -1181,7 +1173,7 @@
    "domain": "tcghaven.pt",
    "price": null,
    "store": "TCGHaven",
-   "title": "Ir para 30th Celebration Mini Tins | 30th",
+   "title": "30th Celebration Mini Tins | 30th",
    "url": "https://tcghaven.pt/30th-celebration-mini-tins-1"
   },
   "https://tcghaven.pt/30th-celebration-poster-collection": {
@@ -1191,6 +1183,14 @@
    "store": "TCGHaven",
    "title": "30th Celebration Poster Collection | 30th",
    "url": "https://tcghaven.pt/30th-celebration-poster-collection"
+  },
+  "https://templarsarena.com/products/30th-celebration-2-pack-blister-eevee": {
+   "available": false,
+   "domain": "templarsarena.com",
+   "price": "30.00",
+   "store": "TemplarsArena",
+   "title": "30th Celebration 2-Pack Blister Eevee",
+   "url": "https://templarsarena.com/products/30th-celebration-2-pack-blister-eevee"
   },
   "https://templarsarena.com/products/30th-celebration-booster-bundle": {
    "available": true,
@@ -1248,6 +1248,14 @@
    "title": "30th Celebration: Sylveon ex Box",
    "url": "https://templarsarena.com/products/30th-celebration-sylveon-ex-box"
   },
+  "https://templarsarena.com/products/30th-celebration-sylveon-ex-tin": {
+   "available": false,
+   "domain": "templarsarena.com",
+   "price": "55.00",
+   "store": "TemplarsArena",
+   "title": "30th Celebration Sylveon EX Tin",
+   "url": "https://templarsarena.com/products/30th-celebration-sylveon-ex-tin"
+  },
   "https://templarsarena.com/products/pokemon-30th-anniversary-first-partner-vol-3-chinese": {
    "available": false,
    "domain": "templarsarena.com",
@@ -1279,22 +1287,6 @@
    "store": "TemplarsArena",
    "title": "Pokémon TCG: 30th Celebration Ultra-Premium Collection—Night (Umbreon)",
    "url": "https://templarsarena.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon"
-  },
-  "https://templarsarena.com/products/pokemon-tcg-first-partner-30th-anniversary-display-vol-2-simplified-chinese": {
-   "available": false,
-   "domain": "templarsarena.com",
-   "price": "16.00",
-   "store": "TemplarsArena",
-   "title": "Pokémon TCG – First Partner 30th Anniversary – Vol. 2 – Simplified Chinese",
-   "url": "https://templarsarena.com/products/pokemon-tcg-first-partner-30th-anniversary-display-vol-2-simplified-chinese"
-  },
-  "https://templarsarena.com/products/pokemon-tcg-first-partner-30th-anniversary-display-vol-3-simplified-chinese": {
-   "available": false,
-   "domain": "templarsarena.com",
-   "price": "16.00",
-   "store": "TemplarsArena",
-   "title": "Pokémon TCG – First Partner 30th Anniversary – Vol. 3 – Simplified Chinese",
-   "url": "https://templarsarena.com/products/pokemon-tcg-first-partner-30th-anniversary-display-vol-3-simplified-chinese"
   },
   "https://totobayshop.com/products/30th-celebration-elite-trainer-box": {
    "available": false,
@@ -1641,7 +1633,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-14 10:21 UTC",
+ "last_run": "2026-10-14 15:22 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
