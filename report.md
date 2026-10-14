@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-10-14 00:30 UTC
+# Estado do monitor — 2026-10-14 05:18 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@
 | [OPortoGG](https://oportogg.com) | shopify | 9 | 2 |  |
 | [Packpoint](https://packpoint.pt) | shopify | 0 | 0 |  |
 | [PandaCollecting](https://pandacollecting.com) | html:/?s={q}&post_type=product | 12 | 4 |  |
-| [Papelinho](https://papelinho.pt) | presta | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='papelinho.pt', port=443): Read timed out. (read timeout=20) |
-| [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
+| [Papelinho](https://papelinho.pt) | presta | 0 | 0 |  |
+| [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 2 | 0 |  |
 | [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 30 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 8 | 0 |  |
 | [PressStart](https://pressstart.pt) | error | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
