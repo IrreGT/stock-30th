@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-10-15 19:07 UTC
+# Estado do monitor — 2026-10-15 22:15 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [LotusValley](https://lotusvalley.pt) | woo | 6 | 6 |  |
 | [ManaTCG](https://manatcg.com) | shopify | 0 | 0 |  |
 | [ManaVault](https://manavault.pt) | shopify | 0 | 0 |  |
-| [MasterPacks](https://masterpacks.pt) | html:/search?q={q} | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='masterpacks.pt', port=443): Read timed out. (read timeout=20) |
+| [MasterPacks](https://masterpacks.pt) | html:/search?q={q} | 0 | 0 |  |
 | [MercadiaGames](https://mercadiagames.pt) | woo | 1 | 1 |  |
 | [Miniversos](https://miniversos.pt) | shopify | 0 | 0 |  |
 | [MyPopMania](https://mypopmania.pt) | html:/pesquisa?controller=search&s={q} | 0 | 0 |  |
@@ -41,15 +41,15 @@
 | [OhliCards](https://ohlicards.pt) | woo | 11 | 5 |  |
 | [OPortoGG](https://oportogg.com) | shopify | 9 | 0 |  |
 | [Packpoint](https://packpoint.pt) | shopify | 0 | 0 |  |
-| [PandaCollecting](https://pandacollecting.com) | html:/?s={q}&post_type=product | 12 | 4 |  |
+| [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 |  |
 | [Papelinho](https://papelinho.pt) | presta | 0 | 0 |  |
 | [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 2 | 0 |  |
 | [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 31 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 8 | 0 |  |
 | [PressStart](https://pressstart.pt) | error | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
-| [Psydeck](https://psydeck.com) | shopify | 14 | 0 |  |
+| [Psydeck](https://psydeck.com) | shopify | 13 | 0 |  |
 | [PTMerch](https://ptmerch.com) | error | 0 | 0 |  |
-| [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 |  |
+| [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='rorizlair.com', port=443): Read timed out. (read timeout=20) |
 | [Rota151](https://rota151.pt) | woo | 0 | 0 |  |
 | [SenhorGato](https://lojasenhorgato.pt) | shopify | 6 | 4 |  |
 | [Shop4Nerds](https://shop4nerds.pt) | error | 0 | 0 |  |
@@ -74,7 +74,7 @@
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.1](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1) — 15.50€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.3](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-3) — 16.00€
 - **Biridama** — [30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.2](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-2) — 14.00€
-- **Biridama** — [30th Celebration Booster Box S-Chinese](https://biridama.pt/products/30th-celebration-booster-box-s-chinese) — 116.00€
+- **Biridama** — [30th Celebration Booster Box S-Chinese](https://biridama.pt/products/30th-celebration-booster-box-s-chinese) — 113.00€
 - **Biridama** — [30th Celebration Card Showcase Set](https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese) — 39.50€
 - **Charbinder** — [Pokémon TCG 30th Anniversary First Partner Card Set Vol. 1 (CN)](https://charbinder.com/products/pokemon-tcg-30th-anniversary-first-partner-card-set-vol-1-cn) — 17.90€
 - **Gatorcards** — [30th Celebration Booster Bundle](https://gatorcards.pt/products/30th-celebration-booster-bundle) — 74.00€
@@ -95,10 +95,6 @@
 - **OhliCards** — [Pokémon 30th Celebration – Greninja EX Box](https://www.ohlicards.pt/produto/pokemon-30th-celebration-greninja-ex-box/) — 64.99€
 - **OhliCards** — [Pokémon 30th Celebration – Mini Tin (Aleatório)](https://www.ohlicards.pt/produto/pokemon-30th-celebration-mini-tin-aleatorio/) — 27.99€
 - **OhliCards** — [Pokémon 30th Celebration – Poster Collection](https://www.ohlicards.pt/produto/pokemon-30th-celebration-poster-collection/) — 59.99€
-- **PandaCollecting** — [30th Celebration Simplified Chinese Espeon ex Luxury Set](https://pandacollecting.com/product/30th-celebration-simplified-chinese-espeon-ex-luxury-set/)
-- **PandaCollecting** — [30th Celebration Simplified Chinese Umbreon ex Luxury Set](https://pandacollecting.com/product/30th-celebration-simplified-chinese-umbreon-ex-luxury-set/)
-- **PandaCollecting** — [Pikachu 30th Celebration Plush](https://pandacollecting.com/product/pikachu-30th-celebration-plush/)
-- **PandaCollecting** — [Pikachu 30th Celebration Plush Key Chain](https://pandacollecting.com/product/pikachu-30th-celebration-plush-key-chain/)
 - **SenhorGato** — [Pokémon TCG - 30th Anniversary Dream Painting Figure - Chinês](https://lojasenhorgato.pt/products/pokemon-tcg-30th-anniversary-dream-painting-figure-chines-pre-reserva) — 35.00€
 - **SenhorGato** — [TCG Pokémon - 30th Anniversary First Partner Series 1 - Chinese](https://lojasenhorgato.pt/products/tcg-pokemon-30th-anniversary-first-partner-series-1-chinese) — 15.00€
 - **SenhorGato** — [TCG Pokémon - 30th Anniversary First Partner Series 2 - Chinese](https://lojasenhorgato.pt/products/tcg-pokemon-30th-anniversary-first-partner-series-2-chinese) — 15.00€
