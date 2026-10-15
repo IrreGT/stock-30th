@@ -56,6 +56,14 @@
    "title": "Pokemon 30th Celebration Figure Collection - Mewtwo, English Edition",
    "url": "https://ajogar.com/products/pkm-30-figuremewtwo"
   },
+  "https://ajogar.com/products/pkm-30-mini7": {
+   "available": false,
+   "domain": "ajogar.com",
+   "price": "23.99",
+   "store": "AJogar",
+   "title": "Pokemon 30th Celebration Mini Tin - Mewtwo & Scraggy, English Edition",
+   "url": "https://ajogar.com/products/pkm-30-mini7"
+  },
   "https://ajogar.com/products/pkm-30-poster": {
    "available": false,
    "domain": "ajogar.com",
@@ -63,14 +71,6 @@
    "store": "AJogar",
    "title": "Pokemon 30th Celebration Poster Collection, English Edition",
    "url": "https://ajogar.com/products/pkm-30-poster"
-  },
-  "https://ajogar.com/products/pkm-30-stickerlucario": {
-   "available": false,
-   "domain": "ajogar.com",
-   "price": "29.99",
-   "store": "AJogar",
-   "title": "Pokemon 30th Celebration Tech Sticker Collection - Lucario, English Edition",
-   "url": "https://ajogar.com/products/pkm-30-stickerlucario"
   },
   "https://ajogar.com/products/pkm-30-ultraday": {
    "available": false,
@@ -399,6 +399,14 @@
    "store": "Biridama",
    "title": "30th Celebration: Greninja ex Box",
    "url": "https://biridama.pt/products/greninja-ex-box-30th-celebration"
+  },
+  "https://biridama.pt/products/sylveon-ex-box-30th-celebration": {
+   "available": false,
+   "domain": "biridama.pt",
+   "price": "45.00",
+   "store": "Biridama",
+   "title": "30th Celebration: Sylveon ex Box",
+   "url": "https://biridama.pt/products/sylveon-ex-box-30th-celebration"
   },
   "https://brokards.com/products/pokemon-30th-celebration-booster-bundle": {
    "available": false,
@@ -1123,7 +1131,7 @@
   "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver": {
    "available": true,
    "domain": "tcg-family.com",
-   "price": "114.00",
+   "price": "115.00",
    "store": "TCGFamily",
    "title": "Pokémon TCG 30th Anniversary Celebration Booster Box Chinese Ver",
    "url": "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver"
@@ -1147,7 +1155,7 @@
   "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese": {
    "available": true,
    "domain": "tcg-family.com",
-   "price": "33.00",
+   "price": "34.00",
    "store": "TCGFamily",
    "title": "Pokémon TCG – 30th Anniversary Dream Painting Pikachu Figure Set Blind Box (Simplified Chinese)",
    "url": "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese"
@@ -1657,7 +1665,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-14 22:37 UTC",
+ "last_run": "2026-10-15 00:52 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
