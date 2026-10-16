@@ -312,13 +312,13 @@
    "title": "30th Celebration Booster Bundle",
    "url": "https://biridama.pt/products/30-celebration-booster-bundle"
   },
-  "https://biridama.pt/products/30-celebration-day-mini-tin": {
+  "https://biridama.pt/products/30-celebration-night-mini-tin": {
    "available": false,
    "domain": "biridama.pt",
    "price": "23.90",
    "store": "Biridama",
-   "title": "30th Celebration: Day Mini Tin",
-   "url": "https://biridama.pt/products/30-celebration-day-mini-tin"
+   "title": "30th Celebration: Night Mini Tin",
+   "url": "https://biridama.pt/products/30-celebration-night-mini-tin"
   },
   "https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1": {
    "available": true,
@@ -1656,6 +1656,14 @@
    "title": "30th Celebration - Sylveon ex Box",
    "url": "https://totobayshop.com/products/ascended-heroes-deluxe-pin-collection-copy"
   },
+  "https://totobayshop.com/products/tech-sticker-30th-celebration": {
+   "available": false,
+   "domain": "totobayshop.com",
+   "price": "35.99",
+   "store": "Totobayshop",
+   "title": "30th Celebration - Tech Sticker Lucario",
+   "url": "https://totobayshop.com/products/tech-sticker-30th-celebration"
+  },
   "https://triplacegames.com/pokemon-tcg-30th-celebration-2-pack-blister-eevee": {
    "available": null,
    "domain": "triplacegames.com",
@@ -1929,7 +1937,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-16 00:29 UTC",
+ "last_run": "2026-10-16 04:54 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
