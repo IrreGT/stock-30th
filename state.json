@@ -56,22 +56,6 @@
    "title": "Pokemon 30th Celebration Figure Collection - Mewtwo, English Edition",
    "url": "https://ajogar.com/products/pkm-30-figuremewtwo"
   },
-  "https://ajogar.com/products/pkm-30-mini7": {
-   "available": false,
-   "domain": "ajogar.com",
-   "price": "23.99",
-   "store": "AJogar",
-   "title": "Pokemon 30th Celebration Mini Tin - Mewtwo & Scraggy, English Edition",
-   "url": "https://ajogar.com/products/pkm-30-mini7"
-  },
-  "https://ajogar.com/products/pkm-30-poster": {
-   "available": false,
-   "domain": "ajogar.com",
-   "price": "39.99",
-   "store": "AJogar",
-   "title": "Pokemon 30th Celebration Poster Collection, English Edition",
-   "url": "https://ajogar.com/products/pkm-30-poster"
-  },
   "https://ajogar.com/products/pkm-30-ultraday": {
    "available": false,
    "domain": "ajogar.com",
@@ -91,7 +75,7 @@
   "https://ajogar.com/products/pokemon-30th-anniversary-booster-pack-of-6-cards-japanese": {
    "available": false,
    "domain": "ajogar.com",
-   "price": "15.00",
+   "price": "14.00",
    "store": "AJogar",
    "title": "Pokemon 30th Anniversary Booster Pack of 6 Cards, Japanese",
    "url": "https://ajogar.com/products/pokemon-30th-anniversary-booster-pack-of-6-cards-japanese"
@@ -312,13 +296,13 @@
    "title": "30th Celebration Booster Bundle",
    "url": "https://biridama.pt/products/30-celebration-booster-bundle"
   },
-  "https://biridama.pt/products/30-celebration-night-mini-tin": {
+  "https://biridama.pt/products/30-celebration-day-mini-tin": {
    "available": false,
    "domain": "biridama.pt",
    "price": "23.90",
    "store": "Biridama",
-   "title": "30th Celebration: Night Mini Tin",
-   "url": "https://biridama.pt/products/30-celebration-night-mini-tin"
+   "title": "30th Celebration: Day Mini Tin",
+   "url": "https://biridama.pt/products/30-celebration-day-mini-tin"
   },
   "https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1": {
    "available": true,
@@ -607,14 +591,6 @@
    "store": "Gatorcards",
    "title": "30th Celebration Sylveon Ex Tin",
    "url": "https://gatorcards.pt/products/30th-celebration-sylveon-ex-tin"
-  },
-  "https://geekhaven.pt/products/pokemon-30th-celebration-2-pack-blister": {
-   "available": false,
-   "domain": "geekhaven.pt",
-   "price": "18.00",
-   "store": "Geekhaven",
-   "title": "Pokémon 30th Celebration 2 Pack Blister",
-   "url": "https://geekhaven.pt/products/pokemon-30th-celebration-2-pack-blister"
   },
   "https://geekhaven.pt/products/pokemon-30th-celebration-booster-bundle": {
    "available": false,
@@ -1344,14 +1320,6 @@
    "title": "30th Celebration Mew Figure Collection",
    "url": "https://psydeck.com/products/30th-celebration-mew-figure-collection"
   },
-  "https://psydeck.com/products/30th-celebration-mewtwo-figure-collection-copy": {
-   "available": false,
-   "domain": "psydeck.com",
-   "price": "85.00",
-   "store": "Psydeck",
-   "title": "30th Celebration Mewtwo Figure Collection",
-   "url": "https://psydeck.com/products/30th-celebration-mewtwo-figure-collection-copy"
-  },
   "https://psydeck.com/products/30th-celebration-mini-tin-day": {
    "available": false,
    "domain": "psydeck.com",
@@ -1384,13 +1352,13 @@
    "title": "30th Celebration Tech Sticker Collection Alolan Exeggutor",
    "url": "https://psydeck.com/products/30th-celebration-tech-sticker-collection-alolan-exeggutor"
   },
-  "https://psydeck.com/products/30th-celebration-ultra-premium-collection-night": {
+  "https://psydeck.com/products/30th-celebration-tech-sticker-collection-lucario": {
    "available": false,
    "domain": "psydeck.com",
-   "price": "370.00",
+   "price": "30.00",
    "store": "Psydeck",
-   "title": "30th Celebration Ultra-Premium Collection Night",
-   "url": "https://psydeck.com/products/30th-celebration-ultra-premium-collection-night"
+   "title": "30th Celebration Tech Sticker Collection Lucario",
+   "url": "https://psydeck.com/products/30th-celebration-tech-sticker-collection-lucario"
   },
   "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver": {
    "available": true,
@@ -1471,6 +1439,14 @@
    "store": "TCGHaven",
    "title": "30th Celebration Poster Collection | 30th",
    "url": "https://tcghaven.pt/30th-celebration-poster-collection"
+  },
+  "https://templarsarena.com/products/30th-anniversary-celebration-simplified-chinese-original-partner-card-set-vol-1": {
+   "available": true,
+   "domain": "templarsarena.com",
+   "price": "22.50",
+   "store": "TemplarsArena",
+   "title": "30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.1",
+   "url": "https://templarsarena.com/products/30th-anniversary-celebration-simplified-chinese-original-partner-card-set-vol-1"
   },
   "https://templarsarena.com/products/30th-celebration-2-pack-blister-eevee": {
    "available": false,
@@ -1560,14 +1536,6 @@
    "title": "Pokémon: 30th Celebration booster",
    "url": "https://templarsarena.com/products/pokemon-30th-celebration-booster"
   },
-  "https://templarsarena.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon": {
-   "available": false,
-   "domain": "templarsarena.com",
-   "price": "190.00",
-   "store": "TemplarsArena",
-   "title": "Pokémon TCG: 30th Celebration Ultra-Premium Collection—Day (Espeon)",
-   "url": "https://templarsarena.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon"
-  },
   "https://templarsarena.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon": {
    "available": false,
    "domain": "templarsarena.com",
@@ -1575,14 +1543,6 @@
    "store": "TemplarsArena",
    "title": "Pokémon TCG: 30th Celebration Ultra-Premium Collection—Night (Umbreon)",
    "url": "https://templarsarena.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon"
-  },
-  "https://templarsarena.com/products/pokemon-tcg-first-partner-30th-anniversary-display-vol-3-simplified-chinese": {
-   "available": false,
-   "domain": "templarsarena.com",
-   "price": "16.00",
-   "store": "TemplarsArena",
-   "title": "Pokémon TCG – First Partner 30th Anniversary – Vol. 3 – Simplified Chinese",
-   "url": "https://templarsarena.com/products/pokemon-tcg-first-partner-30th-anniversary-display-vol-3-simplified-chinese"
   },
   "https://totobayshop.com/products/30th-celebration-elite-trainer-box": {
    "available": false,
@@ -1639,6 +1599,14 @@
    "store": "Totobayshop",
    "title": "30th Celebration - Tech Sticker Exeggutor",
    "url": "https://totobayshop.com/products/30th-celebration-tech-sticker-eggxecutor"
+  },
+  "https://totobayshop.com/products/30th-celebration-tin-sylveon": {
+   "available": false,
+   "domain": "totobayshop.com",
+   "price": "46.00",
+   "store": "Totobayshop",
+   "title": "30th Celebration ex Tin - Sylveon",
+   "url": "https://totobayshop.com/products/30th-celebration-tin-sylveon"
   },
   "https://totobayshop.com/products/ascended-heroes-booster-bundle": {
    "available": false,
@@ -1937,7 +1905,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-16 04:54 UTC",
+ "last_run": "2026-10-16 09:34 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
@@ -1987,7 +1955,7 @@
   "pressstart.pt": "error",
   "psydeck.com": "shopify",
   "ptmerch.com": "error",
-  "rorizlair.com": "html:/search?q={q}",
+  "rorizlair.com": "error",
   "rota151.pt": "woo",
   "shop4nerds.pt": "error",
   "stickerpoint.pt": "html:/?s={q}&post_type=product",
