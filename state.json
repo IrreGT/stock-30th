@@ -323,7 +323,7 @@
   "https://biridama.pt/products/30th-celebration-booster-box-s-chinese": {
    "available": true,
    "domain": "biridama.pt",
-   "price": "113.00",
+   "price": "108.00",
    "store": "Biridama",
    "title": "30th Celebration Booster Box S-Chinese",
    "url": "https://biridama.pt/products/30th-celebration-booster-box-s-chinese"
@@ -1384,14 +1384,6 @@
    "title": "30th Celebration Ultra-Premium Collection Day",
    "url": "https://psydeck.com/products/30th-celebration-ultra-premium-collection-day"
   },
-  "https://psydeck.com/products/30th-celebration-ultra-premium-collection-night": {
-   "available": false,
-   "domain": "psydeck.com",
-   "price": "370.00",
-   "store": "Psydeck",
-   "title": "30th Celebration Ultra-Premium Collection Night",
-   "url": "https://psydeck.com/products/30th-celebration-ultra-premium-collection-night"
-  },
   "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver": {
    "available": true,
    "domain": "tcg-family.com",
@@ -1567,14 +1559,6 @@
    "store": "TemplarsArena",
    "title": "Pokémon: 30th Celebration booster",
    "url": "https://templarsarena.com/products/pokemon-30th-celebration-booster"
-  },
-  "https://templarsarena.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon": {
-   "available": false,
-   "domain": "templarsarena.com",
-   "price": "190.00",
-   "store": "TemplarsArena",
-   "title": "Pokémon TCG: 30th Celebration Ultra-Premium Collection—Day (Espeon)",
-   "url": "https://templarsarena.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon"
   },
   "https://totobayshop.com/products/30th-celebration-elite-trainer-box": {
    "available": false,
@@ -1824,6 +1808,14 @@
    "title": "Pokémon TCG 30th Celebration Elite Trainer Box English",
    "url": "https://venturacardgames.com/products/pokemon-tcg-30th-celebration-elite-trainer-box-english"
   },
+  "https://www.arkay.pt/product-page/30th-anniversary-first-partner-special-card-set-series-1": {
+   "available": null,
+   "domain": "arkay.pt",
+   "price": null,
+   "store": "Arkay",
+   "title": "30th ANNIVERSARY - FIRST PARTNER SPECIAL CARD SET - SERIES 1 Preço normal 22,50 € Preço promocional 18,00 €",
+   "url": "https://www.arkay.pt/product-page/30th-anniversary-first-partner-special-card-set-series-1"
+  },
   "https://www.mysticmirage.shop/30th-celebration/": {
    "available": null,
    "domain": "mysticmirage.shop",
@@ -1945,7 +1937,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-17 14:06 UTC",
+ "last_run": "2026-10-17 17:07 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
