@@ -656,6 +656,14 @@
    "title": "Pokémon 30th Celebration Figure Collection Mewtwo",
    "url": "https://geekhaven.pt/products/pokemon-30th-celebration-figure-collection-mewtwo"
   },
+  "https://geekhaven.pt/products/pokemon-30th-celebration-mini-tin-night": {
+   "available": false,
+   "domain": "geekhaven.pt",
+   "price": "18.00",
+   "store": "Geekhaven",
+   "title": "Pokémon 30th Celebration Mini Tin Night",
+   "url": "https://geekhaven.pt/products/pokemon-30th-celebration-mini-tin-night"
+  },
   "https://geekhaven.pt/products/pokemon-30th-celebration-poster-collection": {
    "available": false,
    "domain": "geekhaven.pt",
@@ -1360,14 +1368,6 @@
    "title": "30th Celebration Poster Collection",
    "url": "https://psydeck.com/products/30th-celebration-poster-collection-2"
   },
-  "https://psydeck.com/products/30th-celebration-tech-sticker-collection-alolan-exeggutor": {
-   "available": false,
-   "domain": "psydeck.com",
-   "price": "30.00",
-   "store": "Psydeck",
-   "title": "30th Celebration Tech Sticker Collection Alolan Exeggutor",
-   "url": "https://psydeck.com/products/30th-celebration-tech-sticker-collection-alolan-exeggutor"
-  },
   "https://psydeck.com/products/30th-celebration-tech-sticker-collection-lucario": {
    "available": false,
    "domain": "psydeck.com",
@@ -1383,6 +1383,14 @@
    "store": "Psydeck",
    "title": "30th Celebration Ultra-Premium Collection Day",
    "url": "https://psydeck.com/products/30th-celebration-ultra-premium-collection-day"
+  },
+  "https://psydeck.com/products/30th-celebration-ultra-premium-collection-night": {
+   "available": false,
+   "domain": "psydeck.com",
+   "price": "370.00",
+   "store": "Psydeck",
+   "title": "30th Celebration Ultra-Premium Collection Night",
+   "url": "https://psydeck.com/products/30th-celebration-ultra-premium-collection-night"
   },
   "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver": {
    "available": true,
@@ -1945,7 +1953,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-17 21:38 UTC",
+ "last_run": "2026-10-17 23:26 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
