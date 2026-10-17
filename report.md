@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-10-17 17:07 UTC
+# Estado do monitor — 2026-10-17 19:22 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 30 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 9 | 1 |  |
 | [PressStart](https://pressstart.pt) | error | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
-| [Psydeck](https://psydeck.com) | shopify | 14 | 0 |  |
+| [Psydeck](https://psydeck.com) | shopify | 15 | 0 |  |
 | [PTMerch](https://ptmerch.com) | error | 0 | 0 |  |
 | [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 |  |
 | [Rota151](https://rota151.pt) | woo | 0 | 0 |  |
@@ -56,7 +56,7 @@
 | [Stickerpoint](https://stickerpoint.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [TCGFamily](https://tcg-family.com) | shopify | 4 | 4 |  |
 | [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 6 | 0 |  |
-| [TemplarsArena](https://templarsarena.com) | shopify | 12 | 8 |  |
+| [TemplarsArena](https://templarsarena.com) | shopify | 13 | 8 |  |
 | [The Kanto Market](https://thekantomarket.com) | shopify | 0 | 0 |  |
 | [Totobayshop](https://totobayshop.com) | shopify | 11 | 0 |  |
 | [ToysRUsPT](https://toysrus.pt) | error | 0 | 0 |  |

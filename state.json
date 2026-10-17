@@ -1384,6 +1384,14 @@
    "title": "30th Celebration Ultra-Premium Collection Day",
    "url": "https://psydeck.com/products/30th-celebration-ultra-premium-collection-day"
   },
+  "https://psydeck.com/products/30th-celebration-ultra-premium-collection-night": {
+   "available": false,
+   "domain": "psydeck.com",
+   "price": "370.00",
+   "store": "Psydeck",
+   "title": "30th Celebration Ultra-Premium Collection Night",
+   "url": "https://psydeck.com/products/30th-celebration-ultra-premium-collection-night"
+  },
   "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver": {
    "available": true,
    "domain": "tcg-family.com",
@@ -1559,6 +1567,14 @@
    "store": "TemplarsArena",
    "title": "Pokémon: 30th Celebration booster",
    "url": "https://templarsarena.com/products/pokemon-30th-celebration-booster"
+  },
+  "https://templarsarena.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon": {
+   "available": false,
+   "domain": "templarsarena.com",
+   "price": "190.00",
+   "store": "TemplarsArena",
+   "title": "Pokémon TCG: 30th Celebration Ultra-Premium Collection—Day (Espeon)",
+   "url": "https://templarsarena.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon"
   },
   "https://totobayshop.com/products/30th-celebration-elite-trainer-box": {
    "available": false,
@@ -1937,7 +1953,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-17 17:07 UTC",
+ "last_run": "2026-10-17 19:22 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
