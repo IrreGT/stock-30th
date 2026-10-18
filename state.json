@@ -56,14 +56,6 @@
    "title": "Pokemon 30th Celebration Figure Collection - Mewtwo, English Edition",
    "url": "https://ajogar.com/products/pkm-30-figuremewtwo"
   },
-  "https://ajogar.com/products/pkm-30-stickerlucario": {
-   "available": false,
-   "domain": "ajogar.com",
-   "price": "29.99",
-   "store": "AJogar",
-   "title": "Pokemon 30th Celebration Tech Sticker Collection - Lucario, English Edition",
-   "url": "https://ajogar.com/products/pkm-30-stickerlucario"
-  },
   "https://ajogar.com/products/pkm-30-ultraday": {
    "available": false,
    "domain": "ajogar.com",
@@ -664,14 +656,6 @@
    "title": "Pokémon 30th Celebration Figure Collection Mewtwo",
    "url": "https://geekhaven.pt/products/pokemon-30th-celebration-figure-collection-mewtwo"
   },
-  "https://geekhaven.pt/products/pokemon-30th-celebration-mini-tin-night": {
-   "available": false,
-   "domain": "geekhaven.pt",
-   "price": "18.00",
-   "store": "Geekhaven",
-   "title": "Pokémon 30th Celebration Mini Tin Night",
-   "url": "https://geekhaven.pt/products/pokemon-30th-celebration-mini-tin-night"
-  },
   "https://geekhaven.pt/products/pokemon-30th-celebration-poster-collection": {
    "available": false,
    "domain": "geekhaven.pt",
@@ -848,6 +832,14 @@
    "title": "30th Celebration: Espeon ex Battle Deck",
    "url": "https://lotusvalley.pt/produto/30th-celebration-espeon-ex-battle-deck/"
   },
+  "https://lotusvalley.pt/produto/30th-celebration-greninja-ex-box/": {
+   "available": true,
+   "domain": "lotusvalley.pt",
+   "price": "69.90",
+   "store": "LotusValley",
+   "title": "30th Celebration Greninja ex Box",
+   "url": "https://lotusvalley.pt/produto/30th-celebration-greninja-ex-box/"
+  },
   "https://lotusvalley.pt/produto/30th-celebration-mew-figure-collection/": {
    "available": true,
    "domain": "lotusvalley.pt",
@@ -872,6 +864,22 @@
    "title": "30th Celebration Mini Tin (Arte Aleatória)",
    "url": "https://lotusvalley.pt/produto/30th-celebration-mini-tin-arte-aleatoria/"
   },
+  "https://lotusvalley.pt/produto/30th-celebration-poster-collection/": {
+   "available": true,
+   "domain": "lotusvalley.pt",
+   "price": "44.90",
+   "store": "LotusValley",
+   "title": "30th Celebration Poster Collection",
+   "url": "https://lotusvalley.pt/produto/30th-celebration-poster-collection/"
+  },
+  "https://lotusvalley.pt/produto/30th-celebration-sylveon-ex-box/": {
+   "available": true,
+   "domain": "lotusvalley.pt",
+   "price": "69.90",
+   "store": "LotusValley",
+   "title": "30th Celebration: Sylveon ex Box",
+   "url": "https://lotusvalley.pt/produto/30th-celebration-sylveon-ex-box/"
+  },
   "https://lotusvalley.pt/produto/30th-celebration-umbreon-ex-battle-deck/": {
    "available": true,
    "domain": "lotusvalley.pt",
@@ -879,6 +887,14 @@
    "store": "LotusValley",
    "title": "30th Celebration:  Umbreon ex Battle Deck",
    "url": "https://lotusvalley.pt/produto/30th-celebration-umbreon-ex-battle-deck/"
+  },
+  "https://lotusvalley.pt/produto/30th-celebration/": {
+   "available": true,
+   "domain": "lotusvalley.pt",
+   "price": "149.90",
+   "store": "LotusValley",
+   "title": "30th Celebration Elite Trainer Box",
+   "url": "https://lotusvalley.pt/produto/30th-celebration/"
   },
   "https://mercadiagames.pt/produto/pokemon-30th-celebration-simplified-chinese-booster-box-20-boosters/": {
    "available": true,
@@ -1961,7 +1977,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-18 06:25 UTC",
+ "last_run": "2026-10-18 11:35 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
