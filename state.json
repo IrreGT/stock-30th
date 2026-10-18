@@ -472,14 +472,6 @@
    "title": "Pokémon TCG 30th Anniversary First Partner Card Set Vol. 1 (CN)",
    "url": "https://charbinder.com/products/pokemon-tcg-30th-anniversary-first-partner-card-set-vol-1-cn"
   },
-  "https://diver.pt/pt/pkm-boosters/105984-pkm-30th-celebration-tech-sticker-collection.html": {
-   "available": false,
-   "domain": "diver.pt",
-   "price": "29,99 €",
-   "store": "Diver",
-   "title": "PKM 30th Celebration Tech Sticker Collection",
-   "url": "https://diver.pt/pt/pkm-boosters/105984-pkm-30th-celebration-tech-sticker-collection.html"
-  },
   "https://drawstep.com/products/pkm-30th-anniversary-poster-collection": {
    "available": false,
    "domain": "drawstep.com",
@@ -895,14 +887,6 @@
    "store": "LotusValley",
    "title": "30th Celebration Elite Trainer Box",
    "url": "https://lotusvalley.pt/produto/30th-celebration/"
-  },
-  "https://mercadiagames.pt/produto/pokemon-30th-celebration-simplified-chinese-booster-box-20-boosters/": {
-   "available": true,
-   "domain": "mercadiagames.pt",
-   "price": "149.90",
-   "store": "MercadiaGames",
-   "title": "Pokemon – 30th Celebration – Simplified Chinese Booster Box (20 Boosters)",
-   "url": "https://mercadiagames.pt/produto/pokemon-30th-celebration-simplified-chinese-booster-box-20-boosters/"
   },
   "https://oportogg.com/products/pokemon-tcg-30th-celebration-blister-2-boosters-eevee": {
    "available": false,
@@ -1977,7 +1961,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-18 21:54 UTC",
+ "last_run": "2026-10-18 23:59 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
@@ -2024,7 +2008,7 @@
   "playerspot.pt": "html:/search?q={q}",
   "pokeboxstore.pt": "html:/?s={q}&post_type=product",
   "pokelotas.com": "shopify",
-  "pressstart.pt": "error",
+  "pressstart.pt": "html:/search?q={q}",
   "psydeck.com": "shopify",
   "ptmerch.com": "error",
   "rorizlair.com": "html:/search?q={q}",
