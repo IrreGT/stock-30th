@@ -56,6 +56,14 @@
    "title": "Pokemon 30th Celebration Figure Collection - Mewtwo, English Edition",
    "url": "https://ajogar.com/products/pkm-30-figuremewtwo"
   },
+  "https://ajogar.com/products/pkm-30-stickerlucario": {
+   "available": false,
+   "domain": "ajogar.com",
+   "price": "29.99",
+   "store": "AJogar",
+   "title": "Pokemon 30th Celebration Tech Sticker Collection - Lucario, English Edition",
+   "url": "https://ajogar.com/products/pkm-30-stickerlucario"
+  },
   "https://ajogar.com/products/pkm-30-ultraday": {
    "available": false,
    "domain": "ajogar.com",
@@ -1384,6 +1392,14 @@
    "title": "30th Celebration Ultra-Premium Collection Day",
    "url": "https://psydeck.com/products/30th-celebration-ultra-premium-collection-day"
   },
+  "https://psydeck.com/products/30th-celebration-ultra-premium-collection-night": {
+   "available": false,
+   "domain": "psydeck.com",
+   "price": "370.00",
+   "store": "Psydeck",
+   "title": "30th Celebration Ultra-Premium Collection Night",
+   "url": "https://psydeck.com/products/30th-celebration-ultra-premium-collection-night"
+  },
   "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver": {
    "available": true,
    "domain": "tcg-family.com",
@@ -1945,7 +1961,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-18 01:25 UTC",
+ "last_run": "2026-10-18 06:25 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
