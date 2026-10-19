@@ -296,6 +296,14 @@
    "title": "30th Celebration Booster Bundle",
    "url": "https://biridama.pt/products/30-celebration-booster-bundle"
   },
+  "https://biridama.pt/products/30-celebration-day-mini-tin": {
+   "available": false,
+   "domain": "biridama.pt",
+   "price": "23.90",
+   "store": "Biridama",
+   "title": "30th Celebration: Day Mini Tin",
+   "url": "https://biridama.pt/products/30-celebration-day-mini-tin"
+  },
   "https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1": {
    "available": true,
    "domain": "biridama.pt",
@@ -351,14 +359,6 @@
    "store": "Biridama",
    "title": "30th Celebration Poster Collection",
    "url": "https://biridama.pt/products/celebration-poster-collection"
-  },
-  "https://biridama.pt/products/celebration-sylveon-ex-tin": {
-   "available": false,
-   "domain": "biridama.pt",
-   "price": "47.90",
-   "store": "Biridama",
-   "title": "30th Celebration Sylveon ex Tin",
-   "url": "https://biridama.pt/products/celebration-sylveon-ex-tin"
   },
   "https://biridama.pt/products/etb-30th-celebration": {
    "available": false,
@@ -471,6 +471,14 @@
    "store": "Charbinder",
    "title": "Pokémon TCG 30th Anniversary First Partner Card Set Vol. 1 (CN)",
    "url": "https://charbinder.com/products/pokemon-tcg-30th-anniversary-first-partner-card-set-vol-1-cn"
+  },
+  "https://diver.pt/pt/pkm-boosters/105984-pkm-30th-celebration-tech-sticker-collection.html": {
+   "available": false,
+   "domain": "diver.pt",
+   "price": "29,99 €",
+   "store": "Diver",
+   "title": "PKM 30th Celebration Tech Sticker Collection",
+   "url": "https://diver.pt/pt/pkm-boosters/105984-pkm-30th-celebration-tech-sticker-collection.html"
   },
   "https://drawstep.com/products/pkm-30th-anniversary-poster-collection": {
    "available": false,
@@ -887,6 +895,14 @@
    "store": "LotusValley",
    "title": "30th Celebration Elite Trainer Box",
    "url": "https://lotusvalley.pt/produto/30th-celebration/"
+  },
+  "https://mercadiagames.pt/produto/pokemon-30th-celebration-simplified-chinese-booster-box-20-boosters/": {
+   "available": true,
+   "domain": "mercadiagames.pt",
+   "price": "149.90",
+   "store": "MercadiaGames",
+   "title": "Pokemon – 30th Celebration – Simplified Chinese Booster Box (20 Boosters)",
+   "url": "https://mercadiagames.pt/produto/pokemon-30th-celebration-simplified-chinese-booster-box-20-boosters/"
   },
   "https://oportogg.com/products/pokemon-tcg-30th-celebration-blister-2-boosters-eevee": {
    "available": false,
@@ -1961,7 +1977,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-18 23:59 UTC",
+ "last_run": "2026-10-19 04:27 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
