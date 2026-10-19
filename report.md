@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-10-19 04:27 UTC
+# Estado do monitor — 2026-10-19 10:11 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -8,11 +8,11 @@
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 1 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 12 | 5 |  |
 | [Brokards](https://brokards.com) | shopify | 9 | 0 |  |
-| [Byulverse](https://byulverse.eu) | html:/search?q={q} | 1 | 0 |  |
+| [Byulverse](https://byulverse.eu) | error | 0 | 0 |  |
 | [CardFever](https://cardfever.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [CentroXogo](https://centroxogo.pt) | error | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='centroxogo.pt', port=443): Read timed out. (read timeout=20) |
 | [Charbinder](https://charbinder.com) | shopify | 1 | 1 |  |
-| [Colecionar](https://colecionar.pt) | error | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
+| [Colecionar](https://colecionar.pt) | error | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='colecionar.pt', port=443): Read timed out. (read timeout=20) |
 | [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [Continente](https://continente.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Diver](https://diver.pt) | presta | 1 | 0 |  |
@@ -21,7 +21,7 @@
 | [El Corte Inglés](https://elcorteingles.pt) | error | 0 | 0 |  |
 | [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 |  |
 | [Gatorcards](https://gatorcards.pt) | shopify | 8 | 1 |  |
-| [Geekhaven](https://geekhaven.pt) | shopify | 12 | 0 |  |
+| [Geekhaven](https://geekhaven.pt) | shopify | 13 | 0 |  |
 | [GgLounge](https://gglounge.pt) | error | 0 | 0 |  |
 | [GM Cards & Toys](https://gmcardsandtoys.com) | shopify | 0 | 0 |  |
 | [God of Cards](https://godofcards.com) | shopify | 2 | 2 |  |
@@ -44,7 +44,7 @@
 | [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 |  |
 | [Papelinho](https://papelinho.pt) | presta | 0 | 0 |  |
 | [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 2 | 0 |  |
-| [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 30 | 0 |  |
+| [PokeboxStore](https://pokeboxstore.pt) | error | 0 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 9 | 1 |  |
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
 | [Psydeck](https://psydeck.com) | shopify | 14 | 0 |  |
@@ -55,12 +55,12 @@
 | [Shop4Nerds](https://shop4nerds.pt) | error | 0 | 0 |  |
 | [Stickerpoint](https://stickerpoint.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [TCGFamily](https://tcg-family.com) | shopify | 4 | 4 |  |
-| [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
+| [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='tcghaven.pt', port=443): Read timed out. (read timeout=20) |
 | [TemplarsArena](https://templarsarena.com) | shopify | 13 | 8 |  |
 | [The Kanto Market](https://thekantomarket.com) | shopify | 0 | 0 |  |
 | [Totobayshop](https://totobayshop.com) | shopify | 11 | 0 |  |
 | [ToysRUsPT](https://toysrus.pt) | error | 0 | 0 |  |
-| [TriplaceGames](https://triplacegames.com) | html:/search?q={q} | 9 | 0 |  |
+| [TriplaceGames](https://triplacegames.com) | html:/search?q={q} | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='www.triplacegames.com', port=443): Read timed out. (read timeout=20) |
 | [UntradableStore](https://untradablestore.com) | shopify | 10 | 0 |  |
 | [VenturaCardGames](https://venturacardgames.com) | shopify | 1 | 1 |  |
 | [VersusGameCenter](https://versusgamecenter.pt) | shopify | 0 | 0 |  |
