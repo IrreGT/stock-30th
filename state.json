@@ -1145,7 +1145,7 @@
    "url": "https://pokeboxstore.pt/produto/booster-pack-30th-anniversary-celebration-chines/"
   },
   "https://pokeboxstore.pt/produto/booster-pack-30th-anniversary-celebration/": {
-   "available": null,
+   "available": false,
    "domain": "pokeboxstore.pt",
    "price": null,
    "store": "PokeboxStore",
@@ -1545,7 +1545,7 @@
    "url": "https://tcghaven.pt/30th-celebration-2-pack-blister-eng"
   },
   "https://tcghaven.pt/30th-celebration-booster-bundle-eng-1": {
-   "available": false,
+   "available": null,
    "domain": "tcghaven.pt",
    "price": null,
    "store": "TCGHaven",
@@ -2057,7 +2057,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-20 15:11 UTC",
+ "last_run": "2026-10-20 19:22 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
@@ -2065,7 +2065,7 @@
   "arkay.pt": "html:/search?q={q}",
   "biridama.pt": "shopify",
   "brokards.com": "shopify",
-  "byulverse.eu": "error",
+  "byulverse.eu": "html:/search?q={q}",
   "cardfever.pt": "error",
   "centroxogo.pt": "error",
   "charbinder.com": "shopify",
