@@ -1,13 +1,13 @@
-# Estado do monitor — 2026-10-19 21:30 UTC
+# Estado do monitor — 2026-10-20 00:36 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
 | [AJogar](https://ajogar.com) | shopify | 12 | 0 |  |
-| [AnixWays](https://anixways.com) | woo | 0 | 0 |  |
+| [AnixWays](https://anixways.com) | woo | 26 | 7 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 1 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 13 | 4 |  |
-| [Brokards](https://brokards.com) | shopify | 9 | 0 |  |
+| [Brokards](https://brokards.com) | shopify | 10 | 0 |  |
 | [Byulverse](https://byulverse.eu) | error | 0 | 0 |  |
 | [CardFever](https://cardfever.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [CentroXogo](https://centroxogo.pt) | error | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='centroxogo.pt', port=443): Read timed out. (read timeout=20) |
@@ -19,7 +19,7 @@
 | [DrawPhase](https://drawphase.pt) | shopify | 0 | 0 |  |
 | [Drawstep](https://drawstep.com) | shopify | 7 | 0 |  |
 | [El Corte Inglés](https://elcorteingles.pt) | error | 0 | 0 |  |
-| [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 | ConnectTimeout: HTTPSConnectionPool(host='games-island.eu', port=443): Max retries exceeded with url: /products.json?limit=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='games-island.eu', por |
+| [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 |  |
 | [Gatorcards](https://gatorcards.pt) | shopify | 8 | 1 |  |
 | [Geekhaven](https://geekhaven.pt) | shopify | 13 | 0 |  |
 | [GgLounge](https://gglounge.pt) | woo | 0 | 0 |  |
@@ -44,12 +44,12 @@
 | [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 |  |
 | [Papelinho](https://papelinho.pt) | presta | 0 | 0 |  |
 | [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 2 | 0 |  |
-| [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 30 | 0 |  |
+| [PokeboxStore](https://pokeboxstore.pt) | error | 0 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 9 | 1 |  |
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
 | [Psydeck](https://psydeck.com) | shopify | 13 | 1 |  |
 | [PTMerch](https://ptmerch.com) | error | 0 | 0 |  |
-| [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 |  |
+| [RorizLair](https://rorizlair.com) | error | 0 | 0 |  |
 | [Rota151](https://rota151.pt) | woo | 0 | 0 |  |
 | [SenhorGato](https://lojasenhorgato.pt) | shopify | 6 | 4 |  |
 | [Shop4Nerds](https://shop4nerds.pt) | error | 0 | 0 |  |
@@ -69,6 +69,13 @@
 
 ## Produtos com stock agora
 
+- **AnixWays** — [30th Celebration Booster Bundle](https://anixways.com/product/30th-celebration-booster-bundle/) — 71.90€
+- **AnixWays** — [30th Celebration Poster Collection](https://anixways.com/product/30th-celebration-poster-collection/) — 44.90€
+- **AnixWays** — [30th Celebration: Ditto Premium Collection](https://anixways.com/product/30th-celebration-ditto-premium-collection/) — 105.00€
+- **AnixWays** — [30th Celebration: Espeon EX Battle Deck](https://anixways.com/product/30th-celebration-espeon-ex-battle-deck/) — 40.00€
+- **AnixWays** — [30th Celebration: Mew Figure Collection](https://anixways.com/product/30th-celebration-mew-figure-collection/) — 90.00€
+- **AnixWays** — [30th Celebration: Mewtwo Figure Collection](https://anixways.com/product/30th-celebration-mewtwo-figure-collection/) — 90.00€
+- **AnixWays** — [30th Celebration: Umbreon EX Battle Deck](https://anixways.com/product/30th-celebration-umbreon-ex-battle-deck/) — 40.00€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.1](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1) — 15.50€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.3](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-3) — 16.00€
 - **Biridama** — [30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.2](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-2) — 14.00€
