@@ -19,7 +19,7 @@
   "https://ajogar.com/products/pkm-30-etb": {
    "available": false,
    "domain": "ajogar.com",
-   "price": "149.99",
+   "price": "169.99",
    "store": "AJogar",
    "title": "Pokemon 30th Celebration Elite Trainer Box, English Edition",
    "url": "https://ajogar.com/products/pkm-30-etb"
@@ -39,6 +39,14 @@
    "store": "AJogar",
    "title": "Pokemon 30th Celebration Ex Box - Sylveon, English Edition",
    "url": "https://ajogar.com/products/pkm-30-exboxsylveon"
+  },
+  "https://ajogar.com/products/pkm-30-extinsylveon": {
+   "available": false,
+   "domain": "ajogar.com",
+   "price": "39.99",
+   "store": "AJogar",
+   "title": "Pokemon 30th Celebration Ex Tin - Sylveon, English Edition",
+   "url": "https://ajogar.com/products/pkm-30-extinsylveon"
   },
   "https://ajogar.com/products/pkm-30-figuremew": {
    "available": false,
@@ -91,7 +99,7 @@
   "https://ajogar.com/products/pokemon-30th-anniversary-booster-pack-of-6-cards-japanese": {
    "available": false,
    "domain": "ajogar.com",
-   "price": "12.00",
+   "price": "11.00",
    "store": "AJogar",
    "title": "Pokemon 30th Anniversary Booster Pack of 6 Cards, Japanese",
    "url": "https://ajogar.com/products/pokemon-30th-anniversary-booster-pack-of-6-cards-japanese"
@@ -495,6 +503,14 @@
    "store": "Charbinder",
    "title": "Pokémon TCG 30th Anniversary First Partner Card Set Vol. 1 (CN)",
    "url": "https://charbinder.com/products/pokemon-tcg-30th-anniversary-first-partner-card-set-vol-1-cn"
+  },
+  "https://diver.pt/pt/pkm-boosters/105984-pkm-30th-celebration-tech-sticker-collection.html": {
+   "available": false,
+   "domain": "diver.pt",
+   "price": "29,99 €",
+   "store": "Diver",
+   "title": "PKM 30th Celebration Tech Sticker Collection",
+   "url": "https://diver.pt/pt/pkm-boosters/105984-pkm-30th-celebration-tech-sticker-collection.html"
   },
   "https://drawstep.com/products/pkm-30th-anniversary-poster-collection": {
    "available": false,
@@ -920,6 +936,62 @@
    "title": "30th Celebration Elite Trainer Box",
    "url": "https://lotusvalley.pt/produto/30th-celebration/"
   },
+  "https://mercadiagames.pt/produto/30th-celebration-dream-painting-collection-pikachu-figure-set-simplified-chinese/": {
+   "available": true,
+   "domain": "mercadiagames.pt",
+   "price": "34.90",
+   "store": "MercadiaGames",
+   "title": "30th Celebration – Dream Painting Collection Pikachu Figure Set – Simplified Chinese",
+   "url": "https://mercadiagames.pt/produto/30th-celebration-dream-painting-collection-pikachu-figure-set-simplified-chinese/"
+  },
+  "https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-espeon-ex-luxury-set/": {
+   "available": true,
+   "domain": "mercadiagames.pt",
+   "price": "49.90",
+   "store": "MercadiaGames",
+   "title": "30th Celebration Simplified Chinese Espeon ex Deluxe Deck Set",
+   "url": "https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-espeon-ex-luxury-set/"
+  },
+  "https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-espeon-ex-umbreon-ex-gift-box/": {
+   "available": true,
+   "domain": "mercadiagames.pt",
+   "price": "249.90",
+   "store": "MercadiaGames",
+   "title": "30th Celebration Simplified Chinese Espeon ex & Umbreon ex Gift Box",
+   "url": "https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-espeon-ex-umbreon-ex-gift-box/"
+  },
+  "https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-greninja-ex-card-display-set/": {
+   "available": true,
+   "domain": "mercadiagames.pt",
+   "price": "39.90",
+   "store": "MercadiaGames",
+   "title": "30th Celebration Simplified Chinese Greninja ex Card Display Set",
+   "url": "https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-greninja-ex-card-display-set/"
+  },
+  "https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-sylvan-ex-card-display-set/": {
+   "available": true,
+   "domain": "mercadiagames.pt",
+   "price": "39.90",
+   "store": "MercadiaGames",
+   "title": "30th Celebration Simplified Chinese Sylveon ex Card Display Set",
+   "url": "https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-sylvan-ex-card-display-set/"
+  },
+  "https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-umbreon-ex-deluxe-deck-set/": {
+   "available": true,
+   "domain": "mercadiagames.pt",
+   "price": "49.90",
+   "store": "MercadiaGames",
+   "title": "30th Celebration Simplified Chinese Umbreon ex Deluxe Deck Set",
+   "url": "https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-umbreon-ex-deluxe-deck-set/"
+  },
+  "https://mercadiagames.pt/produto/pokemon-30th-celebration-simplified-chinese-booster-box-20-boosters/": {
+   "available": true,
+   "domain": "mercadiagames.pt",
+   "price": "149.90",
+   "store": "MercadiaGames",
+   "title": "Pokemon – 30th Celebration – Simplified Chinese Booster Box (20 Boosters)",
+   "url": "https://mercadiagames.pt/produto/pokemon-30th-celebration-simplified-chinese-booster-box-20-boosters/"
+  },
   "https://oportogg.com/products/pokemon-tcg-30th-celebration-blister-2-boosters-eevee": {
    "available": false,
    "domain": "oportogg.com",
@@ -1175,6 +1247,14 @@
    "store": "PokeboxStore",
    "title": "Pikachu + Dedenne – Bandai Figures 30th Anniversary Series 2",
    "url": "https://pokeboxstore.pt/produto/pikachu-dedenne-bandai-figures-30th-anniversary-series-2/"
+  },
+  "https://pokeboxstore.pt/produto/pikachu-ditto-bandai-figures-30th-anniversary-series-2/": {
+   "available": null,
+   "domain": "pokeboxstore.pt",
+   "price": null,
+   "store": "PokeboxStore",
+   "title": "Pikachu + Ditto – Bandai Figures 30th Anniversary Series 2",
+   "url": "https://pokeboxstore.pt/produto/pikachu-ditto-bandai-figures-30th-anniversary-series-2/"
   },
   "https://pokeboxstore.pt/produto/pikachu-glitter-battle-figure-30th-anniversary-750-cm/": {
    "available": null,
@@ -1977,7 +2057,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-20 10:11 UTC",
+ "last_run": "2026-10-20 15:11 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
