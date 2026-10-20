@@ -195,7 +195,7 @@
   "https://anixways.com/product/30th-celebration-poster-collection/": {
    "available": true,
    "domain": "anixways.com",
-   "price": "44.90",
+   "price": "40.40",
    "store": "AnixWays",
    "title": "30th Celebration Poster Collection",
    "url": "https://anixways.com/product/30th-celebration-poster-collection/"
@@ -495,14 +495,6 @@
    "store": "Charbinder",
    "title": "Pokémon TCG 30th Anniversary First Partner Card Set Vol. 1 (CN)",
    "url": "https://charbinder.com/products/pokemon-tcg-30th-anniversary-first-partner-card-set-vol-1-cn"
-  },
-  "https://diver.pt/pt/pkm-boosters/105984-pkm-30th-celebration-tech-sticker-collection.html": {
-   "available": false,
-   "domain": "diver.pt",
-   "price": "29,99 €",
-   "store": "Diver",
-   "title": "PKM 30th Celebration Tech Sticker Collection",
-   "url": "https://diver.pt/pt/pkm-boosters/105984-pkm-30th-celebration-tech-sticker-collection.html"
   },
   "https://drawstep.com/products/pkm-30th-anniversary-poster-collection": {
    "available": false,
@@ -927,62 +919,6 @@
    "store": "LotusValley",
    "title": "30th Celebration Elite Trainer Box",
    "url": "https://lotusvalley.pt/produto/30th-celebration/"
-  },
-  "https://mercadiagames.pt/produto/30th-celebration-dream-painting-collection-pikachu-figure-set-simplified-chinese/": {
-   "available": true,
-   "domain": "mercadiagames.pt",
-   "price": "34.90",
-   "store": "MercadiaGames",
-   "title": "30th Celebration – Dream Painting Collection Pikachu Figure Set – Simplified Chinese",
-   "url": "https://mercadiagames.pt/produto/30th-celebration-dream-painting-collection-pikachu-figure-set-simplified-chinese/"
-  },
-  "https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-espeon-ex-luxury-set/": {
-   "available": true,
-   "domain": "mercadiagames.pt",
-   "price": "49.90",
-   "store": "MercadiaGames",
-   "title": "30th Celebration Simplified Chinese Espeon ex Deluxe Deck Set",
-   "url": "https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-espeon-ex-luxury-set/"
-  },
-  "https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-espeon-ex-umbreon-ex-gift-box/": {
-   "available": true,
-   "domain": "mercadiagames.pt",
-   "price": "249.90",
-   "store": "MercadiaGames",
-   "title": "30th Celebration Simplified Chinese Espeon ex & Umbreon ex Gift Box",
-   "url": "https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-espeon-ex-umbreon-ex-gift-box/"
-  },
-  "https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-greninja-ex-card-display-set/": {
-   "available": true,
-   "domain": "mercadiagames.pt",
-   "price": "39.90",
-   "store": "MercadiaGames",
-   "title": "30th Celebration Simplified Chinese Greninja ex Card Display Set",
-   "url": "https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-greninja-ex-card-display-set/"
-  },
-  "https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-sylvan-ex-card-display-set/": {
-   "available": true,
-   "domain": "mercadiagames.pt",
-   "price": "39.90",
-   "store": "MercadiaGames",
-   "title": "30th Celebration Simplified Chinese Sylveon ex Card Display Set",
-   "url": "https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-sylvan-ex-card-display-set/"
-  },
-  "https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-umbreon-ex-deluxe-deck-set/": {
-   "available": true,
-   "domain": "mercadiagames.pt",
-   "price": "49.90",
-   "store": "MercadiaGames",
-   "title": "30th Celebration Simplified Chinese Umbreon ex Deluxe Deck Set",
-   "url": "https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-umbreon-ex-deluxe-deck-set/"
-  },
-  "https://mercadiagames.pt/produto/pokemon-30th-celebration-simplified-chinese-booster-box-20-boosters/": {
-   "available": true,
-   "domain": "mercadiagames.pt",
-   "price": "149.90",
-   "store": "MercadiaGames",
-   "title": "Pokemon – 30th Celebration – Simplified Chinese Booster Box (20 Boosters)",
-   "url": "https://mercadiagames.pt/produto/pokemon-30th-celebration-simplified-chinese-booster-box-20-boosters/"
   },
   "https://oportogg.com/products/pokemon-tcg-30th-celebration-blister-2-boosters-eevee": {
    "available": false,
@@ -1891,7 +1827,7 @@
   "https://untradablestore.com/products/pokemon-30th-celebration-tech-sticker-collection-alolan-exeggutor": {
    "available": false,
    "domain": "untradablestore.com",
-   "price": "30.00",
+   "price": "32.00",
    "store": "UntradableStore",
    "title": "Pokémon 30th Celebration - Tech Sticker Collection (Alolan Exeggutor)",
    "url": "https://untradablestore.com/products/pokemon-30th-celebration-tech-sticker-collection-alolan-exeggutor"
@@ -1899,7 +1835,7 @@
   "https://untradablestore.com/products/pokemon-30th-celebration-tech-sticker-collection-lucario": {
    "available": false,
    "domain": "untradablestore.com",
-   "price": "30.00",
+   "price": "32.00",
    "store": "UntradableStore",
    "title": "Pokémon 30th Celebration - Tech Sticker Collection (Lucario)",
    "url": "https://untradablestore.com/products/pokemon-30th-celebration-tech-sticker-collection-lucario"
@@ -2041,7 +1977,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-20 05:16 UTC",
+ "last_run": "2026-10-20 10:11 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
@@ -2091,7 +2027,7 @@
   "pressstart.pt": "html:/search?q={q}",
   "psydeck.com": "shopify",
   "ptmerch.com": "error",
-  "rorizlair.com": "error",
+  "rorizlair.com": "html:/search?q={q}",
   "rota151.pt": "woo",
   "shop4nerds.pt": "error",
   "stickerpoint.pt": "html:/?s={q}&post_type=product",
