@@ -1128,6 +1128,14 @@
    "title": "Booster Pack – 30th Anniversary Celebration (Chinês)",
    "url": "https://pokeboxstore.pt/produto/booster-pack-30th-anniversary-celebration-chines/"
   },
+  "https://pokeboxstore.pt/produto/booster-pack-30th-anniversary-celebration/": {
+   "available": null,
+   "domain": "pokeboxstore.pt",
+   "price": null,
+   "store": "PokeboxStore",
+   "title": "Booster Pack – 30th Anniversary Celebration",
+   "url": "https://pokeboxstore.pt/produto/booster-pack-30th-anniversary-celebration/"
+  },
   "https://pokeboxstore.pt/produto/celebration-pikachu-bandai-figures-30th-anniversary-complete-set-series-1/": {
    "available": null,
    "domain": "pokeboxstore.pt",
@@ -1223,14 +1231,6 @@
    "store": "PokeboxStore",
    "title": "Pikachu + Dedenne – Bandai Figures 30th Anniversary Series 2",
    "url": "https://pokeboxstore.pt/produto/pikachu-dedenne-bandai-figures-30th-anniversary-series-2/"
-  },
-  "https://pokeboxstore.pt/produto/pikachu-ditto-bandai-figures-30th-anniversary-series-2/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Pikachu + Ditto – Bandai Figures 30th Anniversary Series 2",
-   "url": "https://pokeboxstore.pt/produto/pikachu-ditto-bandai-figures-30th-anniversary-series-2/"
   },
   "https://pokeboxstore.pt/produto/pikachu-glitter-battle-figure-30th-anniversary-750-cm/": {
    "available": null,
@@ -2025,7 +2025,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-22 16:02 UTC",
+ "last_run": "2026-10-22 20:03 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",

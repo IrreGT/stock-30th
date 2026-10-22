@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-10-22 16:02 UTC
+# Estado do monitor — 2026-10-22 20:03 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Shop4Nerds](https://shop4nerds.pt) | error | 0 | 0 |  |
 | [Stickerpoint](https://stickerpoint.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [TCGFamily](https://tcg-family.com) | shopify | 4 | 3 |  |
-| [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='tcghaven.pt', port=443): Read timed out. (read timeout=20) |
+| [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 7 | 0 |  |
 | [TemplarsArena](https://templarsarena.com) | shopify | 13 | 8 |  |
 | [The Kanto Market](https://thekantomarket.com) | shopify | 0 | 0 |  |
 | [Totobayshop](https://totobayshop.com) | shopify | 9 | 2 |  |
