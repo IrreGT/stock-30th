@@ -1,10 +1,10 @@
-# Estado do monitor — 2026-10-22 11:39 UTC
+# Estado do monitor — 2026-10-22 16:02 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
 | [AJogar](https://ajogar.com) | shopify | 13 | 0 |  |
-| [AnixWays](https://anixways.com) | woo | 26 | 7 |  |
+| [AnixWays](https://anixways.com) | woo | 26 | 8 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 1 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 13 | 4 |  |
 | [Brokards](https://brokards.com) | shopify | 10 | 0 |  |
@@ -13,7 +13,7 @@
 | [CentroXogo](https://centroxogo.pt) | error | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='centroxogo.pt', port=443): Read timed out. (read timeout=20) |
 | [Charbinder](https://charbinder.com) | shopify | 1 | 1 |  |
 | [Colecionar](https://colecionar.pt) | error | 0 | 0 |  |
-| [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='conbini.pt', port=443): Read timed out. (read timeout=20) |
+| [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [Continente](https://continente.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Diver](https://diver.pt) | presta | 1 | 0 |  |
 | [DrawPhase](https://drawphase.pt) | shopify | 0 | 0 |  |
@@ -55,7 +55,7 @@
 | [Shop4Nerds](https://shop4nerds.pt) | error | 0 | 0 |  |
 | [Stickerpoint](https://stickerpoint.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [TCGFamily](https://tcg-family.com) | shopify | 4 | 3 |  |
-| [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 7 | 0 |  |
+| [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='tcghaven.pt', port=443): Read timed out. (read timeout=20) |
 | [TemplarsArena](https://templarsarena.com) | shopify | 13 | 8 |  |
 | [The Kanto Market](https://thekantomarket.com) | shopify | 0 | 0 |  |
 | [Totobayshop](https://totobayshop.com) | shopify | 9 | 2 |  |
@@ -65,7 +65,7 @@
 | [VenturaCardGames](https://venturacardgames.com) | shopify | 1 | 1 |  |
 | [VersusGameCenter](https://versusgamecenter.pt) | shopify | 0 | 0 |  |
 | [WeatherlightGames](https://weatherlightgames.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
-| [ZukaCards](https://zukacards.com) | shopify | 0 | 0 | ConnectionError: HTTPSConnectionPool(host='zukacards.com', port=443): Max retries exceeded with url: /search/suggest.json?q=30th+celebration&resources%5Btype%5D=product&resources%5Blimit%5D=10&resourc |
+| [ZukaCards](https://zukacards.com) | shopify | 0 | 0 |  |
 
 ## Produtos com stock agora
 
@@ -76,6 +76,7 @@
 - **AnixWays** — [30th Celebration: Mew Figure Collection](https://anixways.com/product/30th-celebration-mew-figure-collection/) — 90.00€
 - **AnixWays** — [30th Celebration: Mewtwo Figure Collection](https://anixways.com/product/30th-celebration-mewtwo-figure-collection/) — 90.00€
 - **AnixWays** — [30th Celebration: Umbreon EX Battle Deck](https://anixways.com/product/30th-celebration-umbreon-ex-battle-deck/) — 40.00€
+- **AnixWays** — [Pokémon Plush Figure 30th Anniversary Pikachu 20 cm](https://anixways.com/product/pokemon-plush-figure-30th-anniversary-pikachu-20-cm/) — 22.25€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.1](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1) — 15.50€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.3](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-3) — 16.00€
 - **Biridama** — [30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.2](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-2) — 14.00€

@@ -297,7 +297,7 @@
    "url": "https://anixways.com/product/pokemon-plush-figure-30th-anniversary-morpeko-20-cm/"
   },
   "https://anixways.com/product/pokemon-plush-figure-30th-anniversary-pikachu-20-cm/": {
-   "available": false,
+   "available": true,
    "domain": "anixways.com",
    "price": "22.25",
    "store": "AnixWays",
@@ -2025,7 +2025,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-22 11:39 UTC",
+ "last_run": "2026-10-22 16:02 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
