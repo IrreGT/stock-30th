@@ -1,9 +1,9 @@
-# Estado do monitor — 2026-10-21 22:45 UTC
+# Estado do monitor — 2026-10-22 00:58 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
-| [AJogar](https://ajogar.com) | shopify | 12 | 0 |  |
+| [AJogar](https://ajogar.com) | shopify | 13 | 0 |  |
 | [AnixWays](https://anixways.com) | woo | 26 | 8 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 1 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 13 | 4 |  |
@@ -14,14 +14,14 @@
 | [Charbinder](https://charbinder.com) | shopify | 1 | 1 |  |
 | [Colecionar](https://colecionar.pt) | error | 0 | 0 |  |
 | [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
-| [Continente](https://continente.pt) | html:/search?q={q} | 0 | 0 |  |
+| [Continente](https://continente.pt) | error | 0 | 0 |  |
 | [Diver](https://diver.pt) | presta | 1 | 0 |  |
 | [DrawPhase](https://drawphase.pt) | shopify | 0 | 0 |  |
 | [Drawstep](https://drawstep.com) | shopify | 7 | 0 |  |
 | [El Corte Inglés](https://elcorteingles.pt) | error | 0 | 0 |  |
 | [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 |  |
 | [Gatorcards](https://gatorcards.pt) | shopify | 8 | 1 |  |
-| [Geekhaven](https://geekhaven.pt) | shopify | 13 | 0 |  |
+| [Geekhaven](https://geekhaven.pt) | shopify | 14 | 0 |  |
 | [GgLounge](https://gglounge.pt) | woo | 0 | 0 |  |
 | [GM Cards & Toys](https://gmcardsandtoys.com) | shopify | 0 | 0 |  |
 | [God of Cards](https://godofcards.com) | shopify | 2 | 2 |  |
@@ -44,10 +44,10 @@
 | [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 |  |
 | [Papelinho](https://papelinho.pt) | presta | 0 | 0 |  |
 | [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 2 | 0 |  |
-| [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 27 | 0 |  |
+| [PokeboxStore](https://pokeboxstore.pt) | error | 0 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 9 | 0 |  |
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
-| [Psydeck](https://psydeck.com) | shopify | 13 | 1 |  |
+| [Psydeck](https://psydeck.com) | shopify | 12 | 1 |  |
 | [PTMerch](https://ptmerch.com) | error | 0 | 0 |  |
 | [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 |  |
 | [Rota151](https://rota151.pt) | woo | 0 | 0 |  |
