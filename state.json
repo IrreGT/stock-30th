@@ -537,7 +537,7 @@
    "url": "https://drawstep.com/products/pkm-30th-celebration-booster-bundle"
   },
   "https://drawstep.com/products/pkm-30th-celebration-elite-trainer-box": {
-   "available": false,
+   "available": true,
    "domain": "drawstep.com",
    "price": "150.00",
    "store": "Drawstep",
@@ -2025,7 +2025,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-22 20:03 UTC",
+ "last_run": "2026-10-22 23:19 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
