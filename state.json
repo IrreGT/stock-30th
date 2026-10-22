@@ -265,7 +265,7 @@
    "url": "https://anixways.com/product/pokemon-battle-figure-action-figure-morpeko-30th-anniversary-glitter-8-cm/"
   },
   "https://anixways.com/product/pokemon-battle-figure-action-figure-pikachu-30th-anniversary-glitter-8-cm/": {
-   "available": true,
+   "available": false,
    "domain": "anixways.com",
    "price": "15.90",
    "store": "AnixWays",
@@ -553,7 +553,7 @@
    "url": "https://drawstep.com/products/pkm-30th-celebration-ex-tins-sylveon-greninja"
   },
   "https://drawstep.com/products/pkm-30th-celebration-mini-tin-arte-aleatoria": {
-   "available": false,
+   "available": true,
    "domain": "drawstep.com",
    "price": "25.00",
    "store": "Drawstep",
@@ -2025,7 +2025,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-22 05:59 UTC",
+ "last_run": "2026-10-22 11:39 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
