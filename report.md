@@ -1,9 +1,9 @@
-# Estado do monitor — 2026-10-23 01:40 UTC
+# Estado do monitor — 2026-10-23 06:34 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
-| [AJogar](https://ajogar.com) | shopify | 13 | 0 |  |
+| [AJogar](https://ajogar.com) | shopify | 13 | 3 |  |
 | [AnixWays](https://anixways.com) | woo | 26 | 8 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 1 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 13 | 4 |  |
@@ -38,7 +38,7 @@
 | [Miniversos](https://miniversos.pt) | shopify | 0 | 0 |  |
 | [MyPopMania](https://mypopmania.pt) | html:/pesquisa?controller=search&s={q} | 0 | 0 |  |
 | [MysticMirage](https://mysticmirage.shop) | html:/search?q={q} | 4 | 0 |  |
-| [OhliCards](https://ohlicards.pt) | woo | 11 | 5 |  |
+| [OhliCards](https://ohlicards.pt) | woo | 0 | 0 | ConnectTimeout: HTTPSConnectionPool(host='ohlicards.pt', port=443): Max retries exceeded with url: /wp-json/wc/store/v1/products?search=30th+celebration&per_page=50 (Caused by ConnectTimeoutError(<HTT |
 | [OPortoGG](https://oportogg.com) | shopify | 9 | 0 |  |
 | [Packpoint](https://packpoint.pt) | shopify | 0 | 0 |  |
 | [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 |  |
@@ -46,7 +46,7 @@
 | [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 2 | 0 |  |
 | [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 27 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 9 | 0 |  |
-| [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
+| [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
 | [Psydeck](https://psydeck.com) | shopify | 12 | 1 |  |
 | [PTMerch](https://ptmerch.com) | error | 0 | 0 |  |
 | [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 |  |
@@ -55,7 +55,7 @@
 | [Shop4Nerds](https://shop4nerds.pt) | error | 0 | 0 |  |
 | [Stickerpoint](https://stickerpoint.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [TCGFamily](https://tcg-family.com) | shopify | 4 | 3 |  |
-| [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
+| [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 7 | 0 |  |
 | [TemplarsArena](https://templarsarena.com) | shopify | 13 | 8 |  |
 | [The Kanto Market](https://thekantomarket.com) | shopify | 0 | 0 |  |
 | [Totobayshop](https://totobayshop.com) | shopify | 9 | 2 |  |
@@ -69,6 +69,9 @@
 
 ## Produtos com stock agora
 
+- **AJogar** — [Pokemon 30th Celebration Booster Bundle, English Edition](https://ajogar.com/products/pkm-30-bundle) — 74.99€
+- **AJogar** — [Pokemon 30th Celebration Ex Box - Greninja, English Edition](https://ajogar.com/products/pkm-30-exboxgreninja) — 44.99€
+- **AJogar** — [Pokemon 30th Celebration Poster Collection, English Edition](https://ajogar.com/products/pkm-30-poster) — 44.99€
 - **AnixWays** — [30th Celebration Booster Bundle](https://anixways.com/product/30th-celebration-booster-bundle/) — 71.90€
 - **AnixWays** — [30th Celebration Poster Collection](https://anixways.com/product/30th-celebration-poster-collection/) — 40.40€
 - **AnixWays** — [30th Celebration: Ditto Premium Collection](https://anixways.com/product/30th-celebration-ditto-premium-collection/) — 105.00€
