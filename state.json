@@ -320,14 +320,6 @@
    "title": "30th Celebration Booster Bundle",
    "url": "https://biridama.pt/products/30-celebration-booster-bundle"
   },
-  "https://biridama.pt/products/30-celebration-day-mini-tin": {
-   "available": false,
-   "domain": "biridama.pt",
-   "price": "23.90",
-   "store": "Biridama",
-   "title": "30th Celebration: Day Mini Tin",
-   "url": "https://biridama.pt/products/30-celebration-day-mini-tin"
-  },
   "https://biridama.pt/products/30-celebration-night-mini-tin": {
    "available": false,
    "domain": "biridama.pt",
@@ -367,6 +359,30 @@
    "store": "Biridama",
    "title": "30th Celebration Booster Box S-Chinese",
    "url": "https://biridama.pt/products/30th-celebration-booster-box-s-chinese"
+  },
+  "https://biridama.pt/products/30th-celebration-booster-s-chinese": {
+   "available": true,
+   "domain": "biridama.pt",
+   "price": "5.50",
+   "store": "Biridama",
+   "title": "30th Celebration Booster",
+   "url": "https://biridama.pt/products/30th-celebration-booster-s-chinese"
+  },
+  "https://biridama.pt/products/30th-celebration-espeon-ex-umbreon-ex-gift-box-s-chinese": {
+   "available": false,
+   "domain": "biridama.pt",
+   "price": "230.00",
+   "store": "Biridama",
+   "title": "30th Celebration Espeon ex & Umbreon ex Gift Box S-Chinese",
+   "url": "https://biridama.pt/products/30th-celebration-espeon-ex-umbreon-ex-gift-box-s-chinese"
+  },
+  "https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese": {
+   "available": true,
+   "domain": "biridama.pt",
+   "price": "39.50",
+   "store": "Biridama",
+   "title": "30th Celebration Card Showcase Set",
+   "url": "https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese"
   },
   "https://biridama.pt/products/celebration-greninja-ex-tin": {
    "available": false,
@@ -512,6 +528,22 @@
    "title": "PKM 30th Celebration Tech Sticker Collection",
    "url": "https://diver.pt/pt/pkm-boosters/105984-pkm-30th-celebration-tech-sticker-collection.html"
   },
+  "https://diver.pt/pt/pkm-special-editions/106266-pkm-30th-celebration-ultra-premium-collection-day-en.html": {
+   "available": false,
+   "domain": "diver.pt",
+   "price": "379,95 €",
+   "store": "Diver",
+   "title": "PKM 30th Celebration: Ultra-Premium Collection - DAY EN",
+   "url": "https://diver.pt/pt/pkm-special-editions/106266-pkm-30th-celebration-ultra-premium-collection-day-en.html"
+  },
+  "https://diver.pt/pt/pkm-special-editions/106268-pkm-30th-celebration-ultra-premium-collection-night-en.html": {
+   "available": false,
+   "domain": "diver.pt",
+   "price": "379,95 €",
+   "store": "Diver",
+   "title": "PKM 30th Celebration: Ultra-Premium Collection - NIGHT EN",
+   "url": "https://diver.pt/pt/pkm-special-editions/106268-pkm-30th-celebration-ultra-premium-collection-night-en.html"
+  },
   "https://drawstep.com/products/pkm-30th-anniversary-poster-collection": {
    "available": false,
    "domain": "drawstep.com",
@@ -539,7 +571,7 @@
   "https://drawstep.com/products/pkm-30th-celebration-elite-trainer-box": {
    "available": true,
    "domain": "drawstep.com",
-   "price": "150.00",
+   "price": "140.00",
    "store": "Drawstep",
    "title": "PKM - 30th Celebration - Elite Trainer Box",
    "url": "https://drawstep.com/products/pkm-30th-celebration-elite-trainer-box"
@@ -2025,7 +2057,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-23 12:05 UTC",
+ "last_run": "2026-10-23 17:02 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
@@ -2033,7 +2065,7 @@
   "arkay.pt": "html:/search?q={q}",
   "biridama.pt": "shopify",
   "brokards.com": "shopify",
-  "byulverse.eu": "error",
+  "byulverse.eu": "html:/search?q={q}",
   "cardfever.pt": "error",
   "centroxogo.pt": "error",
   "charbinder.com": "shopify",
@@ -2075,7 +2107,7 @@
   "pressstart.pt": "html:/search?q={q}",
   "psydeck.com": "shopify",
   "ptmerch.com": "error",
-  "rorizlair.com": "html:/search?q={q}",
+  "rorizlair.com": "error",
   "rota151.pt": "woo",
   "shop4nerds.pt": "error",
   "stickerpoint.pt": "html:/?s={q}&post_type=product",
