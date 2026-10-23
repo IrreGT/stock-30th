@@ -560,14 +560,6 @@
    "title": "PKM - 30th Celebration - 2-Pack Blister",
    "url": "https://drawstep.com/products/pkm-30th-celebration-2-pack-blister"
   },
-  "https://drawstep.com/products/pkm-30th-celebration-booster-bundle": {
-   "available": false,
-   "domain": "drawstep.com",
-   "price": "60.00",
-   "store": "Drawstep",
-   "title": "PKM - 30th Celebration Booster Bundle",
-   "url": "https://drawstep.com/products/pkm-30th-celebration-booster-bundle"
-  },
   "https://drawstep.com/products/pkm-30th-celebration-elite-trainer-box": {
    "available": true,
    "domain": "drawstep.com",
@@ -2057,7 +2049,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-23 17:02 UTC",
+ "last_run": "2026-10-23 20:25 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
@@ -2107,7 +2099,7 @@
   "pressstart.pt": "html:/search?q={q}",
   "psydeck.com": "shopify",
   "ptmerch.com": "error",
-  "rorizlair.com": "error",
+  "rorizlair.com": "html:/search?q={q}",
   "rota151.pt": "woo",
   "shop4nerds.pt": "error",
   "stickerpoint.pt": "html:/?s={q}&post_type=product",
