@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-10-22 23:19 UTC
+# Estado do monitor — 2026-10-23 01:40 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@
 | [Packpoint](https://packpoint.pt) | shopify | 0 | 0 |  |
 | [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 |  |
 | [Papelinho](https://papelinho.pt) | presta | 0 | 0 |  |
-| [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='playerspot.pt', port=443): Read timed out. (read timeout=20) |
+| [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 2 | 0 |  |
 | [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 27 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 9 | 0 |  |
-| [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
+| [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [Psydeck](https://psydeck.com) | shopify | 12 | 1 |  |
 | [PTMerch](https://ptmerch.com) | error | 0 | 0 |  |
 | [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 |  |
@@ -55,7 +55,7 @@
 | [Shop4Nerds](https://shop4nerds.pt) | error | 0 | 0 |  |
 | [Stickerpoint](https://stickerpoint.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [TCGFamily](https://tcg-family.com) | shopify | 4 | 3 |  |
-| [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 7 | 0 |  |
+| [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [TemplarsArena](https://templarsarena.com) | shopify | 13 | 8 |  |
 | [The Kanto Market](https://thekantomarket.com) | shopify | 0 | 0 |  |
 | [Totobayshop](https://totobayshop.com) | shopify | 9 | 2 |  |
