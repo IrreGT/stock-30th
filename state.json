@@ -72,14 +72,6 @@
    "title": "Pokemon 30th Celebration Poster Collection, English Edition",
    "url": "https://ajogar.com/products/pkm-30-poster"
   },
-  "https://ajogar.com/products/pkm-30-stickeralolan": {
-   "available": false,
-   "domain": "ajogar.com",
-   "price": "29.99",
-   "store": "AJogar",
-   "title": "Pokemon 30th Celebration Tech Sticker Collection - Alolan Exeggutor, English Edition",
-   "url": "https://ajogar.com/products/pkm-30-stickeralolan"
-  },
   "https://ajogar.com/products/pkm-30-stickerlucario": {
    "available": false,
    "domain": "ajogar.com",
@@ -2057,7 +2049,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-24 01:51 UTC",
+ "last_run": "2026-10-24 06:59 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
