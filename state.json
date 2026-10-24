@@ -320,14 +320,6 @@
    "title": "30th Celebration Booster Bundle",
    "url": "https://biridama.pt/products/30-celebration-booster-bundle"
   },
-  "https://biridama.pt/products/30-celebration-day-mini-tin": {
-   "available": false,
-   "domain": "biridama.pt",
-   "price": "23.90",
-   "store": "Biridama",
-   "title": "30th Celebration: Day Mini Tin",
-   "url": "https://biridama.pt/products/30-celebration-day-mini-tin"
-  },
   "https://biridama.pt/products/30-celebration-night-mini-tin": {
    "available": false,
    "domain": "biridama.pt",
@@ -367,6 +359,30 @@
    "store": "Biridama",
    "title": "30th Celebration Booster Box S-Chinese",
    "url": "https://biridama.pt/products/30th-celebration-booster-box-s-chinese"
+  },
+  "https://biridama.pt/products/30th-celebration-booster-s-chinese": {
+   "available": true,
+   "domain": "biridama.pt",
+   "price": "5.50",
+   "store": "Biridama",
+   "title": "30th Celebration Booster",
+   "url": "https://biridama.pt/products/30th-celebration-booster-s-chinese"
+  },
+  "https://biridama.pt/products/30th-celebration-espeon-ex-umbreon-ex-gift-box-s-chinese": {
+   "available": false,
+   "domain": "biridama.pt",
+   "price": "230.00",
+   "store": "Biridama",
+   "title": "30th Celebration Espeon ex & Umbreon ex Gift Box S-Chinese",
+   "url": "https://biridama.pt/products/30th-celebration-espeon-ex-umbreon-ex-gift-box-s-chinese"
+  },
+  "https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese": {
+   "available": true,
+   "domain": "biridama.pt",
+   "price": "39.50",
+   "store": "Biridama",
+   "title": "30th Celebration Card Showcase Set",
+   "url": "https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese"
   },
   "https://biridama.pt/products/celebration-greninja-ex-tin": {
    "available": false,
@@ -503,6 +519,14 @@
    "store": "Charbinder",
    "title": "Pokémon TCG 30th Anniversary First Partner Card Set Vol. 1 (CN)",
    "url": "https://charbinder.com/products/pokemon-tcg-30th-anniversary-first-partner-card-set-vol-1-cn"
+  },
+  "https://conbini.pt/product/37848-pokemon-tcg-30th-celebration-booster-bundle-english-6-boosters-abysse-eye-chinese-booster-box-30-boosters-37848": {
+   "available": null,
+   "domain": "conbini.pt",
+   "price": null,
+   "store": "Conbini",
+   "title": "Pokemon TCG: 30th Celebration Booster Bundle English (6 Boosters) + Abysse Eye Chinese Booster Box (30 Boosters)",
+   "url": "https://conbini.pt/product/37848-pokemon-tcg-30th-celebration-booster-bundle-english-6-boosters-abysse-eye-chinese-booster-box-30-boosters-37848"
   },
   "https://diver.pt/pt/pkm-boosters/105984-pkm-30th-celebration-tech-sticker-collection.html": {
    "available": false,
@@ -1385,7 +1409,7 @@
    "url": "https://templarsarena.com/products/30th-celebration-greninja-ex-box"
   },
   "https://templarsarena.com/products/30th-celebration-greninja-ex-tin": {
-   "available": true,
+   "available": false,
    "domain": "templarsarena.com",
    "price": "55.00",
    "store": "TemplarsArena",
@@ -1817,7 +1841,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-24 11:57 UTC",
+ "last_run": "2026-10-24 15:47 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
@@ -1867,7 +1891,7 @@
   "pressstart.pt": "html:/search?q={q}",
   "psydeck.com": "shopify",
   "ptmerch.com": "error",
-  "rorizlair.com": "error",
+  "rorizlair.com": "html:/search?q={q}",
   "rota151.pt": "woo",
   "shop4nerds.pt": "error",
   "stickerpoint.pt": "html:/?s={q}&post_type=product",
