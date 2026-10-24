@@ -1,9 +1,9 @@
-# Estado do monitor — 2026-10-23 23:21 UTC
+# Estado do monitor — 2026-10-24 01:51 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
-| [AJogar](https://ajogar.com) | shopify | 13 | 1 |  |
+| [AJogar](https://ajogar.com) | shopify | 14 | 3 |  |
 | [AnixWays](https://anixways.com) | woo | 26 | 8 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 1 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 15 | 6 |  |
@@ -33,7 +33,7 @@
 | [LotusValley](https://lotusvalley.pt) | woo | 10 | 10 |  |
 | [ManaTCG](https://manatcg.com) | shopify | 0 | 0 |  |
 | [ManaVault](https://manavault.pt) | shopify | 0 | 0 |  |
-| [MasterPacks](https://masterpacks.pt) | html:/search?q={q} | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='masterpacks.pt', port=443): Read timed out. (read timeout=20) |
+| [MasterPacks](https://masterpacks.pt) | html:/search?q={q} | 0 | 0 |  |
 | [MercadiaGames](https://mercadiagames.pt) | woo | 7 | 7 |  |
 | [Miniversos](https://miniversos.pt) | shopify | 0 | 0 |  |
 | [MyPopMania](https://mypopmania.pt) | html:/pesquisa?controller=search&s={q} | 0 | 0 |  |
@@ -44,7 +44,7 @@
 | [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 |  |
 | [Papelinho](https://papelinho.pt) | presta | 0 | 0 |  |
 | [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 2 | 0 |  |
-| [PokeboxStore](https://pokeboxstore.pt) | error | 0 | 0 |  |
+| [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 27 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 9 | 0 |  |
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
 | [Psydeck](https://psydeck.com) | shopify | 12 | 1 |  |
@@ -69,6 +69,8 @@
 
 ## Produtos com stock agora
 
+- **AJogar** — [Pokemon 30th Anniversary Booster Pack of 6 Cards, Japanese](https://ajogar.com/products/pokemon-30th-anniversary-booster-pack-of-6-cards-japanese) — 11.00€
+- **AJogar** — [Pokemon 30th Celebration Booster Bundle, English Edition](https://ajogar.com/products/pkm-30-bundle) — 74.99€
 - **AJogar** — [Pokemon 30th Celebration Poster Collection, English Edition](https://ajogar.com/products/pkm-30-poster) — 44.99€
 - **AnixWays** — [30th Celebration Booster Bundle](https://anixways.com/product/30th-celebration-booster-bundle/) — 71.90€
 - **AnixWays** — [30th Celebration Poster Collection](https://anixways.com/product/30th-celebration-poster-collection/) — 40.40€
