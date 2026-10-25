@@ -72,14 +72,6 @@
    "title": "Pokemon 30th Celebration Poster Collection, English Edition",
    "url": "https://ajogar.com/products/pkm-30-poster"
   },
-  "https://ajogar.com/products/pkm-30-stickeralolan": {
-   "available": false,
-   "domain": "ajogar.com",
-   "price": "29.99",
-   "store": "AJogar",
-   "title": "Pokemon 30th Celebration Tech Sticker Collection - Alolan Exeggutor, English Edition",
-   "url": "https://ajogar.com/products/pkm-30-stickeralolan"
-  },
   "https://ajogar.com/products/pkm-30-stickerlucario": {
    "available": false,
    "domain": "ajogar.com",
@@ -91,7 +83,7 @@
   "https://ajogar.com/products/pkm-30-ultraday": {
    "available": false,
    "domain": "ajogar.com",
-   "price": "399.99",
+   "price": "429.99",
    "store": "AJogar",
    "title": "Pokemon 30th Celebration Day Ultra Premium Collection, English Edition",
    "url": "https://ajogar.com/products/pkm-30-ultraday"
@@ -99,10 +91,18 @@
   "https://ajogar.com/products/pkm-30-ultrant": {
    "available": false,
    "domain": "ajogar.com",
-   "price": "399.99",
+   "price": "429.99",
    "store": "AJogar",
    "title": "Pokemon 30th Celebration Night Ultra Premium Collection, English Edition",
    "url": "https://ajogar.com/products/pkm-30-ultrant"
+  },
+  "https://ajogar.com/products/pokemon-30th-anniversary-booster-pack-of-6-cards-japanese": {
+   "available": true,
+   "domain": "ajogar.com",
+   "price": "11.00",
+   "store": "AJogar",
+   "title": "Pokemon 30th Anniversary Booster Pack of 6 Cards, Japanese",
+   "url": "https://ajogar.com/products/pokemon-30th-anniversary-booster-pack-of-6-cards-japanese"
   },
   "https://anixways.com/product/30th-celebration-2-pack-blister-eevee/": {
    "available": false,
@@ -320,6 +320,14 @@
    "title": "30th Celebration Booster Bundle",
    "url": "https://biridama.pt/products/30-celebration-booster-bundle"
   },
+  "https://biridama.pt/products/30-celebration-day-mini-tin": {
+   "available": false,
+   "domain": "biridama.pt",
+   "price": "23.90",
+   "store": "Biridama",
+   "title": "30th Celebration: Day Mini Tin",
+   "url": "https://biridama.pt/products/30-celebration-day-mini-tin"
+  },
   "https://biridama.pt/products/30-celebration-night-mini-tin": {
    "available": false,
    "domain": "biridama.pt",
@@ -359,30 +367,6 @@
    "store": "Biridama",
    "title": "30th Celebration Booster Box S-Chinese",
    "url": "https://biridama.pt/products/30th-celebration-booster-box-s-chinese"
-  },
-  "https://biridama.pt/products/30th-celebration-booster-s-chinese": {
-   "available": true,
-   "domain": "biridama.pt",
-   "price": "5.50",
-   "store": "Biridama",
-   "title": "30th Celebration Booster",
-   "url": "https://biridama.pt/products/30th-celebration-booster-s-chinese"
-  },
-  "https://biridama.pt/products/30th-celebration-espeon-ex-umbreon-ex-gift-box-s-chinese": {
-   "available": false,
-   "domain": "biridama.pt",
-   "price": "230.00",
-   "store": "Biridama",
-   "title": "30th Celebration Espeon ex & Umbreon ex Gift Box S-Chinese",
-   "url": "https://biridama.pt/products/30th-celebration-espeon-ex-umbreon-ex-gift-box-s-chinese"
-  },
-  "https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese": {
-   "available": true,
-   "domain": "biridama.pt",
-   "price": "39.50",
-   "store": "Biridama",
-   "title": "30th Celebration Card Showcase Set",
-   "url": "https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese"
   },
   "https://biridama.pt/products/celebration-greninja-ex-tin": {
    "available": false,
@@ -567,14 +551,6 @@
    "store": "Drawstep",
    "title": "PKM - 30th Celebration - 2-Pack Blister",
    "url": "https://drawstep.com/products/pkm-30th-celebration-2-pack-blister"
-  },
-  "https://drawstep.com/products/pkm-30th-celebration-elite-trainer-box": {
-   "available": true,
-   "domain": "drawstep.com",
-   "price": "140.00",
-   "store": "Drawstep",
-   "title": "PKM - 30th Celebration - Elite Trainer Box",
-   "url": "https://drawstep.com/products/pkm-30th-celebration-elite-trainer-box"
   },
   "https://drawstep.com/products/pkm-30th-celebration-ex-tins-sylveon-greninja": {
    "available": false,
@@ -1440,6 +1416,14 @@
    "title": "30th Celebration Elite Trainer Box",
    "url": "https://psydeck.com/products/30th-celebration-elite-trainer-box"
   },
+  "https://psydeck.com/products/30th-celebration-espeon-ex-battle-deck": {
+   "available": true,
+   "domain": "psydeck.com",
+   "price": "48.00",
+   "store": "Psydeck",
+   "title": "30th Celebration Espeon ex Battle Deck",
+   "url": "https://psydeck.com/products/30th-celebration-espeon-ex-battle-deck"
+  },
   "https://psydeck.com/products/30th-celebration-ex-box-greninja-ex": {
    "available": false,
    "domain": "psydeck.com",
@@ -2057,7 +2041,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-24 23:09 UTC",
+ "last_run": "2026-10-25 01:10 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",

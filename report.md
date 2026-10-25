@@ -1,12 +1,12 @@
-# Estado do monitor — 2026-10-24 23:09 UTC
+# Estado do monitor — 2026-10-25 01:10 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
-| [AJogar](https://ajogar.com) | shopify | 13 | 2 |  |
+| [AJogar](https://ajogar.com) | shopify | 13 | 3 |  |
 | [AnixWays](https://anixways.com) | woo | 26 | 8 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 1 | 0 |  |
-| [Biridama](https://biridama.pt) | shopify | 15 | 6 |  |
+| [Biridama](https://biridama.pt) | shopify | 13 | 4 |  |
 | [Brokards](https://brokards.com) | shopify | 10 | 0 |  |
 | [Byulverse](https://byulverse.eu) | error | 0 | 0 |  |
 | [CardFever](https://cardfever.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
@@ -17,16 +17,16 @@
 | [Continente](https://continente.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Diver](https://diver.pt) | presta | 3 | 0 |  |
 | [DrawPhase](https://drawphase.pt) | shopify | 0 | 0 |  |
-| [Drawstep](https://drawstep.com) | shopify | 6 | 2 |  |
+| [Drawstep](https://drawstep.com) | shopify | 5 | 1 |  |
 | [El Corte Inglés](https://elcorteingles.pt) | error | 0 | 0 |  |
-| [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 |  |
+| [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 | ConnectTimeout: HTTPSConnectionPool(host='games-island.eu', port=443): Max retries exceeded with url: /products.json?limit=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='games-island.eu', por |
 | [Gatorcards](https://gatorcards.pt) | shopify | 8 | 1 |  |
 | [Geekhaven](https://geekhaven.pt) | shopify | 14 | 0 |  |
 | [GgLounge](https://gglounge.pt) | woo | 0 | 0 |  |
 | [GM Cards & Toys](https://gmcardsandtoys.com) | shopify | 0 | 0 |  |
 | [God of Cards](https://godofcards.com) | shopify | 2 | 2 |  |
 | [IberianCard](https://iberiancard.com) | shopify | 2 | 2 |  |
-| [Kaissa](https://kaissa.gr) | html:/?s={q}&post_type=product | 1 | 0 |  |
+| [Kaissa](https://kaissa.gr) | html:/?s={q}&post_type=product | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='kaissa.gr', port=443): Read timed out. (read timeout=20) |
 | [LojaDosPops](https://lojadospops.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [LootLab](https://lootlab.pt) | html:/search?q={q} | 4 | 0 |  |
 | [LostForgeStore](https://lostforgestore.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
@@ -47,7 +47,7 @@
 | [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 27 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 9 | 0 |  |
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
-| [Psydeck](https://psydeck.com) | shopify | 12 | 1 |  |
+| [Psydeck](https://psydeck.com) | shopify | 13 | 2 |  |
 | [PTMerch](https://ptmerch.com) | error | 0 | 0 |  |
 | [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 |  |
 | [Rota151](https://rota151.pt) | woo | 0 | 0 |  |
@@ -55,7 +55,7 @@
 | [Shop4Nerds](https://shop4nerds.pt) | error | 0 | 0 |  |
 | [Stickerpoint](https://stickerpoint.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [TCGFamily](https://tcg-family.com) | shopify | 4 | 3 |  |
-| [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
+| [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 7 | 0 |  |
 | [TemplarsArena](https://templarsarena.com) | shopify | 13 | 7 |  |
 | [The Kanto Market](https://thekantomarket.com) | shopify | 0 | 0 |  |
 | [Totobayshop](https://totobayshop.com) | shopify | 9 | 2 |  |
@@ -69,6 +69,7 @@
 
 ## Produtos com stock agora
 
+- **AJogar** — [Pokemon 30th Anniversary Booster Pack of 6 Cards, Japanese](https://ajogar.com/products/pokemon-30th-anniversary-booster-pack-of-6-cards-japanese) — 11.00€
 - **AJogar** — [Pokemon 30th Celebration Booster Bundle, English Edition](https://ajogar.com/products/pkm-30-bundle) — 74.99€
 - **AJogar** — [Pokemon 30th Celebration Poster Collection, English Edition](https://ajogar.com/products/pkm-30-poster) — 44.99€
 - **AnixWays** — [30th Celebration Booster Bundle](https://anixways.com/product/30th-celebration-booster-bundle/) — 71.90€
@@ -82,11 +83,8 @@
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.1](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1) — 15.50€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.3](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-3) — 16.00€
 - **Biridama** — [30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.2](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-2) — 14.00€
-- **Biridama** — [30th Celebration Booster](https://biridama.pt/products/30th-celebration-booster-s-chinese) — 5.50€
 - **Biridama** — [30th Celebration Booster Box S-Chinese](https://biridama.pt/products/30th-celebration-booster-box-s-chinese) — 111.00€
-- **Biridama** — [30th Celebration Card Showcase Set](https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese) — 39.50€
 - **Charbinder** — [Pokémon TCG 30th Anniversary First Partner Card Set Vol. 1 (CN)](https://charbinder.com/products/pokemon-tcg-30th-anniversary-first-partner-card-set-vol-1-cn) — 17.90€
-- **Drawstep** — [PKM - 30th Celebration - Elite Trainer Box](https://drawstep.com/products/pkm-30th-celebration-elite-trainer-box) — 140.00€
 - **Drawstep** — [PKM - 30th Celebration Mini Tin (Arte Aleatória)](https://drawstep.com/products/pkm-30th-celebration-mini-tin-arte-aleatoria) — 25.00€
 - **Gatorcards** — [30th Celebration Booster Bundle](https://gatorcards.pt/products/30th-celebration-booster-bundle) — 74.00€
 - **God of Cards** — [Pokemon 30th Anniversary Celebration Partner Card Set Display Vol. 1 (8 Boxen) S-Chinesisch](https://godofcards.com/products/pokemon-30th-anniversary-celebration-partner-card-set-display-vol-1-8-boxen-s-chinesisch) — 114.95€
@@ -115,6 +113,7 @@
 - **OhliCards** — [Pokémon 30th Celebration – Greninja EX Box](https://www.ohlicards.pt/produto/pokemon-30th-celebration-greninja-ex-box/) — 64.99€
 - **OhliCards** — [Pokémon 30th Celebration – Mini Tin (Aleatório)](https://www.ohlicards.pt/produto/pokemon-30th-celebration-mini-tin-aleatorio/) — 27.99€
 - **OhliCards** — [Pokémon 30th Celebration – Poster Collection](https://www.ohlicards.pt/produto/pokemon-30th-celebration-poster-collection/) — 59.99€
+- **Psydeck** — [30th Celebration Espeon ex Battle Deck](https://psydeck.com/products/30th-celebration-espeon-ex-battle-deck) — 48.00€
 - **Psydeck** — [30th Celebration Umbreon ex Battle Deck](https://psydeck.com/products/30th-celebration-umbreon-ex-battle-deck) — 48.00€
 - **SenhorGato** — [Pokémon TCG - 30th Anniversary Dream Painting Figure - Chinês](https://lojasenhorgato.pt/products/pokemon-tcg-30th-anniversary-dream-painting-figure-chines-pre-reserva) — 35.00€
 - **SenhorGato** — [TCG Pokémon - 30th Anniversary First Partner Series 1 - Chinese](https://lojasenhorgato.pt/products/tcg-pokemon-30th-anniversary-first-partner-series-1-chinese) — 15.00€
