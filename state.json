@@ -3,7 +3,7 @@
   "https://ajogar.com/products/pkm-30-bundle": {
    "available": true,
    "domain": "ajogar.com",
-   "price": "69.99",
+   "price": "64.99",
    "store": "AJogar",
    "title": "Pokemon 30th Celebration Booster Bundle, English Edition",
    "url": "https://ajogar.com/products/pkm-30-bundle"
@@ -536,14 +536,6 @@
    "title": "POKEMON 30th Anniversary Plush 20 cm - Pikachu",
    "url": "https://conbini.pt/product/37953-pokemon-30th-anniversary-plush-20-cm-pikachu-37953"
   },
-  "https://conbini.pt/product/37954-pokemon-30th-anniversary-plush-20-cm-vulpix-37954": {
-   "available": true,
-   "domain": "conbini.pt",
-   "price": null,
-   "store": "Conbini",
-   "title": "POKEMON 30th Anniversary Plush 20 cm - Vulpix",
-   "url": "https://conbini.pt/product/37954-pokemon-30th-anniversary-plush-20-cm-vulpix-37954"
-  },
   "https://conbini.pt/product/37955-pokemon-30th-anniversary-plush-20-cm-espeon-37955": {
    "available": true,
    "domain": "conbini.pt",
@@ -583,6 +575,14 @@
    "store": "Diver",
    "title": "PKM 30th Celebration: Ultra-Premium Collection - NIGHT EN",
    "url": "https://diver.pt/pt/pkm-special-editions/106268-pkm-30th-celebration-ultra-premium-collection-night-en.html"
+  },
+  "https://diver.pt/pt/pkm-special-editions/106277-pkm-30th-celebration-ditto-premium-collection-en.html": {
+   "available": false,
+   "domain": "diver.pt",
+   "price": "109,99 €",
+   "store": "Diver",
+   "title": "PKM 30th Celebration: Ditto Premium Collection EN",
+   "url": "https://diver.pt/pt/pkm-special-editions/106277-pkm-30th-celebration-ditto-premium-collection-en.html"
   },
   "https://drawstep.com/products/pkm-30th-anniversary-poster-collection": {
    "available": false,
@@ -1483,7 +1483,7 @@
   "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver": {
    "available": false,
    "domain": "tcg-family.com",
-   "price": "115.00",
+   "price": "114.00",
    "store": "TCGFamily",
    "title": "Pokémon TCG 30th Anniversary Celebration Booster Box Chinese Ver",
    "url": "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver"
@@ -2025,7 +2025,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-26 19:31 UTC",
+ "last_run": "2026-10-26 23:20 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",

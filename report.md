@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-10-26 19:31 UTC
+# Estado do monitor — 2026-10-26 23:20 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@
 | [CentroXogo](https://centroxogo.pt) | error | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='centroxogo.pt', port=443): Read timed out. (read timeout=20) |
 | [Charbinder](https://charbinder.com) | shopify | 1 | 1 |  |
 | [Colecionar](https://colecionar.pt) | error | 0 | 0 |  |
-| [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 4 | 4 |  |
+| [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 3 | 3 |  |
 | [Continente](https://continente.pt) | html:/search?q={q} | 0 | 0 |  |
-| [Diver](https://diver.pt) | presta | 3 | 0 |  |
+| [Diver](https://diver.pt) | presta | 4 | 0 |  |
 | [DrawPhase](https://drawphase.pt) | shopify | 0 | 0 |  |
 | [Drawstep](https://drawstep.com) | shopify | 6 | 2 |  |
 | [El Corte Inglés](https://elcorteingles.pt) | error | 0 | 0 |  |
@@ -70,7 +70,7 @@
 ## Produtos com stock agora
 
 - **AJogar** — [Pokemon 30th Anniversary Booster Pack of 6 Cards, Japanese](https://ajogar.com/products/pokemon-30th-anniversary-booster-pack-of-6-cards-japanese) — 11.00€
-- **AJogar** — [Pokemon 30th Celebration Booster Bundle, English Edition](https://ajogar.com/products/pkm-30-bundle) — 69.99€
+- **AJogar** — [Pokemon 30th Celebration Booster Bundle, English Edition](https://ajogar.com/products/pkm-30-bundle) — 64.99€
 - **AnixWays** — [30th Celebration Booster Bundle](https://anixways.com/product/30th-celebration-booster-bundle/) — 71.90€
 - **AnixWays** — [30th Celebration Poster Collection](https://anixways.com/product/30th-celebration-poster-collection/) — 40.40€
 - **AnixWays** — [30th Celebration: Ditto Premium Collection](https://anixways.com/product/30th-celebration-ditto-premium-collection/) — 105.00€
@@ -89,7 +89,6 @@
 - **Conbini** — [POKEMON 30th Anniversary Plush 20 cm - Espeon](https://conbini.pt/product/37955-pokemon-30th-anniversary-plush-20-cm-espeon-37955)
 - **Conbini** — [POKEMON 30th Anniversary Plush 20 cm - Morpeko](https://conbini.pt/product/37956-pokemon-30th-anniversary-plush-20-cm-morpeko-37956)
 - **Conbini** — [POKEMON 30th Anniversary Plush 20 cm - Pikachu](https://conbini.pt/product/37953-pokemon-30th-anniversary-plush-20-cm-pikachu-37953)
-- **Conbini** — [POKEMON 30th Anniversary Plush 20 cm - Vulpix](https://conbini.pt/product/37954-pokemon-30th-anniversary-plush-20-cm-vulpix-37954)
 - **Drawstep** — [PKM - 30th Celebration - Elite Trainer Box](https://drawstep.com/products/pkm-30th-celebration-elite-trainer-box) — 140.00€
 - **Drawstep** — [PKM - 30th Celebration Mini Tin (Arte Aleatória)](https://drawstep.com/products/pkm-30th-celebration-mini-tin-arte-aleatoria) — 25.00€
 - **Gatorcards** — [30th Celebration Booster Bundle](https://gatorcards.pt/products/30th-celebration-booster-bundle) — 74.00€
