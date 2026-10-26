@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-10-25 23:14 UTC
+# Estado do monitor — 2026-10-26 01:19 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@
 | [OhliCards](https://ohlicards.pt) | woo | 11 | 5 |  |
 | [OPortoGG](https://oportogg.com) | shopify | 9 | 0 |  |
 | [Packpoint](https://packpoint.pt) | shopify | 0 | 0 |  |
-| [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 |  |
+| [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='pandacollecting.com', port=443): Read timed out. (read timeout=20) |
 | [Papelinho](https://papelinho.pt) | presta | 0 | 0 |  |
 | [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 2 | 0 |  |
-| [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 27 | 0 |  |
+| [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 0 | 0 | ConnectTimeout: HTTPSConnectionPool(host='pokeboxstore.pt', port=443): Max retries exceeded with url: /products.json?limit=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='pokeboxstore.pt', por |
 | [Pokelotas](https://pokelotas.com) | shopify | 9 | 0 |  |
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
 | [Psydeck](https://psydeck.com) | shopify | 13 | 1 |  |
