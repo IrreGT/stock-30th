@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-10-26 06:28 UTC
+# Estado do monitor — 2026-10-26 13:29 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -6,7 +6,7 @@
 | [AJogar](https://ajogar.com) | shopify | 13 | 2 |  |
 | [AnixWays](https://anixways.com) | woo | 26 | 8 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 1 | 0 |  |
-| [Biridama](https://biridama.pt) | shopify | 13 | 4 |  |
+| [Biridama](https://biridama.pt) | shopify | 16 | 6 |  |
 | [Brokards](https://brokards.com) | shopify | 10 | 0 |  |
 | [Byulverse](https://byulverse.eu) | error | 0 | 0 |  |
 | [CardFever](https://cardfever.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
@@ -30,16 +30,16 @@
 | [LojaDosPops](https://lojadospops.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [LootLab](https://lootlab.pt) | html:/search?q={q} | 4 | 0 |  |
 | [LostForgeStore](https://lostforgestore.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
-| [LotusValley](https://lotusvalley.pt) | woo | 10 | 10 |  |
+| [LotusValley](https://lotusvalley.pt) | woo | 11 | 11 |  |
 | [ManaTCG](https://manatcg.com) | shopify | 0 | 0 |  |
 | [ManaVault](https://manavault.pt) | shopify | 0 | 0 |  |
 | [MasterPacks](https://masterpacks.pt) | html:/search?q={q} | 0 | 0 |  |
 | [MercadiaGames](https://mercadiagames.pt) | woo | 7 | 7 |  |
 | [Miniversos](https://miniversos.pt) | shopify | 0 | 0 |  |
 | [MyPopMania](https://mypopmania.pt) | html:/pesquisa?controller=search&s={q} | 0 | 0 |  |
-| [MysticMirage](https://mysticmirage.shop) | html:/search?q={q} | 0 | 0 | ConnectTimeout: HTTPSConnectionPool(host='mysticmirage.shop', port=443): Max retries exceeded with url: /products.json?limit=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='mysticmirage.shop', |
+| [MysticMirage](https://mysticmirage.shop) | html:/search?q={q} | 4 | 0 |  |
 | [OhliCards](https://ohlicards.pt) | woo | 11 | 5 |  |
-| [OPortoGG](https://oportogg.com) | shopify | 9 | 0 |  |
+| [OPortoGG](https://oportogg.com) | shopify | 0 | 0 |  |
 | [Packpoint](https://packpoint.pt) | shopify | 0 | 0 |  |
 | [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 |  |
 | [Papelinho](https://papelinho.pt) | presta | 0 | 0 |  |
@@ -82,7 +82,9 @@
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.1](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1) — 15.50€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.3](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-3) — 16.00€
 - **Biridama** — [30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.2](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-2) — 14.00€
+- **Biridama** — [30th Celebration Booster](https://biridama.pt/products/30th-celebration-booster-s-chinese) — 5.50€
 - **Biridama** — [30th Celebration Booster Box S-Chinese](https://biridama.pt/products/30th-celebration-booster-box-s-chinese) — 111.00€
+- **Biridama** — [30th Celebration Card Showcase Set](https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese) — 39.50€
 - **Charbinder** — [Pokémon TCG 30th Anniversary First Partner Card Set Vol. 1 (CN)](https://charbinder.com/products/pokemon-tcg-30th-anniversary-first-partner-card-set-vol-1-cn) — 17.90€
 - **Conbini** — [POKEMON 30th Anniversary Plush 20 cm - Espeon](https://conbini.pt/product/37955-pokemon-30th-anniversary-plush-20-cm-espeon-37955)
 - **Conbini** — [POKEMON 30th Anniversary Plush 20 cm - Morpeko](https://conbini.pt/product/37956-pokemon-30th-anniversary-plush-20-cm-morpeko-37956)
@@ -105,6 +107,7 @@
 - **LotusValley** — [30th Celebration:  Umbreon ex Battle Deck](https://lotusvalley.pt/produto/30th-celebration-umbreon-ex-battle-deck/) — 50.00€
 - **LotusValley** — [30th Celebration: Espeon ex Battle Deck](https://lotusvalley.pt/produto/30th-celebration-espeon-ex-battle-deck/) — 50.00€
 - **LotusValley** — [30th Celebration: Sylveon ex Box](https://lotusvalley.pt/produto/30th-celebration-sylveon-ex-box/) — 69.90€
+- **LotusValley** — [Peluche Pokémon 30th Anniversary Pikachu 20 cm](https://lotusvalley.pt/produto/peluche-pokemon-30th-anniversary-pikachu-20-cm/) — 22.00€
 - **MercadiaGames** — [30th Celebration Simplified Chinese Espeon ex & Umbreon ex Gift Box](https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-espeon-ex-umbreon-ex-gift-box/) — 249.90€
 - **MercadiaGames** — [30th Celebration Simplified Chinese Espeon ex Deluxe Deck Set](https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-espeon-ex-luxury-set/) — 49.90€
 - **MercadiaGames** — [30th Celebration Simplified Chinese Greninja ex Card Display Set](https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-greninja-ex-card-display-set/) — 39.90€

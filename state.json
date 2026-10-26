@@ -368,6 +368,30 @@
    "title": "30th Celebration Booster Box S-Chinese",
    "url": "https://biridama.pt/products/30th-celebration-booster-box-s-chinese"
   },
+  "https://biridama.pt/products/30th-celebration-booster-s-chinese": {
+   "available": true,
+   "domain": "biridama.pt",
+   "price": "5.50",
+   "store": "Biridama",
+   "title": "30th Celebration Booster",
+   "url": "https://biridama.pt/products/30th-celebration-booster-s-chinese"
+  },
+  "https://biridama.pt/products/30th-celebration-espeon-ex-umbreon-ex-gift-box-s-chinese": {
+   "available": false,
+   "domain": "biridama.pt",
+   "price": "230.00",
+   "store": "Biridama",
+   "title": "30th Celebration Espeon ex & Umbreon ex Gift Box S-Chinese",
+   "url": "https://biridama.pt/products/30th-celebration-espeon-ex-umbreon-ex-gift-box-s-chinese"
+  },
+  "https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese": {
+   "available": true,
+   "domain": "biridama.pt",
+   "price": "39.50",
+   "store": "Biridama",
+   "title": "30th Celebration Card Showcase Set",
+   "url": "https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese"
+  },
   "https://biridama.pt/products/celebration-greninja-ex-tin": {
    "available": false,
    "domain": "biridama.pt",
@@ -984,6 +1008,14 @@
    "title": "30th Celebration Elite Trainer Box",
    "url": "https://lotusvalley.pt/produto/30th-celebration/"
   },
+  "https://lotusvalley.pt/produto/peluche-pokemon-30th-anniversary-pikachu-20-cm/": {
+   "available": true,
+   "domain": "lotusvalley.pt",
+   "price": "22.00",
+   "store": "LotusValley",
+   "title": "Peluche Pokémon 30th Anniversary Pikachu 20 cm",
+   "url": "https://lotusvalley.pt/produto/peluche-pokemon-30th-anniversary-pikachu-20-cm/"
+  },
   "https://mercadiagames.pt/produto/30th-celebration-dream-painting-collection-pikachu-figure-set-simplified-chinese/": {
    "available": true,
    "domain": "mercadiagames.pt",
@@ -1039,78 +1071,6 @@
    "store": "MercadiaGames",
    "title": "Pokemon – 30th Celebration – Simplified Chinese Booster Box (20 Boosters)",
    "url": "https://mercadiagames.pt/produto/pokemon-30th-celebration-simplified-chinese-booster-box-20-boosters/"
-  },
-  "https://oportogg.com/products/pokemon-tcg-30th-celebration-blister-2-boosters-eevee": {
-   "available": false,
-   "domain": "oportogg.com",
-   "price": "22.99",
-   "store": "OPortoGG",
-   "title": "Pokémon TCG: 30th Celebration – Blister 2 Boosters Eevee",
-   "url": "https://oportogg.com/products/pokemon-tcg-30th-celebration-blister-2-boosters-eevee"
-  },
-  "https://oportogg.com/products/pokemon-tcg-30th-celebration-booster-bundle-6-boosters-en": {
-   "available": false,
-   "domain": "oportogg.com",
-   "price": "75.00",
-   "store": "OPortoGG",
-   "title": "Pokémon TCG: 30th Celebration – Booster Bundle (6 Boosters) (EN)",
-   "url": "https://oportogg.com/products/pokemon-tcg-30th-celebration-booster-bundle-6-boosters-en"
-  },
-  "https://oportogg.com/products/pokemon-tcg-30th-celebration-elite-trainer-box": {
-   "available": false,
-   "domain": "oportogg.com",
-   "price": "150.00",
-   "store": "OPortoGG",
-   "title": "Pokémon TCG: 30th Celebration – Elite Trainer Box",
-   "url": "https://oportogg.com/products/pokemon-tcg-30th-celebration-elite-trainer-box"
-  },
-  "https://oportogg.com/products/pokemon-tcg-30th-celebration-greninja-ex-box": {
-   "available": false,
-   "domain": "oportogg.com",
-   "price": "46.99",
-   "store": "OPortoGG",
-   "title": "Pokémon TCG: 30th Celebration – Greninja ex Box",
-   "url": "https://oportogg.com/products/pokemon-tcg-30th-celebration-greninja-ex-box"
-  },
-  "https://oportogg.com/products/pokemon-tcg-30th-celebration-greninja-ex-tin": {
-   "available": false,
-   "domain": "oportogg.com",
-   "price": "39.99",
-   "store": "OPortoGG",
-   "title": "Pokémon TCG: 30th Celebration – Greninja ex Tin",
-   "url": "https://oportogg.com/products/pokemon-tcg-30th-celebration-greninja-ex-tin"
-  },
-  "https://oportogg.com/products/pokemon-tcg-30th-celebration-mini-tin-en": {
-   "available": false,
-   "domain": "oportogg.com",
-   "price": "25.00",
-   "store": "OPortoGG",
-   "title": "Pokémon TCG: 30th Celebration – Mini Tin (EN) Aleatório",
-   "url": "https://oportogg.com/products/pokemon-tcg-30th-celebration-mini-tin-en"
-  },
-  "https://oportogg.com/products/pokemon-tcg-30th-celebration-poster-collection": {
-   "available": false,
-   "domain": "oportogg.com",
-   "price": "40.00",
-   "store": "OPortoGG",
-   "title": "Pokémon TCG: 30th Celebration – Poster Collection",
-   "url": "https://oportogg.com/products/pokemon-tcg-30th-celebration-poster-collection"
-  },
-  "https://oportogg.com/products/pokemon-tcg-30th-celebration-sylveon-ex-box": {
-   "available": false,
-   "domain": "oportogg.com",
-   "price": "50.00",
-   "store": "OPortoGG",
-   "title": "Pokémon TCG: 30th Celebration – Sylveon ex Box",
-   "url": "https://oportogg.com/products/pokemon-tcg-30th-celebration-sylveon-ex-box"
-  },
-  "https://oportogg.com/products/pokemon-tcg-30th-celebration-sylveon-ex-tin": {
-   "available": false,
-   "domain": "oportogg.com",
-   "price": "45.00",
-   "store": "OPortoGG",
-   "title": "Pokémon TCG: 30th Celebration – Sylveon ex Tin",
-   "url": "https://oportogg.com/products/pokemon-tcg-30th-celebration-sylveon-ex-tin"
   },
   "https://playerspot.pt/30th-anniversary-celebration-original-partner-card-set-vol1": {
    "available": false,
@@ -2065,7 +2025,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-26 06:28 UTC",
+ "last_run": "2026-10-26 13:29 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
