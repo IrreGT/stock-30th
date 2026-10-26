@@ -3,7 +3,7 @@
   "https://ajogar.com/products/pkm-30-bundle": {
    "available": true,
    "domain": "ajogar.com",
-   "price": "74.99",
+   "price": "69.99",
    "store": "AJogar",
    "title": "Pokemon 30th Celebration Booster Bundle, English Edition",
    "url": "https://ajogar.com/products/pkm-30-bundle"
@@ -367,30 +367,6 @@
    "store": "Biridama",
    "title": "30th Celebration Booster Box S-Chinese",
    "url": "https://biridama.pt/products/30th-celebration-booster-box-s-chinese"
-  },
-  "https://biridama.pt/products/30th-celebration-booster-s-chinese": {
-   "available": true,
-   "domain": "biridama.pt",
-   "price": "5.50",
-   "store": "Biridama",
-   "title": "30th Celebration Booster",
-   "url": "https://biridama.pt/products/30th-celebration-booster-s-chinese"
-  },
-  "https://biridama.pt/products/30th-celebration-espeon-ex-umbreon-ex-gift-box-s-chinese": {
-   "available": false,
-   "domain": "biridama.pt",
-   "price": "230.00",
-   "store": "Biridama",
-   "title": "30th Celebration Espeon ex & Umbreon ex Gift Box S-Chinese",
-   "url": "https://biridama.pt/products/30th-celebration-espeon-ex-umbreon-ex-gift-box-s-chinese"
-  },
-  "https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese": {
-   "available": true,
-   "domain": "biridama.pt",
-   "price": "39.50",
-   "store": "Biridama",
-   "title": "30th Celebration Card Showcase Set",
-   "url": "https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese"
   },
   "https://biridama.pt/products/celebration-greninja-ex-tin": {
    "available": false,
@@ -2089,7 +2065,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-26 01:19 UTC",
+ "last_run": "2026-10-26 06:28 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
