@@ -1,7 +1,7 @@
 {
  "items": {
   "https://ajogar.com/products/pkm-30-bundle": {
-   "available": true,
+   "available": false,
    "domain": "ajogar.com",
    "price": "64.99",
    "store": "AJogar",
@@ -368,30 +368,6 @@
    "title": "30th Celebration Booster Box S-Chinese",
    "url": "https://biridama.pt/products/30th-celebration-booster-box-s-chinese"
   },
-  "https://biridama.pt/products/30th-celebration-booster-s-chinese": {
-   "available": true,
-   "domain": "biridama.pt",
-   "price": "5.50",
-   "store": "Biridama",
-   "title": "30th Celebration Booster",
-   "url": "https://biridama.pt/products/30th-celebration-booster-s-chinese"
-  },
-  "https://biridama.pt/products/30th-celebration-espeon-ex-umbreon-ex-gift-box-s-chinese": {
-   "available": false,
-   "domain": "biridama.pt",
-   "price": "230.00",
-   "store": "Biridama",
-   "title": "30th Celebration Espeon ex & Umbreon ex Gift Box S-Chinese",
-   "url": "https://biridama.pt/products/30th-celebration-espeon-ex-umbreon-ex-gift-box-s-chinese"
-  },
-  "https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese": {
-   "available": true,
-   "domain": "biridama.pt",
-   "price": "39.50",
-   "store": "Biridama",
-   "title": "30th Celebration Card Showcase Set",
-   "url": "https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese"
-  },
   "https://biridama.pt/products/celebration-greninja-ex-tin": {
    "available": false,
    "domain": "biridama.pt",
@@ -577,12 +553,28 @@
    "url": "https://diver.pt/pt/pkm-special-editions/106268-pkm-30th-celebration-ultra-premium-collection-night-en.html"
   },
   "https://diver.pt/pt/pkm-special-editions/106277-pkm-30th-celebration-ditto-premium-collection-en.html": {
-   "available": false,
+   "available": true,
    "domain": "diver.pt",
    "price": "109,99 €",
    "store": "Diver",
    "title": "PKM 30th Celebration: Ditto Premium Collection EN",
    "url": "https://diver.pt/pt/pkm-special-editions/106277-pkm-30th-celebration-ditto-premium-collection-en.html"
+  },
+  "https://diver.pt/pt/pkm-special-editions/106278-pkm-30th-celebration-mewtwo-figure-collection-en.html": {
+   "available": true,
+   "domain": "diver.pt",
+   "price": "79,99 €",
+   "store": "Diver",
+   "title": "PKM 30th Celebration: Mewtwo Figure Collection EN",
+   "url": "https://diver.pt/pt/pkm-special-editions/106278-pkm-30th-celebration-mewtwo-figure-collection-en.html"
+  },
+  "https://diver.pt/pt/pkm-special-editions/106279-pkm-30th-celebration-mew-figure-collection-en.html": {
+   "available": true,
+   "domain": "diver.pt",
+   "price": "79,99 €",
+   "store": "Diver",
+   "title": "PKM 30th Celebration: Mew Figure Collection EN",
+   "url": "https://diver.pt/pt/pkm-special-editions/106279-pkm-30th-celebration-mew-figure-collection-en.html"
   },
   "https://drawstep.com/products/pkm-30th-anniversary-poster-collection": {
    "available": false,
@@ -1015,6 +1007,46 @@
    "store": "LotusValley",
    "title": "Peluche Pokémon 30th Anniversary Pikachu 20 cm",
    "url": "https://lotusvalley.pt/produto/peluche-pokemon-30th-anniversary-pikachu-20-cm/"
+  },
+  "https://manatcg.com/products/pokemon-tcg-30th-celebration-2-pack-blister-eevee": {
+   "available": false,
+   "domain": "manatcg.com",
+   "price": "24.99",
+   "store": "ManaTCG",
+   "title": "Pokémon TCG: 30th Celebration 2-Pack Blister (Eevee)",
+   "url": "https://manatcg.com/products/pokemon-tcg-30th-celebration-2-pack-blister-eevee"
+  },
+  "https://manatcg.com/products/pokemon-tcg-30th-celebration-greninja-ex-box": {
+   "available": false,
+   "domain": "manatcg.com",
+   "price": "48.99",
+   "store": "ManaTCG",
+   "title": "Pokémon TCG: 30th Celebration Greninja ex Box",
+   "url": "https://manatcg.com/products/pokemon-tcg-30th-celebration-greninja-ex-box"
+  },
+  "https://manatcg.com/products/pokemon-tcg-30th-celebration-greninja-ex-tin": {
+   "available": false,
+   "domain": "manatcg.com",
+   "price": "43.99",
+   "store": "ManaTCG",
+   "title": "Pokémon TCG: 30th Celebration Greninja ex Tin",
+   "url": "https://manatcg.com/products/pokemon-tcg-30th-celebration-greninja-ex-tin"
+  },
+  "https://manatcg.com/products/pokemon-tcg-30th-celebration-poster-collection": {
+   "available": false,
+   "domain": "manatcg.com",
+   "price": "36.99",
+   "store": "ManaTCG",
+   "title": "Pokémon TCG: 30th Celebration Poster Collection",
+   "url": "https://manatcg.com/products/pokemon-tcg-30th-celebration-poster-collection"
+  },
+  "https://manatcg.com/products/pokemon-tcg-30th-celebration-sylveon-ex-tin": {
+   "available": false,
+   "domain": "manatcg.com",
+   "price": "47.99",
+   "store": "ManaTCG",
+   "title": "Pokémon TCG: 30th Celebration Sylveon ex Tin",
+   "url": "https://manatcg.com/products/pokemon-tcg-30th-celebration-sylveon-ex-tin"
   },
   "https://mercadiagames.pt/produto/30th-celebration-dream-painting-collection-pikachu-figure-set-simplified-chinese/": {
    "available": true,
@@ -1499,7 +1531,7 @@
   "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese": {
    "available": true,
    "domain": "tcg-family.com",
-   "price": "34.00",
+   "price": "33.00",
    "store": "TCGFamily",
    "title": "Pokémon TCG – 30th Anniversary Dream Painting Pikachu Figure Set Blind Box (Simplified Chinese)",
    "url": "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese"
@@ -1691,7 +1723,7 @@
   "https://totobayshop.com/products/30th-celebration-mini-tin-copy": {
    "available": true,
    "domain": "totobayshop.com",
-   "price": "25.00",
+   "price": "24.30",
    "store": "Totobayshop",
    "title": "30th Celebration - Mini Tin (Day)",
    "url": "https://totobayshop.com/products/30th-celebration-mini-tin-copy"
@@ -1699,7 +1731,7 @@
   "https://totobayshop.com/products/30th-celebration-mini-tin-copy-1": {
    "available": true,
    "domain": "totobayshop.com",
-   "price": "25.00",
+   "price": "24.30",
    "store": "Totobayshop",
    "title": "30th Celebration - Mini Tin (Night)",
    "url": "https://totobayshop.com/products/30th-celebration-mini-tin-copy-1"
@@ -2025,7 +2057,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-27 08:00 UTC",
+ "last_run": "2026-10-27 14:24 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
