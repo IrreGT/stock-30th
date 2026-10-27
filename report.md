@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-10-27 19:34 UTC
+# Estado do monitor — 2026-10-27 23:09 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [IberianCard](https://iberiancard.com) | shopify | 2 | 2 |  |
 | [Kaissa](https://kaissa.gr) | html:/?s={q}&post_type=product | 1 | 0 |  |
 | [LojaDosPops](https://lojadospops.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
-| [LootLab](https://lootlab.pt) | html:/search?q={q} | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='lootlab.pt', port=443): Read timed out. (read timeout=20) |
+| [LootLab](https://lootlab.pt) | html:/search?q={q} | 4 | 0 |  |
 | [LostForgeStore](https://lostforgestore.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [LotusValley](https://lotusvalley.pt) | woo | 11 | 11 |  |
 | [ManaTCG](https://manatcg.com) | shopify | 5 | 0 |  |
@@ -49,7 +49,7 @@
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
 | [Psydeck](https://psydeck.com) | shopify | 13 | 0 |  |
 | [PTMerch](https://ptmerch.com) | error | 0 | 0 |  |
-| [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 |  |
+| [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='rorizlair.com', port=443): Read timed out. (read timeout=20) |
 | [Rota151](https://rota151.pt) | woo | 0 | 0 |  |
 | [SenhorGato](https://lojasenhorgato.pt) | shopify | 6 | 4 |  |
 | [Shop4Nerds](https://shop4nerds.pt) | error | 0 | 0 |  |
