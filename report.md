@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-10-26 23:20 UTC
+# Estado do monitor — 2026-10-27 02:11 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [GM Cards & Toys](https://gmcardsandtoys.com) | shopify | 0 | 0 |  |
 | [God of Cards](https://godofcards.com) | shopify | 2 | 2 |  |
 | [IberianCard](https://iberiancard.com) | shopify | 2 | 2 |  |
-| [Kaissa](https://kaissa.gr) | html:/?s={q}&post_type=product | 1 | 0 |  |
+| [Kaissa](https://kaissa.gr) | error | 0 | 0 |  |
 | [LojaDosPops](https://lojadospops.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [LootLab](https://lootlab.pt) | html:/search?q={q} | 4 | 0 |  |
 | [LostForgeStore](https://lostforgestore.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
