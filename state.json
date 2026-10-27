@@ -840,6 +840,14 @@
    "title": "Pokémon 30th Anniversary – First Partner Vol. 1 (Chinês Simplificado)",
    "url": "https://iberiancard.com/products/pokemon-30th-anniversary-first-partner-vol-1-chines-simplificado"
   },
+  "https://kaissa.gr/b2b_gr/paichnidia-me-kartes/pokemon/30th-celebration.html": {
+   "available": null,
+   "domain": "kaissa.gr",
+   "price": null,
+   "store": "Kaissa",
+   "title": "30th Celebration",
+   "url": "https://kaissa.gr/b2b_gr/paichnidia-me-kartes/pokemon/30th-celebration.html"
+  },
   "https://lojasenhorgato.pt/products/pokemon-tcg-30th-anniversary-coin-set-chines-pre-reserva": {
    "available": false,
    "domain": "lojasenhorgato.pt",
@@ -1401,7 +1409,7 @@
    "url": "https://psydeck.com/products/30th-celebration-elite-trainer-box"
   },
   "https://psydeck.com/products/30th-celebration-espeon-ex-battle-deck": {
-   "available": true,
+   "available": false,
    "domain": "psydeck.com",
    "price": "48.00",
    "store": "Psydeck",
@@ -2017,7 +2025,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-27 02:11 UTC",
+ "last_run": "2026-10-27 08:00 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
@@ -2043,7 +2051,7 @@
   "gmcardsandtoys.com": "shopify",
   "godofcards.com": "shopify",
   "iberiancard.com": "shopify",
-  "kaissa.gr": "error",
+  "kaissa.gr": "html:/?s={q}&post_type=product",
   "lojadospops.pt": "error",
   "lojasenhorgato.pt": "shopify",
   "lootlab.pt": "html:/search?q={q}",
