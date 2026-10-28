@@ -233,7 +233,7 @@
    "url": "https://anixways.com/product/30th-celebration-tech-sticker-collection-lucario/"
   },
   "https://anixways.com/product/30th-celebration-umbreon-ex-battle-deck/": {
-   "available": true,
+   "available": false,
    "domain": "anixways.com",
    "price": "40.00",
    "store": "AnixWays",
@@ -319,14 +319,6 @@
    "store": "Biridama",
    "title": "30th Celebration Booster Bundle",
    "url": "https://biridama.pt/products/30-celebration-booster-bundle"
-  },
-  "https://biridama.pt/products/30-celebration-day-mini-tin": {
-   "available": false,
-   "domain": "biridama.pt",
-   "price": "23.90",
-   "store": "Biridama",
-   "title": "30th Celebration: Day Mini Tin",
-   "url": "https://biridama.pt/products/30-celebration-day-mini-tin"
   },
   "https://biridama.pt/products/30-celebration-night-mini-tin": {
    "available": false,
@@ -607,6 +599,14 @@
    "store": "Diver",
    "title": "PKM 30th Celebration: Mew Figure Collection EN",
    "url": "https://diver.pt/pt/pkm-special-editions/106279-pkm-30th-celebration-mew-figure-collection-en.html"
+  },
+  "https://diver.pt/pt/pkm-special-editions/106281-pkm-30th-celebration-battle-deck-en.html": {
+   "available": true,
+   "domain": "diver.pt",
+   "price": "47,99 €",
+   "store": "Diver",
+   "title": "PKM 30th Celebration: Battle Deck EN",
+   "url": "https://diver.pt/pt/pkm-special-editions/106281-pkm-30th-celebration-battle-deck-en.html"
   },
   "https://drawstep.com/products/pkm-30th-anniversary-poster-collection": {
    "available": false,
@@ -2089,7 +2089,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-27 23:09 UTC",
+ "last_run": "2026-10-28 02:15 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
