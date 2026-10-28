@@ -1,9 +1,9 @@
-# Estado do monitor — 2026-10-28 08:43 UTC
+# Estado do monitor — 2026-10-28 15:30 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
-| [AJogar](https://ajogar.com) | shopify | 13 | 1 |  |
+| [AJogar](https://ajogar.com) | shopify | 13 | 2 |  |
 | [AnixWays](https://anixways.com) | woo | 26 | 7 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 1 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 13 | 4 |  |
@@ -38,7 +38,7 @@
 | [Miniversos](https://miniversos.pt) | shopify | 0 | 0 |  |
 | [MyPopMania](https://mypopmania.pt) | html:/pesquisa?controller=search&s={q} | 0 | 0 |  |
 | [MysticMirage](https://mysticmirage.shop) | html:/search?q={q} | 4 | 0 |  |
-| [OhliCards](https://ohlicards.pt) | woo | 11 | 4 |  |
+| [OhliCards](https://ohlicards.pt) | woo | 8 | 4 |  |
 | [OPortoGG](https://oportogg.com) | shopify | 0 | 0 |  |
 | [Packpoint](https://packpoint.pt) | shopify | 0 | 0 |  |
 | [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 |  |
@@ -70,6 +70,7 @@
 ## Produtos com stock agora
 
 - **AJogar** — [Pokemon 30th Anniversary Booster Pack of 6 Cards, Japanese](https://ajogar.com/products/pokemon-30th-anniversary-booster-pack-of-6-cards-japanese) — 11.00€
+- **AJogar** — [Pokemon 30th Celebration Booster Bundle, English Edition](https://ajogar.com/products/pkm-30-bundle) — 64.99€
 - **AnixWays** — [30th Celebration Booster Bundle](https://anixways.com/product/30th-celebration-booster-bundle/) — 71.90€
 - **AnixWays** — [30th Celebration Poster Collection](https://anixways.com/product/30th-celebration-poster-collection/) — 40.40€
 - **AnixWays** — [30th Celebration: Ditto Premium Collection](https://anixways.com/product/30th-celebration-ditto-premium-collection/) — 105.00€

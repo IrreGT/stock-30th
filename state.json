@@ -1,7 +1,7 @@
 {
  "items": {
   "https://ajogar.com/products/pkm-30-bundle": {
-   "available": false,
+   "available": true,
    "domain": "ajogar.com",
    "price": "64.99",
    "store": "AJogar",
@@ -64,13 +64,13 @@
    "title": "Pokemon 30th Celebration Figure Collection - Mewtwo, English Edition",
    "url": "https://ajogar.com/products/pkm-30-figuremewtwo"
   },
-  "https://ajogar.com/products/pkm-30-mini3": {
+  "https://ajogar.com/products/pkm-30-mini5": {
    "available": false,
    "domain": "ajogar.com",
    "price": "23.99",
    "store": "AJogar",
-   "title": "Pokemon 30th Celebration Mini Tin - Mew & Alolan Exeggutor, English Edition",
-   "url": "https://ajogar.com/products/pkm-30-mini3"
+   "title": "Pokemon 30th Celebration Mini Tin - Day Pikachu & Vivillon, English Edition",
+   "url": "https://ajogar.com/products/pkm-30-mini5"
   },
   "https://ajogar.com/products/pkm-30-poster": {
    "available": false,
@@ -1984,22 +1984,6 @@
    "title": "Pokémon 30th Celebration Mini Tin (Live Breaks)",
    "url": "https://www.mysticmirage.shop/pokemon-30th-celebration-mini-tin-live-breaks/"
   },
-  "https://www.ohlicards.pt/produto/pokemon-30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1/": {
-   "available": false,
-   "domain": "ohlicards.pt",
-   "price": "16.99",
-   "store": "OhliCards",
-   "title": "Pokémon 30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.1",
-   "url": "https://www.ohlicards.pt/produto/pokemon-30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1/"
-  },
-  "https://www.ohlicards.pt/produto/pokemon-30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-3-chines/": {
-   "available": false,
-   "domain": "ohlicards.pt",
-   "price": "16.99",
-   "store": "OhliCards",
-   "title": "Pokémon 30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.3 (Chinês)",
-   "url": "https://www.ohlicards.pt/produto/pokemon-30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-3-chines/"
-  },
   "https://www.ohlicards.pt/produto/pokemon-30th-celebration-booster-box-japones/": {
    "available": false,
    "domain": "ohlicards.pt",
@@ -2063,17 +2047,9 @@
    "store": "OhliCards",
    "title": "Pokémon 30th Celebration – Sylveon EX Box",
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-box/"
-  },
-  "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/": {
-   "available": false,
-   "domain": "ohlicards.pt",
-   "price": "64.99",
-   "store": "OhliCards",
-   "title": "Pokémon 30th Celebration – Sylveon EX Tin",
-   "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-tin/"
   }
  },
- "last_run": "2026-10-28 08:43 UTC",
+ "last_run": "2026-10-28 15:30 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
