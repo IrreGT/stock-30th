@@ -1,7 +1,7 @@
 {
  "items": {
   "https://ajogar.com/products/pkm-30-bundle": {
-   "available": true,
+   "available": false,
    "domain": "ajogar.com",
    "price": "64.99",
    "store": "AJogar",
@@ -73,7 +73,7 @@
    "url": "https://ajogar.com/products/pkm-30-mini5"
   },
   "https://ajogar.com/products/pkm-30-poster": {
-   "available": true,
+   "available": false,
    "domain": "ajogar.com",
    "price": "44.99",
    "store": "AJogar",
@@ -2049,7 +2049,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-box/"
   }
  },
- "last_run": "2026-10-28 20:32 UTC",
+ "last_run": "2026-10-29 00:23 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
