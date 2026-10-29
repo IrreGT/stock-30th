@@ -320,14 +320,6 @@
    "title": "30th Celebration Booster Bundle",
    "url": "https://biridama.pt/products/30-celebration-booster-bundle"
   },
-  "https://biridama.pt/products/30-celebration-day-mini-tin": {
-   "available": false,
-   "domain": "biridama.pt",
-   "price": "23.90",
-   "store": "Biridama",
-   "title": "30th Celebration: Day Mini Tin",
-   "url": "https://biridama.pt/products/30-celebration-day-mini-tin"
-  },
   "https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1": {
    "available": true,
    "domain": "biridama.pt",
@@ -359,6 +351,22 @@
    "store": "Biridama",
    "title": "30th Celebration Booster Box S-Chinese",
    "url": "https://biridama.pt/products/30th-celebration-booster-box-s-chinese"
+  },
+  "https://biridama.pt/products/30th-celebration-booster-s-chinese": {
+   "available": true,
+   "domain": "biridama.pt",
+   "price": "5.50",
+   "store": "Biridama",
+   "title": "30th Celebration Booster",
+   "url": "https://biridama.pt/products/30th-celebration-booster-s-chinese"
+  },
+  "https://biridama.pt/products/30th-celebration-espeon-ex-umbreon-ex-gift-box-s-chinese": {
+   "available": false,
+   "domain": "biridama.pt",
+   "price": "230.00",
+   "store": "Biridama",
+   "title": "30th Celebration Espeon ex & Umbreon ex Gift Box S-Chinese",
+   "url": "https://biridama.pt/products/30th-celebration-espeon-ex-umbreon-ex-gift-box-s-chinese"
   },
   "https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese": {
    "available": true,
@@ -503,38 +511,6 @@
    "store": "Charbinder",
    "title": "Pokémon TCG 30th Anniversary First Partner Card Set Vol. 1 (CN)",
    "url": "https://charbinder.com/products/pokemon-tcg-30th-anniversary-first-partner-card-set-vol-1-cn"
-  },
-  "https://conbini.pt/product/37992-pokemon-tcg-30th-celebration-mini-tin-english-1-mini-tin-aleatoria-2-boosters-terastal-gathering-tin-chinese-glaceon-2-boosters-1-tin-1-magnetic-metal-badge-37992": {
-   "available": null,
-   "domain": "conbini.pt",
-   "price": null,
-   "store": "Conbini",
-   "title": "Pokémon TCG - 30th Celebration Mini Tin English - 1 Mini Tin Aleatória (2 Boosters) + Terastal Gathering Tin Chinese - Glaceon (2 Boosters + 1 Tin + 1 Magnetic Metal Badge)",
-   "url": "https://conbini.pt/product/37992-pokemon-tcg-30th-celebration-mini-tin-english-1-mini-tin-aleatoria-2-boosters-terastal-gathering-tin-chinese-glaceon-2-boosters-1-tin-1-magnetic-metal-badge-37992"
-  },
-  "https://conbini.pt/product/37993-pokemon-tcg-30th-celebration-booster-bundle-english-6-boosters-30th-celebration-mini-tin-english-1-mini-tin-aleatoria-2-boosters-mega-symphonia-japanese-1-booster-box-30-boosters-37993": {
-   "available": null,
-   "domain": "conbini.pt",
-   "price": null,
-   "store": "Conbini",
-   "title": "Pokémon TCG - 30th Celebration Booster Bundle English (6 Boosters) + 30th Celebration Mini Tin English - 1 Mini Tin Aleatória (2 Boosters) + Mega Symphonia Japanese - 1 Booster Box (30 Boosters)",
-   "url": "https://conbini.pt/product/37993-pokemon-tcg-30th-celebration-booster-bundle-english-6-boosters-30th-celebration-mini-tin-english-1-mini-tin-aleatoria-2-boosters-mega-symphonia-japanese-1-booster-box-30-boosters-37993"
-  },
-  "https://conbini.pt/product/37994-pokemon-tcg-30th-celebration-booster-bundle-english-6-boosters-30th-celebration-mini-tin-english-1-mini-tin-aleatoria-2-boosters-mega-brave-japanese-1-booster-box-30-boosters-37994": {
-   "available": null,
-   "domain": "conbini.pt",
-   "price": null,
-   "store": "Conbini",
-   "title": "Pokémon TCG - 30th Celebration Booster Bundle English (6 Boosters) + 30th Celebration Mini Tin English - 1 Mini Tin Aleatória (2 Boosters) + Mega Brave Japanese - 1 Booster Box (30 Boosters)",
-   "url": "https://conbini.pt/product/37994-pokemon-tcg-30th-celebration-booster-bundle-english-6-boosters-30th-celebration-mini-tin-english-1-mini-tin-aleatoria-2-boosters-mega-brave-japanese-1-booster-box-30-boosters-37994"
-  },
-  "https://conbini.pt/product/37995-pokemon-tcg-30th-celebration-booster-bundle-english-6-boosters-30th-celebration-mini-tin-english-1-mini-tin-aleatoria-2-boosters-stellar-miracle-japanese-1-booster-box-30-boosters-37995": {
-   "available": null,
-   "domain": "conbini.pt",
-   "price": null,
-   "store": "Conbini",
-   "title": "Pokémon TCG - 30th Celebration Booster Bundle English (6 Boosters) + 30th Celebration Mini Tin English - 1 Mini Tin Aleatória (2 Boosters) + Stellar Miracle Japanese - 1 Booster Box (30 Boosters)",
-   "url": "https://conbini.pt/product/37995-pokemon-tcg-30th-celebration-booster-bundle-english-6-boosters-30th-celebration-mini-tin-english-1-mini-tin-aleatoria-2-boosters-stellar-miracle-japanese-1-booster-box-30-boosters-37995"
   },
   "https://diver.pt/pt/pkm-boosters/105984-pkm-30th-celebration-tech-sticker-collection.html": {
    "available": false,
@@ -1127,230 +1103,6 @@
    "store": "PlayerSpot",
    "title": "Pokémon TCG: 30th Celebration Booster Bundle",
    "url": "https://playerspot.pt/pokemon-tcg-30th-celebration-booster-bundle"
-  },
-  "https://pokeboxstore.pt/produto/1x-mini-tin-30th-anniversary-celebration-2packs/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "1x Mini Tin – 30th Anniversary Celebration (2packs)",
-   "url": "https://pokeboxstore.pt/produto/1x-mini-tin-30th-anniversary-celebration-2packs/"
-  },
-  "https://pokeboxstore.pt/produto/30th-anniversary-celebration-original-partner-card-set-vol-1/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "30TH Anniversary Celebration Original Partner Card Set Vol.1",
-   "url": "https://pokeboxstore.pt/produto/30th-anniversary-celebration-original-partner-card-set-vol-1/"
-  },
-  "https://pokeboxstore.pt/produto/30th-anniversary-celebration-original-partner-card-set-vol-2/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "30TH Anniversary Celebration Original Partner Card Set Vol.2",
-   "url": "https://pokeboxstore.pt/produto/30th-anniversary-celebration-original-partner-card-set-vol-2/"
-  },
-  "https://pokeboxstore.pt/produto/30th-celebration-booster-pack-japones/": {
-   "available": false,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "30th Celebration Booster Pack (Japonês)",
-   "url": "https://pokeboxstore.pt/produto/30th-celebration-booster-pack-japones/"
-  },
-  "https://pokeboxstore.pt/produto/booster-box-30th-anniversary-celebration-chines/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Booster Box – 30th Anniversary Celebration (Chinês)",
-   "url": "https://pokeboxstore.pt/produto/booster-box-30th-anniversary-celebration-chines/"
-  },
-  "https://pokeboxstore.pt/produto/booster-pack-30th-anniversary-celebration-chines/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Booster Pack – 30th Anniversary Celebration (Chinês)",
-   "url": "https://pokeboxstore.pt/produto/booster-pack-30th-anniversary-celebration-chines/"
-  },
-  "https://pokeboxstore.pt/produto/celebration-pikachu-bandai-figures-30th-anniversary-complete-set-series-1/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Celebration Pikachu: Bandai Figures 30th Anniversary Complete Set Series 1",
-   "url": "https://pokeboxstore.pt/produto/celebration-pikachu-bandai-figures-30th-anniversary-complete-set-series-1/"
-  },
-  "https://pokeboxstore.pt/produto/charizard-30th-celebration-collectible-figure-chines/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Charizard – 30th Celebration – Collectible Figure (Chinês)",
-   "url": "https://pokeboxstore.pt/produto/charizard-30th-celebration-collectible-figure-chines/"
-  },
-  "https://pokeboxstore.pt/produto/chimchar-bandai-figures-30th-anniversary-series-3/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Chimchar – Bandai Figures 30th Anniversary Series 3",
-   "url": "https://pokeboxstore.pt/produto/chimchar-bandai-figures-30th-anniversary-series-3/"
-  },
-  "https://pokeboxstore.pt/produto/display-funism-30th-anniversary-blind-box/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "DISPLAY Funism 30th Anniversary – Figura Blind Box",
-   "url": "https://pokeboxstore.pt/produto/display-funism-30th-anniversary-blind-box/"
-  },
-  "https://pokeboxstore.pt/produto/funism-30th-anniversary-blind-box/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Funism 30th Anniversary – Figura Blind Box",
-   "url": "https://pokeboxstore.pt/produto/funism-30th-anniversary-blind-box/"
-  },
-  "https://pokeboxstore.pt/produto/gengar-glitter-battle-figure-30th-anniversary-750-cm/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Gengar Glitter Battle Figura – 30th Anniversary (7,50 cm)",
-   "url": "https://pokeboxstore.pt/produto/gengar-glitter-battle-figure-30th-anniversary-750-cm/"
-  },
-  "https://pokeboxstore.pt/produto/litten-bandai-figures-30th-anniversary-series-3/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Litten – Bandai Figures 30th Anniversary Series 3",
-   "url": "https://pokeboxstore.pt/produto/litten-bandai-figures-30th-anniversary-series-3/"
-  },
-  "https://pokeboxstore.pt/produto/mudkip-bandai-figures-30th-anniversary-series-3/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Mudkip – Bandai Figures 30th Anniversary Series 3",
-   "url": "https://pokeboxstore.pt/produto/mudkip-bandai-figures-30th-anniversary-series-3/"
-  },
-  "https://pokeboxstore.pt/produto/pikachu-30th-anniversary-blind-box-chines/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Pikachu – 30th Anniversary – Blind Box (Chinês)",
-   "url": "https://pokeboxstore.pt/produto/pikachu-30th-anniversary-blind-box-chines/"
-  },
-  "https://pokeboxstore.pt/produto/pikachu-bandai-figures-30th-anniversary-series-3/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Pikachu – Bandai Figures 30th Anniversary Series 3",
-   "url": "https://pokeboxstore.pt/produto/pikachu-bandai-figures-30th-anniversary-series-3/"
-  },
-  "https://pokeboxstore.pt/produto/pikachu-com-berry-bandai-figures-30th-anniversary-series-3/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Pikachu com Berry – Bandai Figures 30th Anniversary Series 3",
-   "url": "https://pokeboxstore.pt/produto/pikachu-com-berry-bandai-figures-30th-anniversary-series-3/"
-  },
-  "https://pokeboxstore.pt/produto/pikachu-dedenne-bandai-figures-30th-anniversary-series-2/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Pikachu + Dedenne – Bandai Figures 30th Anniversary Series 2",
-   "url": "https://pokeboxstore.pt/produto/pikachu-dedenne-bandai-figures-30th-anniversary-series-2/"
-  },
-  "https://pokeboxstore.pt/produto/pikachu-ditto-bandai-figures-30th-anniversary-series-2/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Pikachu + Ditto – Bandai Figures 30th Anniversary Series 2",
-   "url": "https://pokeboxstore.pt/produto/pikachu-ditto-bandai-figures-30th-anniversary-series-2/"
-  },
-  "https://pokeboxstore.pt/produto/pikachu-glitter-battle-figure-30th-anniversary-750-cm/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Pikachu Glitter Battle Figura – 30th Anniversary (7,50 cm)",
-   "url": "https://pokeboxstore.pt/produto/pikachu-glitter-battle-figure-30th-anniversary-750-cm/"
-  },
-  "https://pokeboxstore.pt/produto/piplup-bandai-figures-30th-anniversary-series-3/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Piplup – Bandai Figures 30th Anniversary Series 3",
-   "url": "https://pokeboxstore.pt/produto/piplup-bandai-figures-30th-anniversary-series-3/"
-  },
-  "https://pokeboxstore.pt/produto/popplio-bandai-figures-30th-anniversary-series-3/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Popplio – Bandai Figures 30th Anniversary Series 3",
-   "url": "https://pokeboxstore.pt/produto/popplio-bandai-figures-30th-anniversary-series-3/"
-  },
-  "https://pokeboxstore.pt/produto/rowlet-bandai-figures-30th-anniversary-series-3/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Rowlet – Bandai Figures 30th Anniversary Series 3",
-   "url": "https://pokeboxstore.pt/produto/rowlet-bandai-figures-30th-anniversary-series-3/"
-  },
-  "https://pokeboxstore.pt/produto/snorlax-pikachu-bandai-figures-30th-anniversary-series-3/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Snorlax + Pikachu – Bandai Figures 30th Anniversary Series 3",
-   "url": "https://pokeboxstore.pt/produto/snorlax-pikachu-bandai-figures-30th-anniversary-series-3/"
-  },
-  "https://pokeboxstore.pt/produto/torchic-bandai-figures-30th-anniversary-series-3/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Torchic – Bandai Figures 30th Anniversary Series 3",
-   "url": "https://pokeboxstore.pt/produto/torchic-bandai-figures-30th-anniversary-series-3/"
-  },
-  "https://pokeboxstore.pt/produto/treecko-bandai-figures-30th-anniversary-series-3/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Treecko – Bandai Figures 30th Anniversary Series 3",
-   "url": "https://pokeboxstore.pt/produto/treecko-bandai-figures-30th-anniversary-series-3/"
-  },
-  "https://pokeboxstore.pt/produto/turtwig-bandai-figures-30th-anniversary-series-3/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Turtwig – Bandai Figures 30th Anniversary Series 3",
-   "url": "https://pokeboxstore.pt/produto/turtwig-bandai-figures-30th-anniversary-series-3/"
-  },
-  "https://pokeboxstore.pt/produto/umbreon-glitter-battle-figure-30th-anniversary-750-cm/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Umbreon Glitter Battle Figura – 30th Anniversary (7,50 cm)",
-   "url": "https://pokeboxstore.pt/produto/umbreon-glitter-battle-figure-30th-anniversary-750-cm/"
   },
   "https://pokelotas.com/products/30th-celebration-2-pack-blister": {
    "available": false,
@@ -2049,7 +1801,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-box/"
   }
  },
- "last_run": "2026-10-29 00:23 UTC",
+ "last_run": "2026-10-29 06:16 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
@@ -2094,7 +1846,7 @@
   "pandacollecting.com": "error",
   "papelinho.pt": "presta",
   "playerspot.pt": "html:/search?q={q}",
-  "pokeboxstore.pt": "html:/?s={q}&post_type=product",
+  "pokeboxstore.pt": "error",
   "pokelotas.com": "shopify",
   "pressstart.pt": "html:/search?q={q}",
   "psydeck.com": "shopify",
