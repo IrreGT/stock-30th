@@ -1225,7 +1225,7 @@
    "url": "https://psydeck.com/products/30th-celebration-elite-trainer-box"
   },
   "https://psydeck.com/products/30th-celebration-elite-trainer-box-embalagem-danificada": {
-   "available": true,
+   "available": false,
    "domain": "psydeck.com",
    "price": "115.00",
    "store": "Psydeck",
@@ -1315,7 +1315,7 @@
   "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese": {
    "available": true,
    "domain": "tcg-family.com",
-   "price": "33.00",
+   "price": "34.00",
    "store": "TCGFamily",
    "title": "Pokémon TCG – 30th Anniversary Dream Painting Pikachu Figure Set Blind Box (Simplified Chinese)",
    "url": "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese"
@@ -1640,6 +1640,14 @@
    "title": "Pokémon 30th Celebration - Booster Bundle",
    "url": "https://untradablestore.com/products/pokemon-30th-celebration-booster-bundle"
   },
+  "https://untradablestore.com/products/pokemon-30th-celebration-ditto-premium-collection": {
+   "available": false,
+   "domain": "untradablestore.com",
+   "price": "95.00",
+   "store": "UntradableStore",
+   "title": "Pokémon 30th Celebration - Ditto Premium Collection",
+   "url": "https://untradablestore.com/products/pokemon-30th-celebration-ditto-premium-collection"
+  },
   "https://untradablestore.com/products/pokemon-30th-celebration-greninja-ex-box": {
    "available": false,
    "domain": "untradablestore.com",
@@ -1801,7 +1809,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-box/"
   }
  },
- "last_run": "2026-10-30 15:52 UTC",
+ "last_run": "2026-10-30 20:30 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
