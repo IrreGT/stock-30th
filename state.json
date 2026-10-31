@@ -512,22 +512,6 @@
    "title": "Pokémon TCG 30th Anniversary First Partner Card Set Vol. 1 (CN)",
    "url": "https://charbinder.com/products/pokemon-tcg-30th-anniversary-first-partner-card-set-vol-1-cn"
   },
-  "https://conbini.pt/product/38072-pokemon-tcg-30th-celebration-espeon-ex-battle-deck-english-38072": {
-   "available": null,
-   "domain": "conbini.pt",
-   "price": null,
-   "store": "Conbini",
-   "title": "Pokémon TCG - 30th Celebration Espeon ex Battle Deck - English",
-   "url": "https://conbini.pt/product/38072-pokemon-tcg-30th-celebration-espeon-ex-battle-deck-english-38072"
-  },
-  "https://conbini.pt/product/38073-pokemon-tcg-30th-celebration-umbreon-ex-battle-deck-english-38073": {
-   "available": null,
-   "domain": "conbini.pt",
-   "price": null,
-   "store": "Conbini",
-   "title": "Pokémon TCG - 30th Celebration Umbreon ex Battle Deck - English",
-   "url": "https://conbini.pt/product/38073-pokemon-tcg-30th-celebration-umbreon-ex-battle-deck-english-38073"
-  },
   "https://diver.pt/pt/pkm-boosters/105984-pkm-30th-celebration-tech-sticker-collection.html": {
    "available": false,
    "domain": "diver.pt",
@@ -1563,7 +1547,7 @@
   "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese": {
    "available": true,
    "domain": "tcg-family.com",
-   "price": "34.00",
+   "price": "33.00",
    "store": "TCGFamily",
    "title": "Pokémon TCG – 30th Anniversary Dream Painting Pikachu Figure Set Blind Box (Simplified Chinese)",
    "url": "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese"
@@ -2057,7 +2041,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-box/"
   }
  },
- "last_run": "2026-10-31 11:13 UTC",
+ "last_run": "2026-10-31 16:10 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
