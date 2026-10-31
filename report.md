@@ -1,9 +1,9 @@
-# Estado do monitor — 2026-10-31 05:31 UTC
+# Estado do monitor — 2026-10-31 11:13 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
-| [AJogar](https://ajogar.com) | shopify | 13 | 7 |  |
+| [AJogar](https://ajogar.com) | shopify | 13 | 4 |  |
 | [AnixWays](https://anixways.com) | woo | 26 | 7 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 14 | 6 |  |
@@ -69,13 +69,10 @@
 
 ## Produtos com stock agora
 
-- **AJogar** — [Pokemon 30th Celebration Day Ultra Premium Collection, English Edition](https://ajogar.com/products/pkm-30-ultraday) — 429.99€
 - **AJogar** — [Pokemon 30th Celebration Ditto Premium Collection, English Edition](https://ajogar.com/products/pkm-30-ditto) — 99.99€
 - **AJogar** — [Pokemon 30th Celebration Ex Box - Greninja, English Edition](https://ajogar.com/products/pkm-30-exboxgreninja) — 44.99€
 - **AJogar** — [Pokemon 30th Celebration Figure Collection - Mew, English Edition](https://ajogar.com/products/pkm-30-figuremew) — 79.99€
 - **AJogar** — [Pokemon 30th Celebration Figure Collection - Mewtwo, English Edition](https://ajogar.com/products/pkm-30-figuremewtwo) — 89.99€
-- **AJogar** — [Pokemon 30th Celebration Mini Tin - Day Pikachu & Vivillon, English Edition](https://ajogar.com/products/pkm-30-mini5) — 23.99€
-- **AJogar** — [Pokemon 30th Celebration Night Ultra Premium Collection, English Edition](https://ajogar.com/products/pkm-30-ultrant) — 429.99€
 - **AnixWays** — [30th Celebration Booster Bundle](https://anixways.com/product/30th-celebration-booster-bundle/) — 71.90€
 - **AnixWays** — [30th Celebration Poster Collection](https://anixways.com/product/30th-celebration-poster-collection/) — 40.40€
 - **AnixWays** — [30th Celebration: Ditto Premium Collection](https://anixways.com/product/30th-celebration-ditto-premium-collection/) — 105.00€
@@ -130,7 +127,7 @@
 - **SenhorGato** — [TCG Pokémon - 30th Anniversary First Partner Series 2 - Chinese](https://lojasenhorgato.pt/products/tcg-pokemon-30th-anniversary-first-partner-series-2-chinese) — 15.00€
 - **SenhorGato** — [TCG Pokémon - 30th Anniversary First Partner Series 3 - Chinese](https://lojasenhorgato.pt/products/tcg-pokemon-30th-anniversary-first-partner-series-3-chinese) — 15.00€
 - **TCGFamily** — [Pokémon TCG 30th Anniversary Celebration Coin Set CHINESE Ver.](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-coin-set-chinese-ver) — 22.00€
-- **TCGFamily** — [Pokémon TCG – 30th Anniversary Dream Painting Pikachu Figure Set Blind Box (Simplified Chinese)](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese) — 33.00€
+- **TCGFamily** — [Pokémon TCG – 30th Anniversary Dream Painting Pikachu Figure Set Blind Box (Simplified Chinese)](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese) — 34.00€
 - **TemplarsArena** — [30th Celebration Booster Bundle - English](https://templarsarena.com/products/30th-celebration-booster-bundle) — 75.00€
 - **TemplarsArena** — [30th Celebration Elite Trainer Box](https://templarsarena.com/products/30th-celebration-elite-trainer-box) — 159.90€
 - **TemplarsArena** — [30th Celebration Mini Tin (Random)](https://templarsarena.com/products/30th-celebration-mini-tin-random) — 25.00€

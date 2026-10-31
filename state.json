@@ -65,7 +65,7 @@
    "url": "https://ajogar.com/products/pkm-30-figuremewtwo"
   },
   "https://ajogar.com/products/pkm-30-mini5": {
-   "available": true,
+   "available": false,
    "domain": "ajogar.com",
    "price": "23.99",
    "store": "AJogar",
@@ -81,7 +81,7 @@
    "url": "https://ajogar.com/products/pkm-30-poster"
   },
   "https://ajogar.com/products/pkm-30-ultraday": {
-   "available": true,
+   "available": false,
    "domain": "ajogar.com",
    "price": "429.99",
    "store": "AJogar",
@@ -89,7 +89,7 @@
    "url": "https://ajogar.com/products/pkm-30-ultraday"
   },
   "https://ajogar.com/products/pkm-30-ultrant": {
-   "available": true,
+   "available": false,
    "domain": "ajogar.com",
    "price": "429.99",
    "store": "AJogar",
@@ -1563,7 +1563,7 @@
   "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese": {
    "available": true,
    "domain": "tcg-family.com",
-   "price": "33.00",
+   "price": "34.00",
    "store": "TCGFamily",
    "title": "Pokémon TCG – 30th Anniversary Dream Painting Pikachu Figure Set Blind Box (Simplified Chinese)",
    "url": "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese"
@@ -2057,7 +2057,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-box/"
   }
  },
- "last_run": "2026-10-31 05:31 UTC",
+ "last_run": "2026-10-31 11:13 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
