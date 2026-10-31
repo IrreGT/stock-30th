@@ -1,9 +1,9 @@
-# Estado do monitor — 2026-10-31 00:02 UTC
+# Estado do monitor — 2026-10-31 05:31 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
-| [AJogar](https://ajogar.com) | shopify | 13 | 5 |  |
+| [AJogar](https://ajogar.com) | shopify | 13 | 7 |  |
 | [AnixWays](https://anixways.com) | woo | 26 | 7 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 14 | 6 |  |
@@ -44,7 +44,7 @@
 | [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 |  |
 | [Papelinho](https://papelinho.pt) | presta | 0 | 0 |  |
 | [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 2 | 0 |  |
-| [PokeboxStore](https://pokeboxstore.pt) | error | 0 | 0 |  |
+| [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 31 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 9 | 0 |  |
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
 | [Psydeck](https://psydeck.com) | shopify | 13 | 2 |  |
@@ -55,7 +55,7 @@
 | [Shop4Nerds](https://shop4nerds.pt) | error | 0 | 0 |  |
 | [Stickerpoint](https://stickerpoint.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [TCGFamily](https://tcg-family.com) | shopify | 3 | 2 |  |
-| [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='tcghaven.pt', port=443): Read timed out. (read timeout=20) |
+| [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 7 | 0 |  |
 | [TemplarsArena](https://templarsarena.com) | shopify | 12 | 6 |  |
 | [The Kanto Market](https://thekantomarket.com) | shopify | 0 | 0 |  |
 | [Totobayshop](https://totobayshop.com) | shopify | 9 | 2 |  |
@@ -69,11 +69,13 @@
 
 ## Produtos com stock agora
 
-- **AJogar** — [Pokemon 30th Anniversary Booster Pack of 6 Cards, Japanese](https://ajogar.com/products/pokemon-30th-anniversary-booster-pack-of-6-cards-japanese) — 11.00€
-- **AJogar** — [Pokemon 30th Celebration Booster Bundle, English Edition](https://ajogar.com/products/pkm-30-bundle) — 64.99€
+- **AJogar** — [Pokemon 30th Celebration Day Ultra Premium Collection, English Edition](https://ajogar.com/products/pkm-30-ultraday) — 429.99€
+- **AJogar** — [Pokemon 30th Celebration Ditto Premium Collection, English Edition](https://ajogar.com/products/pkm-30-ditto) — 99.99€
 - **AJogar** — [Pokemon 30th Celebration Ex Box - Greninja, English Edition](https://ajogar.com/products/pkm-30-exboxgreninja) — 44.99€
-- **AJogar** — [Pokemon 30th Celebration Ex Box - Sylveon, English Edition](https://ajogar.com/products/pkm-30-exboxsylveon) — 44.99€
+- **AJogar** — [Pokemon 30th Celebration Figure Collection - Mew, English Edition](https://ajogar.com/products/pkm-30-figuremew) — 79.99€
+- **AJogar** — [Pokemon 30th Celebration Figure Collection - Mewtwo, English Edition](https://ajogar.com/products/pkm-30-figuremewtwo) — 89.99€
 - **AJogar** — [Pokemon 30th Celebration Mini Tin - Day Pikachu & Vivillon, English Edition](https://ajogar.com/products/pkm-30-mini5) — 23.99€
+- **AJogar** — [Pokemon 30th Celebration Night Ultra Premium Collection, English Edition](https://ajogar.com/products/pkm-30-ultrant) — 429.99€
 - **AnixWays** — [30th Celebration Booster Bundle](https://anixways.com/product/30th-celebration-booster-bundle/) — 71.90€
 - **AnixWays** — [30th Celebration Poster Collection](https://anixways.com/product/30th-celebration-poster-collection/) — 40.40€
 - **AnixWays** — [30th Celebration: Ditto Premium Collection](https://anixways.com/product/30th-celebration-ditto-premium-collection/) — 105.00€
