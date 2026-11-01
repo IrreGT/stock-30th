@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-11-01 02:23 UTC
+# Estado do monitor — 2026-11-01 09:32 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [DrawPhase](https://drawphase.pt) | shopify | 0 | 0 |  |
 | [Drawstep](https://drawstep.com) | shopify | 6 | 1 |  |
 | [El Corte Inglés](https://elcorteingles.pt) | error | 0 | 0 |  |
-| [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 |  |
+| [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 | ConnectTimeout: HTTPSConnectionPool(host='games-island.eu', port=443): Max retries exceeded with url: /products.json?limit=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='games-island.eu', por |
 | [Gatorcards](https://gatorcards.pt) | shopify | 8 | 1 |  |
 | [Geekhaven](https://geekhaven.pt) | shopify | 13 | 0 |  |
 | [GgLounge](https://gglounge.pt) | woo | 0 | 0 |  |
@@ -47,20 +47,20 @@
 | [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 31 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 9 | 0 |  |
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
-| [Psydeck](https://psydeck.com) | shopify | 13 | 2 |  |
+| [Psydeck](https://psydeck.com) | shopify | 14 | 2 |  |
 | [PTMerch](https://ptmerch.com) | error | 0 | 0 |  |
-| [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
+| [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 |  |
 | [Rota151](https://rota151.pt) | woo | 0 | 0 |  |
 | [SenhorGato](https://lojasenhorgato.pt) | shopify | 6 | 4 |  |
 | [Shop4Nerds](https://shop4nerds.pt) | error | 0 | 0 |  |
 | [Stickerpoint](https://stickerpoint.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [TCGFamily](https://tcg-family.com) | shopify | 3 | 2 |  |
-| [TCGHaven](https://tcghaven.pt) | error | 0 | 0 |  |
+| [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 7 | 0 |  |
 | [TemplarsArena](https://templarsarena.com) | shopify | 12 | 6 |  |
 | [The Kanto Market](https://thekantomarket.com) | shopify | 0 | 0 |  |
 | [Totobayshop](https://totobayshop.com) | shopify | 9 | 2 |  |
 | [ToysRUsPT](https://toysrus.pt) | error | 0 | 0 |  |
-| [TriplaceGames](https://triplacegames.com) | html:/search?q={q} | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='www.triplacegames.com', port=443): Read timed out. (read timeout=20) |
+| [TriplaceGames](https://triplacegames.com) | html:/search?q={q} | 9 | 0 |  |
 | [UntradableStore](https://untradablestore.com) | shopify | 11 | 0 |  |
 | [VenturaCardGames](https://venturacardgames.com) | shopify | 1 | 1 |  |
 | [VersusGameCenter](https://versusgamecenter.pt) | shopify | 0 | 0 |  |
