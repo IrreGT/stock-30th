@@ -1128,16 +1128,8 @@
    "title": "Pokemon – 30th Celebration – Simplified Chinese Booster Box (20 Boosters)",
    "url": "https://mercadiagames.pt/produto/pokemon-30th-celebration-simplified-chinese-booster-box-20-boosters/"
   },
-  "https://playerspot.pt/30th-anniversary-celebration-original-partner-card-set-vol1": {
-   "available": false,
-   "domain": "playerspot.pt",
-   "price": null,
-   "store": "PlayerSpot",
-   "title": "30TH Anniversary Celebration Original Partner Card Set Vol.1",
-   "url": "https://playerspot.pt/30th-anniversary-celebration-original-partner-card-set-vol1"
-  },
   "https://playerspot.pt/pokemon-tcg-30th-celebration-booster-bundle": {
-   "available": false,
+   "available": null,
    "domain": "playerspot.pt",
    "price": null,
    "store": "PlayerSpot",
@@ -1595,7 +1587,7 @@
   "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese": {
    "available": true,
    "domain": "tcg-family.com",
-   "price": "34.00",
+   "price": "33.00",
    "store": "TCGFamily",
    "title": "Pokémon TCG – 30th Anniversary Dream Painting Pikachu Figure Set Blind Box (Simplified Chinese)",
    "url": "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese"
@@ -2073,7 +2065,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-box/"
   }
  },
- "last_run": "2026-11-01 20:43 UTC",
+ "last_run": "2026-11-01 23:57 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
