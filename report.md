@@ -1,16 +1,16 @@
-# Estado do monitor — 2026-11-01 09:32 UTC
+# Estado do monitor — 2026-11-01 16:22 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
 | [AJogar](https://ajogar.com) | shopify | 13 | 4 |  |
-| [AnixWays](https://anixways.com) | woo | 26 | 7 |  |
+| [AnixWays](https://anixways.com) | woo | 0 | 0 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 14 | 6 |  |
 | [Brokards](https://brokards.com) | shopify | 10 | 0 |  |
 | [Byulverse](https://byulverse.eu) | error | 0 | 0 |  |
 | [CardFever](https://cardfever.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
-| [CentroXogo](https://centroxogo.pt) | error | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='centroxogo.pt', port=443): Read timed out. (read timeout=20) |
+| [CentroXogo](https://centroxogo.pt) | error | 0 | 0 | ConnectionError: HTTPSConnectionPool(host='centroxogo.pt', port=443): Max retries exceeded with url: /products.json?limit=1 (Caused by NewConnectionError("HTTPSConnection(host='centroxogo.pt', port=44 |
 | [Charbinder](https://charbinder.com) | shopify | 1 | 1 |  |
 | [Colecionar](https://colecionar.pt) | error | 0 | 0 |  |
 | [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 3 | 0 |  |
@@ -19,7 +19,7 @@
 | [DrawPhase](https://drawphase.pt) | shopify | 0 | 0 |  |
 | [Drawstep](https://drawstep.com) | shopify | 6 | 1 |  |
 | [El Corte Inglés](https://elcorteingles.pt) | error | 0 | 0 |  |
-| [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 | ConnectTimeout: HTTPSConnectionPool(host='games-island.eu', port=443): Max retries exceeded with url: /products.json?limit=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='games-island.eu', por |
+| [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 |  |
 | [Gatorcards](https://gatorcards.pt) | shopify | 8 | 1 |  |
 | [Geekhaven](https://geekhaven.pt) | shopify | 13 | 0 |  |
 | [GgLounge](https://gglounge.pt) | woo | 0 | 0 |  |
@@ -31,7 +31,7 @@
 | [LootLab](https://lootlab.pt) | html:/search?q={q} | 4 | 0 |  |
 | [LostForgeStore](https://lostforgestore.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [LotusValley](https://lotusvalley.pt) | woo | 11 | 11 |  |
-| [ManaTCG](https://manatcg.com) | shopify | 5 | 0 |  |
+| [ManaTCG](https://manatcg.com) | shopify | 6 | 1 |  |
 | [ManaVault](https://manavault.pt) | shopify | 0 | 0 |  |
 | [MasterPacks](https://masterpacks.pt) | html:/search?q={q} | 0 | 0 |  |
 | [MercadiaGames](https://mercadiagames.pt) | woo | 7 | 7 |  |
@@ -73,13 +73,6 @@
 - **AJogar** — [Pokemon 30th Celebration Ex Box - Greninja, English Edition](https://ajogar.com/products/pkm-30-exboxgreninja) — 44.99€
 - **AJogar** — [Pokemon 30th Celebration Figure Collection - Mew, English Edition](https://ajogar.com/products/pkm-30-figuremew) — 79.99€
 - **AJogar** — [Pokemon 30th Celebration Figure Collection - Mewtwo, English Edition](https://ajogar.com/products/pkm-30-figuremewtwo) — 89.99€
-- **AnixWays** — [30th Celebration Booster Bundle](https://anixways.com/product/30th-celebration-booster-bundle/) — 71.90€
-- **AnixWays** — [30th Celebration Poster Collection](https://anixways.com/product/30th-celebration-poster-collection/) — 40.40€
-- **AnixWays** — [30th Celebration: Ditto Premium Collection](https://anixways.com/product/30th-celebration-ditto-premium-collection/) — 105.00€
-- **AnixWays** — [30th Celebration: Espeon EX Battle Deck](https://anixways.com/product/30th-celebration-espeon-ex-battle-deck/) — 40.00€
-- **AnixWays** — [30th Celebration: Mew Figure Collection](https://anixways.com/product/30th-celebration-mew-figure-collection/) — 90.00€
-- **AnixWays** — [30th Celebration: Mewtwo Figure Collection](https://anixways.com/product/30th-celebration-mewtwo-figure-collection/) — 90.00€
-- **AnixWays** — [Pokémon Plush Figure 30th Anniversary Pikachu 20 cm](https://anixways.com/product/pokemon-plush-figure-30th-anniversary-pikachu-20-cm/) — 22.25€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.1](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1) — 15.50€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.3](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-3) — 16.00€
 - **Biridama** — [30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.2](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-2) — 14.00€
@@ -108,6 +101,7 @@
 - **LotusValley** — [30th Celebration: Espeon ex Battle Deck](https://lotusvalley.pt/produto/30th-celebration-espeon-ex-battle-deck/) — 50.00€
 - **LotusValley** — [30th Celebration: Sylveon ex Box](https://lotusvalley.pt/produto/30th-celebration-sylveon-ex-box/) — 69.90€
 - **LotusValley** — [Peluche Pokémon 30th Anniversary Pikachu 20 cm](https://lotusvalley.pt/produto/peluche-pokemon-30th-anniversary-pikachu-20-cm/) — 22.00€
+- **ManaTCG** — [Pokémon TCG: 30th Celebration Mini Tin](https://manatcg.com/products/pokemon-tcg-30th-celebration-mini-tin-random) — 24.99€
 - **MercadiaGames** — [30th Celebration Simplified Chinese Espeon ex & Umbreon ex Gift Box](https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-espeon-ex-umbreon-ex-gift-box/) — 249.90€
 - **MercadiaGames** — [30th Celebration Simplified Chinese Espeon ex Deluxe Deck Set](https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-espeon-ex-luxury-set/) — 49.90€
 - **MercadiaGames** — [30th Celebration Simplified Chinese Greninja ex Card Display Set](https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-greninja-ex-card-display-set/) — 39.90€
