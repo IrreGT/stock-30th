@@ -1571,66 +1571,10 @@
   "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese": {
    "available": true,
    "domain": "tcg-family.com",
-   "price": "33.00",
+   "price": "34.00",
    "store": "TCGFamily",
    "title": "Pokémon TCG – 30th Anniversary Dream Painting Pikachu Figure Set Blind Box (Simplified Chinese)",
    "url": "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese"
-  },
-  "https://tcghaven.pt/30th-celebration-2-pack-blister-eng": {
-   "available": null,
-   "domain": "tcghaven.pt",
-   "price": null,
-   "store": "TCGHaven",
-   "title": "30th Celebration 2 Pack Blister | 30th",
-   "url": "https://tcghaven.pt/30th-celebration-2-pack-blister-eng"
-  },
-  "https://tcghaven.pt/30th-celebration-booster-bundle-eng-1": {
-   "available": null,
-   "domain": "tcghaven.pt",
-   "price": null,
-   "store": "TCGHaven",
-   "title": "30th Celebration Booster Bundle | 30th",
-   "url": "https://tcghaven.pt/30th-celebration-booster-bundle-eng-1"
-  },
-  "https://tcghaven.pt/30th-celebration-ex-box": {
-   "available": false,
-   "domain": "tcghaven.pt",
-   "price": null,
-   "store": "TCGHaven",
-   "title": "30th Celebration EX Box | 30th",
-   "url": "https://tcghaven.pt/30th-celebration-ex-box"
-  },
-  "https://tcghaven.pt/30th-celebration-ex-tin": {
-   "available": null,
-   "domain": "tcghaven.pt",
-   "price": null,
-   "store": "TCGHaven",
-   "title": "30th Celebration EX Tin | 30th",
-   "url": "https://tcghaven.pt/30th-celebration-ex-tin"
-  },
-  "https://tcghaven.pt/30th-celebration-mini-tins-1": {
-   "available": null,
-   "domain": "tcghaven.pt",
-   "price": null,
-   "store": "TCGHaven",
-   "title": "30th Celebration Mini Tins | 30th",
-   "url": "https://tcghaven.pt/30th-celebration-mini-tins-1"
-  },
-  "https://tcghaven.pt/30th-celebration-poster-collection": {
-   "available": null,
-   "domain": "tcghaven.pt",
-   "price": null,
-   "store": "TCGHaven",
-   "title": "30th Celebration Poster Collection | 30th",
-   "url": "https://tcghaven.pt/30th-celebration-poster-collection"
-  },
-  "https://tcghaven.pt/30th-celebration-tech-sticker": {
-   "available": false,
-   "domain": "tcghaven.pt",
-   "price": null,
-   "store": "TCGHaven",
-   "title": "30th Celebration Tech Sticker | 30th",
-   "url": "https://tcghaven.pt/30th-celebration-tech-sticker"
   },
   "https://templarsarena.com/products/30th-celebration-booster-bundle": {
    "available": true,
@@ -2017,7 +1961,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-booster-bundle/"
   },
   "https://www.ohlicards.pt/produto/pokemon-30th-celebration-booster-pack-japones/": {
-   "available": true,
+   "available": false,
    "domain": "ohlicards.pt",
    "price": "13.99",
    "store": "OhliCards",
@@ -2033,7 +1977,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-elite-trainer-box/"
   },
   "https://www.ohlicards.pt/produto/pokemon-30th-celebration-greninja-ex-box/": {
-   "available": true,
+   "available": false,
    "domain": "ohlicards.pt",
    "price": "59.99",
    "store": "OhliCards",
@@ -2065,7 +2009,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-box/"
   }
  },
- "last_run": "2026-10-31 23:20 UTC",
+ "last_run": "2026-11-01 02:23 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
@@ -2120,7 +2064,7 @@
   "shop4nerds.pt": "error",
   "stickerpoint.pt": "html:/?s={q}&post_type=product",
   "tcg-family.com": "shopify",
-  "tcghaven.pt": "html:/search?q={q}",
+  "tcghaven.pt": "error",
   "templarsarena.com": "shopify",
   "thekantomarket.com": "shopify",
   "totobayshop.com": "shopify",
