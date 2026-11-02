@@ -40,13 +40,13 @@
    "title": "Pokemon 30th Celebration Ex Box - Sylveon, English Edition",
    "url": "https://ajogar.com/products/pkm-30-exboxsylveon"
   },
-  "https://ajogar.com/products/pkm-30-extinsylveon": {
+  "https://ajogar.com/products/pkm-30-extingreninja": {
    "available": false,
    "domain": "ajogar.com",
    "price": "44.99",
    "store": "AJogar",
-   "title": "Pokemon 30th Celebration Ex Tin - Sylveon, English Edition",
-   "url": "https://ajogar.com/products/pkm-30-extinsylveon"
+   "title": "Pokemon 30th Celebration Ex Tin - Greninja, English Edition",
+   "url": "https://ajogar.com/products/pkm-30-extingreninja"
   },
   "https://ajogar.com/products/pkm-30-figuremew": {
    "available": true,
@@ -527,14 +527,6 @@
    "store": "Conbini",
    "title": "Pokémon TCG - 30th Celebration Espeon ex Battle Deck - English",
    "url": "https://conbini.pt/product/38072-pokemon-tcg-30th-celebration-espeon-ex-battle-deck-english-38072"
-  },
-  "https://conbini.pt/product/38073-pokemon-tcg-30th-celebration-umbreon-ex-battle-deck-english-38073": {
-   "available": null,
-   "domain": "conbini.pt",
-   "price": null,
-   "store": "Conbini",
-   "title": "Pokémon TCG - 30th Celebration Umbreon ex Battle Deck - English",
-   "url": "https://conbini.pt/product/38073-pokemon-tcg-30th-celebration-umbreon-ex-battle-deck-english-38073"
   },
   "https://diver.pt/pt/pkm-boosters/105984-pkm-30th-celebration-tech-sticker-collection.html": {
    "available": false,
@@ -1051,7 +1043,7 @@
   "https://manatcg.com/products/pokemon-tcg-30th-celebration-mini-tin-random": {
    "available": true,
    "domain": "manatcg.com",
-   "price": "24.99",
+   "price": "22.99",
    "store": "ManaTCG",
    "title": "Pokémon TCG: 30th Celebration Mini Tin",
    "url": "https://manatcg.com/products/pokemon-tcg-30th-celebration-mini-tin-random"
@@ -1496,14 +1488,6 @@
    "title": "30th Celebration Elite Trainer Box (Embalagem danificada)",
    "url": "https://psydeck.com/products/30th-celebration-elite-trainer-box-embalagem-danificada"
   },
-  "https://psydeck.com/products/30th-celebration-espeon-ex-battle-deck": {
-   "available": false,
-   "domain": "psydeck.com",
-   "price": "48.00",
-   "store": "Psydeck",
-   "title": "30th Celebration Espeon ex Battle Deck",
-   "url": "https://psydeck.com/products/30th-celebration-espeon-ex-battle-deck"
-  },
   "https://psydeck.com/products/30th-celebration-ex-box-greninja-ex": {
    "available": true,
    "domain": "psydeck.com",
@@ -1571,7 +1555,7 @@
   "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver": {
    "available": false,
    "domain": "tcg-family.com",
-   "price": "114.00",
+   "price": "115.00",
    "store": "TCGFamily",
    "title": "Pokémon TCG 30th Anniversary Celebration Booster Box Chinese Ver",
    "url": "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver"
@@ -2065,7 +2049,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-box/"
   }
  },
- "last_run": "2026-11-02 05:33 UTC",
+ "last_run": "2026-11-02 13:50 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",

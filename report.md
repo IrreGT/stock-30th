@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-11-02 05:33 UTC
+# Estado do monitor — 2026-11-02 13:50 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [CentroXogo](https://centroxogo.pt) | error | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='centroxogo.pt', port=443): Read timed out. (read timeout=20) |
 | [Charbinder](https://charbinder.com) | shopify | 1 | 1 |  |
 | [Colecionar](https://colecionar.pt) | error | 0 | 0 |  |
-| [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 3 | 0 |  |
+| [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 2 | 0 |  |
 | [Continente](https://continente.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Diver](https://diver.pt) | presta | 7 | 1 |  |
 | [DrawPhase](https://drawphase.pt) | shopify | 0 | 0 |  |
@@ -47,9 +47,9 @@
 | [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 31 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 9 | 0 |  |
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
-| [Psydeck](https://psydeck.com) | shopify | 14 | 2 |  |
+| [Psydeck](https://psydeck.com) | shopify | 13 | 2 |  |
 | [PTMerch](https://ptmerch.com) | error | 0 | 0 |  |
-| [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='rorizlair.com', port=443): Read timed out. (read timeout=20) |
+| [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 |  |
 | [Rota151](https://rota151.pt) | woo | 0 | 0 |  |
 | [SenhorGato](https://lojasenhorgato.pt) | shopify | 6 | 4 |  |
 | [Shop4Nerds](https://shop4nerds.pt) | error | 0 | 0 |  |
@@ -104,7 +104,7 @@
 - **LotusValley** — [30th Celebration: Espeon ex Battle Deck](https://lotusvalley.pt/produto/30th-celebration-espeon-ex-battle-deck/) — 50.00€
 - **LotusValley** — [30th Celebration: Sylveon ex Box](https://lotusvalley.pt/produto/30th-celebration-sylveon-ex-box/) — 69.90€
 - **LotusValley** — [Peluche Pokémon 30th Anniversary Pikachu 20 cm](https://lotusvalley.pt/produto/peluche-pokemon-30th-anniversary-pikachu-20-cm/) — 22.00€
-- **ManaTCG** — [Pokémon TCG: 30th Celebration Mini Tin](https://manatcg.com/products/pokemon-tcg-30th-celebration-mini-tin-random) — 24.99€
+- **ManaTCG** — [Pokémon TCG: 30th Celebration Mini Tin](https://manatcg.com/products/pokemon-tcg-30th-celebration-mini-tin-random) — 22.99€
 - **MercadiaGames** — [30th Celebration Simplified Chinese Espeon ex & Umbreon ex Gift Box](https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-espeon-ex-umbreon-ex-gift-box/) — 249.90€
 - **MercadiaGames** — [30th Celebration Simplified Chinese Espeon ex Deluxe Deck Set](https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-espeon-ex-luxury-set/) — 49.90€
 - **MercadiaGames** — [30th Celebration Simplified Chinese Greninja ex Card Display Set](https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-greninja-ex-card-display-set/) — 39.90€
