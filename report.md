@@ -1,9 +1,9 @@
-# Estado do monitor — 2026-11-02 13:50 UTC
+# Estado do monitor — 2026-11-02 22:38 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
-| [AJogar](https://ajogar.com) | shopify | 13 | 3 |  |
+| [AJogar](https://ajogar.com) | shopify | 13 | 2 |  |
 | [AnixWays](https://anixways.com) | woo | 26 | 7 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 14 | 6 |  |
@@ -13,7 +13,7 @@
 | [CentroXogo](https://centroxogo.pt) | error | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='centroxogo.pt', port=443): Read timed out. (read timeout=20) |
 | [Charbinder](https://charbinder.com) | shopify | 1 | 1 |  |
 | [Colecionar](https://colecionar.pt) | error | 0 | 0 |  |
-| [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 2 | 0 |  |
+| [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [Continente](https://continente.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Diver](https://diver.pt) | presta | 7 | 1 |  |
 | [DrawPhase](https://drawphase.pt) | shopify | 0 | 0 |  |
@@ -49,14 +49,14 @@
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
 | [Psydeck](https://psydeck.com) | shopify | 13 | 2 |  |
 | [PTMerch](https://ptmerch.com) | error | 0 | 0 |  |
-| [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 |  |
+| [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [Rota151](https://rota151.pt) | woo | 0 | 0 |  |
 | [SenhorGato](https://lojasenhorgato.pt) | shopify | 6 | 4 |  |
 | [Shop4Nerds](https://shop4nerds.pt) | error | 0 | 0 |  |
 | [Stickerpoint](https://stickerpoint.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [TCGFamily](https://tcg-family.com) | shopify | 3 | 2 |  |
 | [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 7 | 0 |  |
-| [TemplarsArena](https://templarsarena.com) | shopify | 12 | 7 |  |
+| [TemplarsArena](https://templarsarena.com) | shopify | 12 | 9 |  |
 | [The Kanto Market](https://thekantomarket.com) | shopify | 0 | 0 |  |
 | [Totobayshop](https://totobayshop.com) | shopify | 9 | 2 |  |
 | [ToysRUsPT](https://toysrus.pt) | error | 0 | 0 |  |
@@ -70,7 +70,6 @@
 ## Produtos com stock agora
 
 - **AJogar** — [Pokemon 30th Celebration Ditto Premium Collection, English Edition](https://ajogar.com/products/pkm-30-ditto) — 99.99€
-- **AJogar** — [Pokemon 30th Celebration Figure Collection - Mew, English Edition](https://ajogar.com/products/pkm-30-figuremew) — 79.99€
 - **AJogar** — [Pokemon 30th Celebration Figure Collection - Mewtwo, English Edition](https://ajogar.com/products/pkm-30-figuremewtwo) — 89.99€
 - **AnixWays** — [30th Celebration Booster Bundle](https://anixways.com/product/30th-celebration-booster-bundle/) — 71.90€
 - **AnixWays** — [30th Celebration Poster Collection](https://anixways.com/product/30th-celebration-poster-collection/) — 40.40€
@@ -128,6 +127,8 @@
 - **TemplarsArena** — [30th Celebration Poster Collection](https://templarsarena.com/products/30th-celebration-poster-collection) — 50.00€
 - **TemplarsArena** — [30th Celebration: Greninja ex Box](https://templarsarena.com/products/30th-celebration-greninja-ex-box) — 55.00€
 - **TemplarsArena** — [30th Celebration: Sylveon ex Box](https://templarsarena.com/products/30th-celebration-sylveon-ex-box) — 55.00€
+- **TemplarsArena** — [Pokémon 30th Anniversary First Partner Vol. 3 - Chinese](https://templarsarena.com/products/pokemon-30th-anniversary-first-partner-vol-3-chinese) — 16.00€
+- **TemplarsArena** — [Pokémon TCG – First Partner 30th Anniversary – Vol. 3 – Simplified Chinese](https://templarsarena.com/products/pokemon-tcg-first-partner-30th-anniversary-display-vol-3-simplified-chinese) — 16.00€
 - **TemplarsArena** — [Pokémon: 30th Celebration booster](https://templarsarena.com/products/pokemon-30th-celebration-booster) — 15.00€
 - **Totobayshop** — [30th Celebration - Mini Tin (Day)](https://totobayshop.com/products/30th-celebration-mini-tin-copy) — 24.30€
 - **Totobayshop** — [30th Celebration - Mini Tin (Night)](https://totobayshop.com/products/30th-celebration-mini-tin-copy-1) — 24.30€
