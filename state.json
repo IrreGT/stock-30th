@@ -1457,9 +1457,9 @@
    "url": "https://psydeck.com/products/30th-celebration-ditto-premium-collection"
   },
   "https://psydeck.com/products/30th-celebration-elite-trainer-box": {
-   "available": false,
+   "available": true,
    "domain": "psydeck.com",
-   "price": "92.02",
+   "price": "130.00",
    "store": "Psydeck",
    "title": "30th Celebration Elite Trainer Box",
    "url": "https://psydeck.com/products/30th-celebration-elite-trainer-box"
@@ -1505,7 +1505,7 @@
    "url": "https://psydeck.com/products/30th-celebration-mini-tin-night"
   },
   "https://psydeck.com/products/30th-celebration-poster-collection-2": {
-   "available": false,
+   "available": true,
    "domain": "psydeck.com",
    "price": "35.00",
    "store": "Psydeck",
@@ -1529,7 +1529,7 @@
    "url": "https://psydeck.com/products/30th-celebration-ultra-premium-collection-night"
   },
   "https://psydeck.com/products/30th-celebration-umbreon-ex-battle-deck": {
-   "available": false,
+   "available": true,
    "domain": "psydeck.com",
    "price": "48.00",
    "store": "Psydeck",
@@ -2033,7 +2033,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-box/"
   }
  },
- "last_run": "2026-11-03 11:24 UTC",
+ "last_run": "2026-11-03 18:35 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
@@ -2041,7 +2041,7 @@
   "arkay.pt": "html:/search?q={q}",
   "biridama.pt": "shopify",
   "brokards.com": "shopify",
-  "byulverse.eu": "html:/search?q={q}",
+  "byulverse.eu": "error",
   "cardfever.pt": "error",
   "centroxogo.pt": "error",
   "charbinder.com": "shopify",

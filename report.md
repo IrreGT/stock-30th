@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-11-03 11:24 UTC
+# Estado do monitor — 2026-11-03 18:35 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -8,7 +8,7 @@
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 14 | 6 |  |
 | [Brokards](https://brokards.com) | shopify | 10 | 0 |  |
-| [Byulverse](https://byulverse.eu) | html:/search?q={q} | 0 | 0 |  |
+| [Byulverse](https://byulverse.eu) | error | 0 | 0 |  |
 | [CardFever](https://cardfever.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [CentroXogo](https://centroxogo.pt) | error | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='centroxogo.pt', port=443): Read timed out. (read timeout=20) |
 | [Charbinder](https://charbinder.com) | shopify | 1 | 1 |  |
@@ -47,7 +47,7 @@
 | [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 31 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 9 | 0 |  |
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
-| [Psydeck](https://psydeck.com) | shopify | 13 | 2 |  |
+| [Psydeck](https://psydeck.com) | shopify | 13 | 5 |  |
 | [PTMerch](https://ptmerch.com) | error | 0 | 0 |  |
 | [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 |  |
 | [Rota151](https://rota151.pt) | woo | 0 | 0 |  |
@@ -114,6 +114,9 @@
 - **OhliCards** — [Pokémon 30th Celebration – Mini Tin (Aleatório)](https://www.ohlicards.pt/produto/pokemon-30th-celebration-mini-tin-aleatorio/) — 24.99€
 - **OhliCards** — [Pokémon 30th Celebration – Poster Collection](https://www.ohlicards.pt/produto/pokemon-30th-celebration-poster-collection/) — 54.99€
 - **Psydeck** — [30th Celebration 2-Pack Blister Eevee](https://psydeck.com/products/30th-celebration-2-pack-blister-eevee) — 28.00€
+- **Psydeck** — [30th Celebration Elite Trainer Box](https://psydeck.com/products/30th-celebration-elite-trainer-box) — 130.00€
+- **Psydeck** — [30th Celebration Poster Collection](https://psydeck.com/products/30th-celebration-poster-collection-2) — 35.00€
+- **Psydeck** — [30th Celebration Umbreon ex Battle Deck](https://psydeck.com/products/30th-celebration-umbreon-ex-battle-deck) — 48.00€
 - **Psydeck** — [30th Celebration ex Box Greninja ex](https://psydeck.com/products/30th-celebration-ex-box-greninja-ex) — 55.00€
 - **SenhorGato** — [Pokémon TCG - 30th Anniversary Dream Painting Figure - Chinês](https://lojasenhorgato.pt/products/pokemon-tcg-30th-anniversary-dream-painting-figure-chines-pre-reserva) — 35.00€
 - **SenhorGato** — [TCG Pokémon - 30th Anniversary First Partner Series 1 - Chinese](https://lojasenhorgato.pt/products/tcg-pokemon-30th-anniversary-first-partner-series-1-chinese) — 15.00€
