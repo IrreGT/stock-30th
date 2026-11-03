@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-11-03 03:42 UTC
+# Estado do monitor — 2026-11-03 11:24 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -8,7 +8,7 @@
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 14 | 6 |  |
 | [Brokards](https://brokards.com) | shopify | 10 | 0 |  |
-| [Byulverse](https://byulverse.eu) | error | 0 | 0 |  |
+| [Byulverse](https://byulverse.eu) | html:/search?q={q} | 0 | 0 |  |
 | [CardFever](https://cardfever.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [CentroXogo](https://centroxogo.pt) | error | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='centroxogo.pt', port=443): Read timed out. (read timeout=20) |
 | [Charbinder](https://charbinder.com) | shopify | 1 | 1 |  |
@@ -26,14 +26,14 @@
 | [GM Cards & Toys](https://gmcardsandtoys.com) | shopify | 0 | 0 |  |
 | [God of Cards](https://godofcards.com) | shopify | 2 | 2 |  |
 | [IberianCard](https://iberiancard.com) | shopify | 2 | 2 |  |
-| [Kaissa](https://kaissa.gr) | html:/?s={q}&post_type=product | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='kaissa.gr', port=443): Read timed out. (read timeout=20) |
+| [Kaissa](https://kaissa.gr) | html:/?s={q}&post_type=product | 1 | 0 |  |
 | [LojaDosPops](https://lojadospops.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [LootLab](https://lootlab.pt) | html:/search?q={q} | 4 | 0 |  |
 | [LostForgeStore](https://lostforgestore.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [LotusValley](https://lotusvalley.pt) | woo | 11 | 11 |  |
 | [ManaTCG](https://manatcg.com) | shopify | 6 | 1 |  |
 | [ManaVault](https://manavault.pt) | shopify | 0 | 0 |  |
-| [MasterPacks](https://masterpacks.pt) | html:/search?q={q} | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='masterpacks.pt', port=443): Read timed out. (read timeout=20) |
+| [MasterPacks](https://masterpacks.pt) | html:/search?q={q} | 0 | 0 |  |
 | [MercadiaGames](https://mercadiagames.pt) | woo | 7 | 7 |  |
 | [Miniversos](https://miniversos.pt) | shopify | 0 | 0 |  |
 | [MyPopMania](https://mypopmania.pt) | html:/pesquisa?controller=search&s={q} | 0 | 0 |  |
@@ -92,7 +92,7 @@
 - **God of Cards** — [Pokemon 30th Anniversary Celebration Partner Card Set Vol. 1 S-Chinesisch](https://godofcards.com/products/pokemon-30th-anniversary-celebration-partner-card-set-vol-1-s-chinesisch) — 13.95€
 - **IberianCard** — [Break Pokémon 30th Anniversary – First Partner Vol. 1 (Chinês Simplificado)](https://iberiancard.com/products/break-pokemon-30th-anniversary-first-partner-vol-1-chines-simplificado) — 14.90€
 - **IberianCard** — [Pokémon 30th Anniversary – First Partner Vol. 1 (Chinês Simplificado)](https://iberiancard.com/products/pokemon-30th-anniversary-first-partner-vol-1-chines-simplificado) — 14.90€
-- **LotusValley** — [30th Celebration Booster Bundle](https://lotusvalley.pt/produto/30th-celebration-booster-bundle/) — 94.90€
+- **LotusValley** — [30th Celebration Booster Bundle](https://lotusvalley.pt/produto/30th-celebration-booster-bundle/) — 90.00€
 - **LotusValley** — [30th Celebration Elite Trainer Box](https://lotusvalley.pt/produto/30th-celebration/) — 149.90€
 - **LotusValley** — [30th Celebration Greninja ex Box](https://lotusvalley.pt/produto/30th-celebration-greninja-ex-box/) — 69.90€
 - **LotusValley** — [30th Celebration Mew Figure Collection](https://lotusvalley.pt/produto/30th-celebration-mew-figure-collection/) — 100.00€

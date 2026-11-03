@@ -40,13 +40,13 @@
    "title": "Pokemon 30th Celebration Ex Box - Sylveon, English Edition",
    "url": "https://ajogar.com/products/pkm-30-exboxsylveon"
   },
-  "https://ajogar.com/products/pkm-30-extingreninja": {
+  "https://ajogar.com/products/pkm-30-extinsylveon": {
    "available": false,
    "domain": "ajogar.com",
    "price": "44.99",
    "store": "AJogar",
-   "title": "Pokemon 30th Celebration Ex Tin - Greninja, English Edition",
-   "url": "https://ajogar.com/products/pkm-30-extingreninja"
+   "title": "Pokemon 30th Celebration Ex Tin - Sylveon, English Edition",
+   "url": "https://ajogar.com/products/pkm-30-extinsylveon"
   },
   "https://ajogar.com/products/pkm-30-figuremew": {
    "available": false,
@@ -915,7 +915,7 @@
   "https://lotusvalley.pt/produto/30th-celebration-booster-bundle/": {
    "available": true,
    "domain": "lotusvalley.pt",
-   "price": "94.90",
+   "price": "90.00",
    "store": "LotusValley",
    "title": "30th Celebration Booster Bundle",
    "url": "https://lotusvalley.pt/produto/30th-celebration-booster-bundle/"
@@ -2033,7 +2033,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-sylveon-ex-box/"
   }
  },
- "last_run": "2026-11-03 03:42 UTC",
+ "last_run": "2026-11-03 11:24 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
@@ -2041,7 +2041,7 @@
   "arkay.pt": "html:/search?q={q}",
   "biridama.pt": "shopify",
   "brokards.com": "shopify",
-  "byulverse.eu": "error",
+  "byulverse.eu": "html:/search?q={q}",
   "cardfever.pt": "error",
   "centroxogo.pt": "error",
   "charbinder.com": "shopify",
