@@ -1,12 +1,12 @@
-# Estado do monitor — 2026-11-04 18:42 UTC
+# Estado do monitor — 2026-11-04 23:57 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
-| [AJogar](https://ajogar.com) | shopify | 13 | 1 |  |
-| [AnixWays](https://anixways.com) | woo | 26 | 7 |  |
+| [AJogar](https://ajogar.com) | shopify | 11 | 1 |  |
+| [AnixWays](https://anixways.com) | woo | 26 | 6 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 0 | 0 |  |
-| [Biridama](https://biridama.pt) | shopify | 15 | 6 |  |
+| [Biridama](https://biridama.pt) | shopify | 14 | 7 |  |
 | [Brokards](https://brokards.com) | shopify | 10 | 0 |  |
 | [Byulverse](https://byulverse.eu) | html:/search?q={q} | 0 | 0 |  |
 | [CardFever](https://cardfever.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
@@ -19,9 +19,9 @@
 | [DrawPhase](https://drawphase.pt) | shopify | 0 | 0 |  |
 | [Drawstep](https://drawstep.com) | shopify | 7 | 1 |  |
 | [El Corte Inglés](https://elcorteingles.pt) | error | 0 | 0 |  |
-| [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 |  |
+| [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 | ConnectTimeout: HTTPSConnectionPool(host='games-island.eu', port=443): Max retries exceeded with url: /products.json?limit=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='games-island.eu', por |
 | [Gatorcards](https://gatorcards.pt) | shopify | 8 | 1 |  |
-| [Geekhaven](https://geekhaven.pt) | shopify | 14 | 0 |  |
+| [Geekhaven](https://geekhaven.pt) | shopify | 13 | 0 |  |
 | [GgLounge](https://gglounge.pt) | woo | 0 | 0 |  |
 | [GM Cards & Toys](https://gmcardsandtoys.com) | shopify | 0 | 0 |  |
 | [God of Cards](https://godofcards.com) | shopify | 2 | 2 |  |
@@ -41,10 +41,10 @@
 | [OhliCards](https://ohlicards.pt) | woo | 4 | 2 |  |
 | [OPortoGG](https://oportogg.com) | shopify | 4 | 4 |  |
 | [Packpoint](https://packpoint.pt) | shopify | 0 | 0 |  |
-| [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 |  |
+| [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='pandacollecting.com', port=443): Read timed out. (read timeout=20) |
 | [Papelinho](https://papelinho.pt) | presta | 0 | 0 |  |
 | [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 1 | 0 |  |
-| [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 31 | 0 |  |
+| [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 0 | 0 | ConnectTimeout: HTTPSConnectionPool(host='pokeboxstore.pt', port=443): Max retries exceeded with url: /products.json?limit=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='pokeboxstore.pt', por |
 | [Pokelotas](https://pokelotas.com) | shopify | 9 | 0 |  |
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
 | [Psydeck](https://psydeck.com) | shopify | 15 | 7 |  |
@@ -56,12 +56,12 @@
 | [Stickerpoint](https://stickerpoint.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [TCGFamily](https://tcg-family.com) | shopify | 3 | 2 |  |
 | [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 7 | 0 |  |
-| [TemplarsArena](https://templarsarena.com) | shopify | 13 | 9 |  |
+| [TemplarsArena](https://templarsarena.com) | shopify | 13 | 10 |  |
 | [The Kanto Market](https://thekantomarket.com) | shopify | 0 | 0 |  |
-| [Totobayshop](https://totobayshop.com) | shopify | 9 | 2 |  |
+| [Totobayshop](https://totobayshop.com) | shopify | 11 | 2 |  |
 | [ToysRUsPT](https://toysrus.pt) | error | 0 | 0 |  |
-| [TriplaceGames](https://triplacegames.com) | html:/search?q={q} | 9 | 0 |  |
-| [UntradableStore](https://untradablestore.com) | shopify | 11 | 0 |  |
+| [TriplaceGames](https://triplacegames.com) | html:/search?q={q} | 13 | 0 |  |
+| [UntradableStore](https://untradablestore.com) | shopify | 10 | 0 |  |
 | [VenturaCardGames](https://venturacardgames.com) | shopify | 1 | 1 |  |
 | [VersusGameCenter](https://versusgamecenter.pt) | shopify | 0 | 0 |  |
 | [WeatherlightGames](https://weatherlightgames.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
@@ -76,13 +76,13 @@
 - **AnixWays** — [30th Celebration: Espeon EX Battle Deck](https://anixways.com/product/30th-celebration-espeon-ex-battle-deck/) — 40.00€
 - **AnixWays** — [30th Celebration: Mew Figure Collection](https://anixways.com/product/30th-celebration-mew-figure-collection/) — 90.00€
 - **AnixWays** — [30th Celebration: Mewtwo Figure Collection](https://anixways.com/product/30th-celebration-mewtwo-figure-collection/) — 90.00€
-- **AnixWays** — [Pokémon Plush Figure 30th Anniversary Pikachu 20 cm](https://anixways.com/product/pokemon-plush-figure-30th-anniversary-pikachu-20-cm/) — 22.25€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.1](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1) — 15.50€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.3](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-3) — 16.00€
 - **Biridama** — [30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.2](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-2) — 14.00€
 - **Biridama** — [30th Celebration Booster](https://biridama.pt/products/30th-celebration-booster-s-chinese) — 5.50€
 - **Biridama** — [30th Celebration Booster Box S-Chinese](https://biridama.pt/products/30th-celebration-booster-box-s-chinese) — 111.00€
 - **Biridama** — [30th Celebration Card Showcase Set](https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese) — 39.50€
+- **Biridama** — [30th Celebration Luxury Set](https://biridama.pt/products/30th-celebration-umbreon-ex-luxury-set-s-chinese) — 42.00€
 - **Charbinder** — [Pokémon TCG 30th Anniversary First Partner Card Set Vol. 1 (CN)](https://charbinder.com/products/pokemon-tcg-30th-anniversary-first-partner-card-set-vol-1-cn) — 17.90€
 - **Diver** — [PKM 30th Celebration: Battle Deck EN](https://diver.pt/pt/pkm-special-editions/106281-pkm-30th-celebration-battle-deck-en.html) — 47,99 €€
 - **Drawstep** — [PKM - 30th Celebration - Elite Trainer Box](https://drawstep.com/products/pkm-30th-celebration-elite-trainer-box) — 140.00€
@@ -139,6 +139,7 @@
 - **TemplarsArena** — [30th Celebration: Greninja ex Box](https://templarsarena.com/products/30th-celebration-greninja-ex-box) — 55.00€
 - **TemplarsArena** — [30th Celebration: Sylveon ex Box](https://templarsarena.com/products/30th-celebration-sylveon-ex-box) — 55.00€
 - **TemplarsArena** — [Pokémon 30th Anniversary First Partner Vol. 3 - Chinese](https://templarsarena.com/products/pokemon-30th-anniversary-first-partner-vol-3-chinese) — 16.00€
+- **TemplarsArena** — [Pokémon TCG – First Partner 30th Anniversary – Vol. 2 – Simplified Chinese](https://templarsarena.com/products/pokemon-tcg-first-partner-30th-anniversary-display-vol-2-simplified-chinese) — 16.00€
 - **TemplarsArena** — [Pokémon: 30th Celebration booster](https://templarsarena.com/products/pokemon-30th-celebration-booster) — 15.00€
 - **Totobayshop** — [30th Celebration - Mini Tin (Day)](https://totobayshop.com/products/30th-celebration-mini-tin-copy) — 24.30€
 - **Totobayshop** — [30th Celebration - Mini Tin (Night)](https://totobayshop.com/products/30th-celebration-mini-tin-copy-1) — 24.30€

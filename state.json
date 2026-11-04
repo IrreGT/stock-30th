@@ -1,5 +1,13 @@
 {
  "items": {
+  "https://ajogar.com/products/pkm-30-battleespeon": {
+   "available": false,
+   "domain": "ajogar.com",
+   "price": "29.99",
+   "store": "AJogar",
+   "title": "Pokemon 30th Celebration Battle Deck - Espeon ex, English Edition",
+   "url": "https://ajogar.com/products/pkm-30-battleespeon"
+  },
   "https://ajogar.com/products/pkm-30-bundle": {
    "available": false,
    "domain": "ajogar.com",
@@ -40,14 +48,6 @@
    "title": "Pokemon 30th Celebration Ex Box - Sylveon, English Edition",
    "url": "https://ajogar.com/products/pkm-30-exboxsylveon"
   },
-  "https://ajogar.com/products/pkm-30-extinsylveon": {
-   "available": false,
-   "domain": "ajogar.com",
-   "price": "44.99",
-   "store": "AJogar",
-   "title": "Pokemon 30th Celebration Ex Tin - Sylveon, English Edition",
-   "url": "https://ajogar.com/products/pkm-30-extinsylveon"
-  },
   "https://ajogar.com/products/pkm-30-figuremew": {
    "available": false,
    "domain": "ajogar.com",
@@ -63,22 +63,6 @@
    "store": "AJogar",
    "title": "Pokemon 30th Celebration Figure Collection - Mewtwo, English Edition",
    "url": "https://ajogar.com/products/pkm-30-figuremewtwo"
-  },
-  "https://ajogar.com/products/pkm-30-mini5": {
-   "available": false,
-   "domain": "ajogar.com",
-   "price": "23.99",
-   "store": "AJogar",
-   "title": "Pokemon 30th Celebration Mini Tin - Day Pikachu & Vivillon, English Edition",
-   "url": "https://ajogar.com/products/pkm-30-mini5"
-  },
-  "https://ajogar.com/products/pkm-30-poster": {
-   "available": false,
-   "domain": "ajogar.com",
-   "price": "44.99",
-   "store": "AJogar",
-   "title": "Pokemon 30th Celebration Poster Collection, English Edition",
-   "url": "https://ajogar.com/products/pkm-30-poster"
   },
   "https://ajogar.com/products/pkm-30-ultraday": {
    "available": false,
@@ -297,7 +281,7 @@
    "url": "https://anixways.com/product/pokemon-plush-figure-30th-anniversary-morpeko-20-cm/"
   },
   "https://anixways.com/product/pokemon-plush-figure-30th-anniversary-pikachu-20-cm/": {
-   "available": true,
+   "available": false,
    "domain": "anixways.com",
    "price": "22.25",
    "store": "AnixWays",
@@ -319,14 +303,6 @@
    "store": "Biridama",
    "title": "30th Celebration Booster Bundle",
    "url": "https://biridama.pt/products/30-celebration-booster-bundle"
-  },
-  "https://biridama.pt/products/30-celebration-day-mini-tin": {
-   "available": false,
-   "domain": "biridama.pt",
-   "price": "23.90",
-   "store": "Biridama",
-   "title": "30th Celebration: Day Mini Tin",
-   "url": "https://biridama.pt/products/30-celebration-day-mini-tin"
   },
   "https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1": {
    "available": true,
@@ -376,6 +352,14 @@
    "title": "30th Celebration Card Showcase Set",
    "url": "https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese"
   },
+  "https://biridama.pt/products/30th-celebration-umbreon-ex-luxury-set-s-chinese": {
+   "available": true,
+   "domain": "biridama.pt",
+   "price": "42.00",
+   "store": "Biridama",
+   "title": "30th Celebration Luxury Set",
+   "url": "https://biridama.pt/products/30th-celebration-umbreon-ex-luxury-set-s-chinese"
+  },
   "https://biridama.pt/products/celebration-greninja-ex-tin": {
    "available": false,
    "domain": "biridama.pt",
@@ -399,14 +383,6 @@
    "store": "Biridama",
    "title": "30th Celebration Sylveon ex Tin",
    "url": "https://biridama.pt/products/celebration-sylveon-ex-tin"
-  },
-  "https://biridama.pt/products/eevee-2-pack-blister-30th-celebration": {
-   "available": false,
-   "domain": "biridama.pt",
-   "price": "24.00",
-   "store": "Biridama",
-   "title": "30th Celebration: Eevee 2-Pack Blister",
-   "url": "https://biridama.pt/products/eevee-2-pack-blister-30th-celebration"
   },
   "https://biridama.pt/products/etb-30th-celebration": {
    "available": false,
@@ -759,14 +735,6 @@
    "store": "Geekhaven",
    "title": "Pokémon 30th Celebration Figure Collection Mewtwo",
    "url": "https://geekhaven.pt/products/pokemon-30th-celebration-figure-collection-mewtwo"
-  },
-  "https://geekhaven.pt/products/pokemon-30th-celebration-mini-tin": {
-   "available": false,
-   "domain": "geekhaven.pt",
-   "price": "18.00",
-   "store": "Geekhaven",
-   "title": "Pokémon 30th Celebration Mini Tin Day",
-   "url": "https://geekhaven.pt/products/pokemon-30th-celebration-mini-tin"
   },
   "https://geekhaven.pt/products/pokemon-30th-celebration-poster-collection": {
    "available": false,
@@ -1784,14 +1752,6 @@
    "title": "Pokémon: 30th Celebration booster",
    "url": "https://templarsarena.com/products/pokemon-30th-celebration-booster"
   },
-  "https://templarsarena.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon": {
-   "available": false,
-   "domain": "templarsarena.com",
-   "price": "190.00",
-   "store": "TemplarsArena",
-   "title": "Pokémon TCG: 30th Celebration Ultra-Premium Collection—Day (Espeon)",
-   "url": "https://templarsarena.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon"
-  },
   "https://templarsarena.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon": {
    "available": false,
    "domain": "templarsarena.com",
@@ -1799,6 +1759,14 @@
    "store": "TemplarsArena",
    "title": "Pokémon TCG: 30th Celebration Ultra-Premium Collection—Night (Umbreon)",
    "url": "https://templarsarena.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon"
+  },
+  "https://templarsarena.com/products/pokemon-tcg-first-partner-30th-anniversary-display-vol-2-simplified-chinese": {
+   "available": true,
+   "domain": "templarsarena.com",
+   "price": "16.00",
+   "store": "TemplarsArena",
+   "title": "Pokémon TCG – First Partner 30th Anniversary – Vol. 2 – Simplified Chinese",
+   "url": "https://templarsarena.com/products/pokemon-tcg-first-partner-30th-anniversary-display-vol-2-simplified-chinese"
   },
   "https://totobayshop.com/products/30th-celebration-elite-trainer-box": {
    "available": false,
@@ -1856,6 +1824,14 @@
    "title": "30th Celebration - Tech Sticker Exeggutor",
    "url": "https://totobayshop.com/products/30th-celebration-tech-sticker-eggxecutor"
   },
+  "https://totobayshop.com/products/30th-celebration-tin-sylveon": {
+   "available": false,
+   "domain": "totobayshop.com",
+   "price": "46.00",
+   "store": "Totobayshop",
+   "title": "30th Celebration ex Tin - Sylveon",
+   "url": "https://totobayshop.com/products/30th-celebration-tin-sylveon"
+  },
   "https://totobayshop.com/products/ascended-heroes-booster-bundle": {
    "available": false,
    "domain": "totobayshop.com",
@@ -1871,6 +1847,46 @@
    "store": "Totobayshop",
    "title": "30th Celebration - Sylveon ex Box",
    "url": "https://totobayshop.com/products/ascended-heroes-deluxe-pin-collection-copy"
+  },
+  "https://totobayshop.com/products/tech-sticker-30th-celebration": {
+   "available": false,
+   "domain": "totobayshop.com",
+   "price": "35.99",
+   "store": "Totobayshop",
+   "title": "30th Celebration - Tech Sticker Lucario",
+   "url": "https://totobayshop.com/products/tech-sticker-30th-celebration"
+  },
+  "https://triplacegames.com/pkm-30th-celebration-ditto-premium-collection-en": {
+   "available": null,
+   "domain": "triplacegames.com",
+   "price": null,
+   "store": "TriplaceGames",
+   "title": "PKM 30th Celebration: Ditto Premium Collection - EN €108,00",
+   "url": "https://triplacegames.com/pkm-30th-celebration-ditto-premium-collection-en"
+  },
+  "https://triplacegames.com/pkm-30th-celebration-espeon-ex-ultra-premium-collection-en": {
+   "available": null,
+   "domain": "triplacegames.com",
+   "price": null,
+   "store": "TriplaceGames",
+   "title": "PKM 30th Celebration: Espeon ex Ultra-Premium Collection - EN €550,00",
+   "url": "https://triplacegames.com/pkm-30th-celebration-espeon-ex-ultra-premium-collection-en"
+  },
+  "https://triplacegames.com/pkm-30th-celebration-mewtwo-figure-collection-en": {
+   "available": null,
+   "domain": "triplacegames.com",
+   "price": null,
+   "store": "TriplaceGames",
+   "title": "PKM 30th Celebration: Mewtwo Figure Collection - EN €88,00",
+   "url": "https://triplacegames.com/pkm-30th-celebration-mewtwo-figure-collection-en"
+  },
+  "https://triplacegames.com/pkm-30th-celebration-umbreon-ex-ultra-premium-collection-en": {
+   "available": null,
+   "domain": "triplacegames.com",
+   "price": null,
+   "store": "TriplaceGames",
+   "title": "PKM 30th Celebration: Umbreon ex Ultra-Premium Collection - EN €550,00",
+   "url": "https://triplacegames.com/pkm-30th-celebration-umbreon-ex-ultra-premium-collection-en"
   },
   "https://triplacegames.com/pokemon-tcg-30th-celebration-2-pack-blister-eevee": {
    "available": null,
@@ -2016,14 +2032,6 @@
    "title": "Pokémon 30th Celebration - Sylveon ex Box",
    "url": "https://untradablestore.com/products/pokemon-30th-celebration-sylveon-ex-box"
   },
-  "https://untradablestore.com/products/pokemon-30th-celebration-tech-sticker-collection-alolan-exeggutor": {
-   "available": false,
-   "domain": "untradablestore.com",
-   "price": "32.00",
-   "store": "UntradableStore",
-   "title": "Pokémon 30th Celebration - Tech Sticker Collection (Alolan Exeggutor)",
-   "url": "https://untradablestore.com/products/pokemon-30th-celebration-tech-sticker-collection-alolan-exeggutor"
-  },
   "https://untradablestore.com/products/pokemon-30th-celebration-tech-sticker-collection-lucario": {
    "available": false,
    "domain": "untradablestore.com",
@@ -2089,7 +2097,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-poster-collection/"
   }
  },
- "last_run": "2026-11-04 18:42 UTC",
+ "last_run": "2026-11-04 23:57 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
