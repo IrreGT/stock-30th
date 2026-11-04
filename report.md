@@ -1,9 +1,9 @@
-# Estado do monitor — 2026-11-03 23:39 UTC
+# Estado do monitor — 2026-11-04 03:19 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
-| [AJogar](https://ajogar.com) | shopify | 13 | 2 |  |
+| [AJogar](https://ajogar.com) | shopify | 13 | 1 |  |
 | [AnixWays](https://anixways.com) | woo | 26 | 7 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 14 | 6 |  |
@@ -44,7 +44,7 @@
 | [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 |  |
 | [Papelinho](https://papelinho.pt) | presta | 0 | 0 |  |
 | [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 1 | 0 |  |
-| [PokeboxStore](https://pokeboxstore.pt) | error | 0 | 0 |  |
+| [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 31 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 9 | 0 |  |
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
 | [Psydeck](https://psydeck.com) | shopify | 14 | 6 |  |
@@ -69,7 +69,6 @@
 
 ## Produtos com stock agora
 
-- **AJogar** — [Pokemon 30th Celebration Ditto Premium Collection, English Edition](https://ajogar.com/products/pkm-30-ditto) — 99.99€
 - **AJogar** — [Pokemon 30th Celebration Figure Collection - Mewtwo, English Edition](https://ajogar.com/products/pkm-30-figuremewtwo) — 89.99€
 - **AnixWays** — [30th Celebration Booster Bundle](https://anixways.com/product/30th-celebration-booster-bundle/) — 71.90€
 - **AnixWays** — [30th Celebration Poster Collection](https://anixways.com/product/30th-celebration-poster-collection/) — 40.40€
