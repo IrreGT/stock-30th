@@ -1,5 +1,13 @@
 {
  "items": {
+  "https://ajogar.com/products/pkm-30-battleespeon": {
+   "available": false,
+   "domain": "ajogar.com",
+   "price": "29.99",
+   "store": "AJogar",
+   "title": "Pokemon 30th Celebration Battle Deck - Espeon ex, English Edition",
+   "url": "https://ajogar.com/products/pkm-30-battleespeon"
+  },
   "https://ajogar.com/products/pkm-30-bundle": {
    "available": false,
    "domain": "ajogar.com",
@@ -47,14 +55,6 @@
    "store": "AJogar",
    "title": "Pokemon 30th Celebration Figure Collection - Mew, English Edition",
    "url": "https://ajogar.com/products/pkm-30-figuremew"
-  },
-  "https://ajogar.com/products/pkm-30-figuremewtwo": {
-   "available": false,
-   "domain": "ajogar.com",
-   "price": "89.99",
-   "store": "AJogar",
-   "title": "Pokemon 30th Celebration Figure Collection - Mewtwo, English Edition",
-   "url": "https://ajogar.com/products/pkm-30-figuremewtwo"
   },
   "https://ajogar.com/products/pkm-30-ultraday": {
    "available": false,
@@ -792,6 +792,22 @@
    "title": "Pokemon 30th Anniversary Celebration Partner Card Set Vol. 1 S-Chinesisch",
    "url": "https://godofcards.com/products/pokemon-30th-anniversary-celebration-partner-card-set-vol-1-s-chinesisch"
   },
+  "https://iberiancard.com/products/break-pokemon-30th-anniversary-first-partner-vol-1-chines-simplificado": {
+   "available": true,
+   "domain": "iberiancard.com",
+   "price": "14.90",
+   "store": "IberianCard",
+   "title": "Break Pokémon 30th Anniversary – First Partner Vol. 1 (Chinês Simplificado)",
+   "url": "https://iberiancard.com/products/break-pokemon-30th-anniversary-first-partner-vol-1-chines-simplificado"
+  },
+  "https://iberiancard.com/products/pokemon-30th-anniversary-first-partner-vol-1-chines-simplificado": {
+   "available": true,
+   "domain": "iberiancard.com",
+   "price": "14.90",
+   "store": "IberianCard",
+   "title": "Pokémon 30th Anniversary – First Partner Vol. 1 (Chinês Simplificado)",
+   "url": "https://iberiancard.com/products/pokemon-30th-anniversary-first-partner-vol-1-chines-simplificado"
+  },
   "https://kaissa.gr/b2b_gr/paichnidia-me-kartes/pokemon/30th-celebration.html": {
    "available": null,
    "domain": "kaissa.gr",
@@ -847,6 +863,14 @@
    "store": "LotusValley",
    "title": "30th Celebration Booster Bundle",
    "url": "https://lotusvalley.pt/produto/30th-celebration-booster-bundle/"
+  },
+  "https://lotusvalley.pt/produto/30th-celebration-booster/": {
+   "available": true,
+   "domain": "lotusvalley.pt",
+   "price": "15.00",
+   "store": "LotusValley",
+   "title": "30th Celebration Booster",
+   "url": "https://lotusvalley.pt/produto/30th-celebration-booster/"
   },
   "https://lotusvalley.pt/produto/30th-celebration-espeon-ex-battle-deck/": {
    "available": true,
@@ -1408,6 +1432,14 @@
    "title": "PKM 30th Celebration: Espeon ex Ultra-Premium Collection - EN €550,00",
    "url": "https://triplacegames.com/pkm-30th-celebration-espeon-ex-ultra-premium-collection-en"
   },
+  "https://triplacegames.com/pkm-30th-celebration-mew-figure-collection-en": {
+   "available": null,
+   "domain": "triplacegames.com",
+   "price": null,
+   "store": "TriplaceGames",
+   "title": "PKM 30th Celebration: Mew Figure Collection - EN €88,00",
+   "url": "https://triplacegames.com/pkm-30th-celebration-mew-figure-collection-en"
+  },
   "https://triplacegames.com/pkm-30th-celebration-mewtwo-figure-collection-en": {
    "available": null,
    "domain": "triplacegames.com",
@@ -1520,6 +1552,14 @@
    "title": "Pokémon 30th Celebration – Booster Bundle",
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-booster-bundle/"
   },
+  "https://www.ohlicards.pt/produto/pokemon-30th-celebration-ditto-premium-collection-ingles/": {
+   "available": true,
+   "domain": "ohlicards.pt",
+   "price": "94.99",
+   "store": "OhliCards",
+   "title": "Pokémon 30th Celebration – Ditto Premium Collection (Inglês)",
+   "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-ditto-premium-collection-ingles/"
+  },
   "https://www.ohlicards.pt/produto/pokemon-30th-celebration-elite-trainer-box/": {
    "available": false,
    "domain": "ohlicards.pt",
@@ -1527,6 +1567,22 @@
    "store": "OhliCards",
    "title": "Pokémon 30th Celebration – Elite Trainer Box",
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-elite-trainer-box/"
+  },
+  "https://www.ohlicards.pt/produto/pokemon-30th-celebration-mew-figure-collection-ingles/": {
+   "available": true,
+   "domain": "ohlicards.pt",
+   "price": "69.99",
+   "store": "OhliCards",
+   "title": "Pokémon 30th Celebration – Mew Figure Collection (Inglês)",
+   "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-mew-figure-collection-ingles/"
+  },
+  "https://www.ohlicards.pt/produto/pokemon-30th-celebration-mewtwo-figure-collection-ingles/": {
+   "available": true,
+   "domain": "ohlicards.pt",
+   "price": "69.99",
+   "store": "OhliCards",
+   "title": "Pokémon 30th Celebration – Mewtwo Figure Collection (Inglês)",
+   "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-mewtwo-figure-collection-ingles/"
   },
   "https://www.ohlicards.pt/produto/pokemon-30th-celebration-mini-tin-aleatorio/": {
    "available": true,
@@ -1537,7 +1593,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-mini-tin-aleatorio/"
   }
  },
- "last_run": "2026-11-05 14:52 UTC",
+ "last_run": "2026-11-05 21:22 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
