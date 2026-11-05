@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-11-04 23:57 UTC
+# Estado do monitor — 2026-11-05 06:24 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -13,15 +13,15 @@
 | [CentroXogo](https://centroxogo.pt) | error | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='centroxogo.pt', port=443): Read timed out. (read timeout=20) |
 | [Charbinder](https://charbinder.com) | shopify | 1 | 1 |  |
 | [Colecionar](https://colecionar.pt) | error | 0 | 0 |  |
-| [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
+| [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 2 | 0 |  |
 | [Continente](https://continente.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Diver](https://diver.pt) | presta | 7 | 1 |  |
 | [DrawPhase](https://drawphase.pt) | shopify | 0 | 0 |  |
 | [Drawstep](https://drawstep.com) | shopify | 7 | 1 |  |
 | [El Corte Inglés](https://elcorteingles.pt) | error | 0 | 0 |  |
-| [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 | ConnectTimeout: HTTPSConnectionPool(host='games-island.eu', port=443): Max retries exceeded with url: /products.json?limit=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='games-island.eu', por |
+| [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 |  |
 | [Gatorcards](https://gatorcards.pt) | shopify | 8 | 1 |  |
-| [Geekhaven](https://geekhaven.pt) | shopify | 13 | 0 |  |
+| [Geekhaven](https://geekhaven.pt) | shopify | 12 | 0 |  |
 | [GgLounge](https://gglounge.pt) | woo | 0 | 0 |  |
 | [GM Cards & Toys](https://gmcardsandtoys.com) | shopify | 0 | 0 |  |
 | [God of Cards](https://godofcards.com) | shopify | 2 | 2 |  |
@@ -38,16 +38,16 @@
 | [Miniversos](https://miniversos.pt) | shopify | 0 | 0 |  |
 | [MyPopMania](https://mypopmania.pt) | html:/pesquisa?controller=search&s={q} | 0 | 0 |  |
 | [MysticMirage](https://mysticmirage.shop) | html:/search?q={q} | 2 | 0 |  |
-| [OhliCards](https://ohlicards.pt) | woo | 4 | 2 |  |
+| [OhliCards](https://ohlicards.pt) | woo | 3 | 1 |  |
 | [OPortoGG](https://oportogg.com) | shopify | 4 | 4 |  |
 | [Packpoint](https://packpoint.pt) | shopify | 0 | 0 |  |
-| [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='pandacollecting.com', port=443): Read timed out. (read timeout=20) |
+| [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 |  |
 | [Papelinho](https://papelinho.pt) | presta | 0 | 0 |  |
 | [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 1 | 0 |  |
-| [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 0 | 0 | ConnectTimeout: HTTPSConnectionPool(host='pokeboxstore.pt', port=443): Max retries exceeded with url: /products.json?limit=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='pokeboxstore.pt', por |
+| [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 31 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 9 | 0 |  |
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
-| [Psydeck](https://psydeck.com) | shopify | 15 | 7 |  |
+| [Psydeck](https://psydeck.com) | shopify | 13 | 6 |  |
 | [PTMerch](https://ptmerch.com) | error | 0 | 0 |  |
 | [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 |  |
 | [Rota151](https://rota151.pt) | woo | 0 | 0 |  |
@@ -117,11 +117,9 @@
 - **OPortoGG** — [Pokémon TCG: 30th Celebration – Mew Figure Collection (EN)](https://oportogg.com/products/pokemon-tcg-30th-celebration-mew-figure-collection-en) — 86.00€
 - **OPortoGG** — [Pokémon TCG: 30th Celebration – Mewtwo Figure Collection (EN)](https://oportogg.com/products/pokemon-tcg-30th-celebration-mewtwo-figure-collection-en) — 86.00€
 - **OhliCards** — [Pokémon 30th Celebration – Mini Tin (Aleatório)](https://www.ohlicards.pt/produto/pokemon-30th-celebration-mini-tin-aleatorio/) — 24.99€
-- **OhliCards** — [Pokémon 30th Celebration – Poster Collection](https://www.ohlicards.pt/produto/pokemon-30th-celebration-poster-collection/) — 54.99€
 - **Psydeck** — [30th Celebration 2-Pack Blister Eevee](https://psydeck.com/products/30th-celebration-2-pack-blister-eevee) — 28.00€
 - **Psydeck** — [30th Celebration Elite Trainer Box](https://psydeck.com/products/30th-celebration-elite-trainer-box) — 130.00€
 - **Psydeck** — [30th Celebration Espeon ex Battle Deck](https://psydeck.com/products/30th-celebration-espeon-ex-battle-deck) — 48.00€
-- **Psydeck** — [30th Celebration Poster Collection](https://psydeck.com/products/30th-celebration-poster-collection-2) — 35.00€
 - **Psydeck** — [30th Celebration Umbreon ex Battle Deck](https://psydeck.com/products/30th-celebration-umbreon-ex-battle-deck) — 48.00€
 - **Psydeck** — [30th Celebration ex Box Greninja ex](https://psydeck.com/products/30th-celebration-ex-box-greninja-ex) — 55.00€
 - **Psydeck** — [30th Celebration ex Box Sylveon ex](https://psydeck.com/products/30th-celebration-ex-box-sylveon-ex) — 55.00€

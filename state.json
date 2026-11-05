@@ -496,6 +496,22 @@
    "title": "Pokémon TCG 30th Anniversary First Partner Card Set Vol. 1 (CN)",
    "url": "https://charbinder.com/products/pokemon-tcg-30th-anniversary-first-partner-card-set-vol-1-cn"
   },
+  "https://conbini.pt/product/38072-pokemon-tcg-30th-celebration-espeon-ex-battle-deck-english-38072": {
+   "available": null,
+   "domain": "conbini.pt",
+   "price": null,
+   "store": "Conbini",
+   "title": "Pokémon TCG - 30th Celebration Espeon ex Battle Deck - English",
+   "url": "https://conbini.pt/product/38072-pokemon-tcg-30th-celebration-espeon-ex-battle-deck-english-38072"
+  },
+  "https://conbini.pt/product/38073-pokemon-tcg-30th-celebration-umbreon-ex-battle-deck-english-38073": {
+   "available": null,
+   "domain": "conbini.pt",
+   "price": null,
+   "store": "Conbini",
+   "title": "Pokémon TCG - 30th Celebration Umbreon ex Battle Deck - English",
+   "url": "https://conbini.pt/product/38073-pokemon-tcg-30th-celebration-umbreon-ex-battle-deck-english-38073"
+  },
   "https://diver.pt/pt/pkm-boosters/105984-pkm-30th-celebration-tech-sticker-collection.html": {
    "available": false,
    "domain": "diver.pt",
@@ -671,14 +687,6 @@
    "store": "Gatorcards",
    "title": "30th Celebration Sylveon Ex Tin",
    "url": "https://gatorcards.pt/products/30th-celebration-sylveon-ex-tin"
-  },
-  "https://geekhaven.pt/products/pokemon-30th-celebration-2-pack-blister": {
-   "available": false,
-   "domain": "geekhaven.pt",
-   "price": "18.00",
-   "store": "Geekhaven",
-   "title": "Pokémon 30th Celebration 2 Pack Blister",
-   "url": "https://geekhaven.pt/products/pokemon-30th-celebration-2-pack-blister"
   },
   "https://geekhaven.pt/products/pokemon-30th-celebration-booster-bundle": {
    "available": false,
@@ -1209,7 +1217,7 @@
    "url": "https://pokeboxstore.pt/produto/booster-pack-30th-anniversary-celebration-chines/"
   },
   "https://pokeboxstore.pt/produto/booster-pack-30th-anniversary-celebration/": {
-   "available": false,
+   "available": null,
    "domain": "pokeboxstore.pt",
    "price": null,
    "store": "PokeboxStore",
@@ -1543,22 +1551,6 @@
    "store": "Psydeck",
    "title": "30th Celebration Mewtwo Figure Collection",
    "url": "https://psydeck.com/products/30th-celebration-mewtwo-figure-collection-copy"
-  },
-  "https://psydeck.com/products/30th-celebration-mini-tin-night": {
-   "available": false,
-   "domain": "psydeck.com",
-   "price": "26.00",
-   "store": "Psydeck",
-   "title": "30th Celebration Mini Tin Night",
-   "url": "https://psydeck.com/products/30th-celebration-mini-tin-night"
-  },
-  "https://psydeck.com/products/30th-celebration-poster-collection-2": {
-   "available": true,
-   "domain": "psydeck.com",
-   "price": "35.00",
-   "store": "Psydeck",
-   "title": "30th Celebration Poster Collection",
-   "url": "https://psydeck.com/products/30th-celebration-poster-collection-2"
   },
   "https://psydeck.com/products/30th-celebration-ultra-premium-collection-day": {
    "available": false,
@@ -2087,17 +2079,9 @@
    "store": "OhliCards",
    "title": "Pokémon 30th Celebration – Mini Tin (Aleatório)",
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-mini-tin-aleatorio/"
-  },
-  "https://www.ohlicards.pt/produto/pokemon-30th-celebration-poster-collection/": {
-   "available": true,
-   "domain": "ohlicards.pt",
-   "price": "54.99",
-   "store": "OhliCards",
-   "title": "Pokémon 30th Celebration – Poster Collection",
-   "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-poster-collection/"
   }
  },
- "last_run": "2026-11-04 23:57 UTC",
+ "last_run": "2026-11-05 06:24 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
