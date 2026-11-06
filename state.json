@@ -75,7 +75,7 @@
   "https://ajogar.com/products/pokemon-30th-anniversary-booster-pack-of-6-cards-japanese": {
    "available": true,
    "domain": "ajogar.com",
-   "price": "11.00",
+   "price": "10.50",
    "store": "AJogar",
    "title": "Pokemon 30th Anniversary Booster Pack of 6 Cards, Japanese",
    "url": "https://ajogar.com/products/pokemon-30th-anniversary-booster-pack-of-6-cards-japanese"
@@ -488,22 +488,6 @@
    "title": "Pokémon TCG 30th Anniversary First Partner Card Set Vol. 1 (CN)",
    "url": "https://charbinder.com/products/pokemon-tcg-30th-anniversary-first-partner-card-set-vol-1-cn"
   },
-  "https://conbini.pt/product/38072-pokemon-tcg-30th-celebration-espeon-ex-battle-deck-english-38072": {
-   "available": null,
-   "domain": "conbini.pt",
-   "price": null,
-   "store": "Conbini",
-   "title": "Pokémon TCG - 30th Celebration Espeon ex Battle Deck - English",
-   "url": "https://conbini.pt/product/38072-pokemon-tcg-30th-celebration-espeon-ex-battle-deck-english-38072"
-  },
-  "https://conbini.pt/product/38073-pokemon-tcg-30th-celebration-umbreon-ex-battle-deck-english-38073": {
-   "available": null,
-   "domain": "conbini.pt",
-   "price": null,
-   "store": "Conbini",
-   "title": "Pokémon TCG - 30th Celebration Umbreon ex Battle Deck - English",
-   "url": "https://conbini.pt/product/38073-pokemon-tcg-30th-celebration-umbreon-ex-battle-deck-english-38073"
-  },
   "https://diver.pt/pt/pkm-boosters/105984-pkm-30th-celebration-tech-sticker-collection.html": {
    "available": false,
    "domain": "diver.pt",
@@ -776,6 +760,38 @@
    "title": "Pokémon 30th Celebration Ultra Premium Collection Night",
    "url": "https://geekhaven.pt/products/pokemon-30th-celebration-ultra-premium-collection-night"
   },
+  "https://godofcards.com/products/pokemon-30th-anniversary-celebration-partner-card-set-display-vol-1-8-boxen-s-chinesisch": {
+   "available": true,
+   "domain": "godofcards.com",
+   "price": "114.95",
+   "store": "God of Cards",
+   "title": "Pokemon 30th Anniversary Celebration Partner Card Set Display Vol. 1 (8 Boxen) S-Chinesisch",
+   "url": "https://godofcards.com/products/pokemon-30th-anniversary-celebration-partner-card-set-display-vol-1-8-boxen-s-chinesisch"
+  },
+  "https://godofcards.com/products/pokemon-30th-anniversary-celebration-partner-card-set-vol-1-s-chinesisch": {
+   "available": true,
+   "domain": "godofcards.com",
+   "price": "13.95",
+   "store": "God of Cards",
+   "title": "Pokemon 30th Anniversary Celebration Partner Card Set Vol. 1 S-Chinesisch",
+   "url": "https://godofcards.com/products/pokemon-30th-anniversary-celebration-partner-card-set-vol-1-s-chinesisch"
+  },
+  "https://iberiancard.com/products/break-pokemon-30th-anniversary-first-partner-vol-1-chines-simplificado": {
+   "available": true,
+   "domain": "iberiancard.com",
+   "price": "14.90",
+   "store": "IberianCard",
+   "title": "Break Pokémon 30th Anniversary – First Partner Vol. 1 (Chinês Simplificado)",
+   "url": "https://iberiancard.com/products/break-pokemon-30th-anniversary-first-partner-vol-1-chines-simplificado"
+  },
+  "https://iberiancard.com/products/pokemon-30th-anniversary-first-partner-vol-1-chines-simplificado": {
+   "available": true,
+   "domain": "iberiancard.com",
+   "price": "14.90",
+   "store": "IberianCard",
+   "title": "Pokémon 30th Anniversary – First Partner Vol. 1 (Chinês Simplificado)",
+   "url": "https://iberiancard.com/products/pokemon-30th-anniversary-first-partner-vol-1-chines-simplificado"
+  },
   "https://kaissa.gr/b2b_gr/paichnidia-me-kartes/pokemon/30th-celebration.html": {
    "available": null,
    "domain": "kaissa.gr",
@@ -839,6 +855,14 @@
    "store": "LotusValley",
    "title": "30th Celebration Booster",
    "url": "https://lotusvalley.pt/produto/30th-celebration-booster/"
+  },
+  "https://lotusvalley.pt/produto/30th-celebration-ditto-premium-collection/": {
+   "available": true,
+   "domain": "lotusvalley.pt",
+   "price": "120.00",
+   "store": "LotusValley",
+   "title": "30th Celebration Ditto Premium Collection",
+   "url": "https://lotusvalley.pt/produto/30th-celebration-ditto-premium-collection/"
   },
   "https://lotusvalley.pt/produto/30th-celebration-espeon-ex-battle-deck/": {
    "available": true,
@@ -1561,7 +1585,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-mini-tin-aleatorio/"
   }
  },
- "last_run": "2026-11-06 08:33 UTC",
+ "last_run": "2026-11-06 16:15 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
@@ -1569,7 +1593,7 @@
   "arkay.pt": "html:/search?q={q}",
   "biridama.pt": "shopify",
   "brokards.com": "shopify",
-  "byulverse.eu": "html:/search?q={q}",
+  "byulverse.eu": "error",
   "cardfever.pt": "error",
   "centroxogo.pt": "html:/?s={q}&post_type=product",
   "charbinder.com": "shopify",
