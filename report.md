@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-11-06 16:15 UTC
+# Estado do monitor — 2026-11-06 21:36 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@
 | [IberianCard](https://iberiancard.com) | shopify | 2 | 2 |  |
 | [Kaissa](https://kaissa.gr) | html:/?s={q}&post_type=product | 1 | 0 |  |
 | [LojaDosPops](https://lojadospops.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
-| [LootLab](https://lootlab.pt) | html:/search?q={q} | 4 | 0 |  |
+| [LootLab](https://lootlab.pt) | html:/search?q={q} | 10 | 5 |  |
 | [LostForgeStore](https://lostforgestore.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
-| [LotusValley](https://lotusvalley.pt) | woo | 15 | 15 |  |
-| [ManaTCG](https://manatcg.com) | shopify | 0 | 0 |  |
+| [LotusValley](https://lotusvalley.pt) | woo | 16 | 16 |  |
+| [ManaTCG](https://manatcg.com) | shopify | 6 | 1 |  |
 | [ManaVault](https://manavault.pt) | shopify | 0 | 0 |  |
 | [MasterPacks](https://masterpacks.pt) | html:/search?q={q} | 0 | 0 |  |
 | [MercadiaGames](https://mercadiagames.pt) | woo | 7 | 7 |  |
@@ -44,7 +44,7 @@
 | [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 |  |
 | [Papelinho](https://papelinho.pt) | presta | 0 | 0 |  |
 | [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 5 | 0 |  |
-| [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='pokeboxstore.pt', port=443): Read timed out. (read timeout=20) |
+| [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 36 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 0 | 0 |  |
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
 | [Psydeck](https://psydeck.com) | shopify | 0 | 0 |  |
@@ -91,6 +91,11 @@
 - **God of Cards** — [Pokemon 30th Anniversary Celebration Partner Card Set Vol. 1 S-Chinesisch](https://godofcards.com/products/pokemon-30th-anniversary-celebration-partner-card-set-vol-1-s-chinesisch) — 13.95€
 - **IberianCard** — [Break Pokémon 30th Anniversary – First Partner Vol. 1 (Chinês Simplificado)](https://iberiancard.com/products/break-pokemon-30th-anniversary-first-partner-vol-1-chines-simplificado) — 14.90€
 - **IberianCard** — [Pokémon 30th Anniversary – First Partner Vol. 1 (Chinês Simplificado)](https://iberiancard.com/products/pokemon-30th-anniversary-first-partner-vol-1-chines-simplificado) — 14.90€
+- **LootLab** — [NOVO Pokémon 30th Celebration Battle Deck (aleatório)](https://lootlab.pt/p/pokemon-30th-celebration-battle-deck-aleatorio)
+- **LootLab** — [NOVO Pokémon 30th Celebration Mini Tin (Aleatório)](https://lootlab.pt/p/pokemon-30th-celebration-mini-tin-aleatorio)
+- **LootLab** — [NOVO Pokémon 30th Celebration: Ditto Premium Collection](https://lootlab.pt/p/pokemon-30th-celebration-ditto-premium-collection)
+- **LootLab** — [NOVO Pokémon 30th Celebration: Mew Figure Collection](https://lootlab.pt/p/pokemon-30th-celebration-mew-figure-collection)
+- **LootLab** — [NOVO Pokémon 30th Celebration: Mewtwo Figure Collection](https://lootlab.pt/p/pokemon-30th-celebration-mewtwo-figure-collection)
 - **LotusValley** — [30th Celebration Alolan Exeggutor Tech Sticker Collection](https://lotusvalley.pt/produto/30th-celebration-alolan-exeggutor-tech-sticker-collection/) — 44.90€
 - **LotusValley** — [30th Celebration Booster](https://lotusvalley.pt/produto/30th-celebration-booster/) — 15.00€
 - **LotusValley** — [30th Celebration Booster Bundle](https://lotusvalley.pt/produto/30th-celebration-booster-bundle/) — 90.00€
@@ -104,8 +109,10 @@
 - **LotusValley** — [30th Celebration Poster Collection](https://lotusvalley.pt/produto/30th-celebration-poster-collection/) — 44.90€
 - **LotusValley** — [30th Celebration:  Umbreon ex Battle Deck](https://lotusvalley.pt/produto/30th-celebration-umbreon-ex-battle-deck/) — 50.00€
 - **LotusValley** — [30th Celebration: Espeon ex Battle Deck](https://lotusvalley.pt/produto/30th-celebration-espeon-ex-battle-deck/) — 50.00€
+- **LotusValley** — [30th Celebration: Espeon ex Ultra-Premium Collection](https://lotusvalley.pt/produto/30th-celebration-espeon-ex-ultra-premium-collection/) — 400.00€
 - **LotusValley** — [30th Celebration: Sylveon ex Box](https://lotusvalley.pt/produto/30th-celebration-sylveon-ex-box/) — 69.90€
 - **LotusValley** — [Peluche Pokémon 30th Anniversary Pikachu 20 cm](https://lotusvalley.pt/produto/peluche-pokemon-30th-anniversary-pikachu-20-cm/) — 22.00€
+- **ManaTCG** — [Pokémon TCG: 30th Celebration Mini Tin](https://manatcg.com/products/pokemon-tcg-30th-celebration-mini-tin-random) — 22.99€
 - **MercadiaGames** — [30th Celebration Simplified Chinese Espeon ex & Umbreon ex Gift Box](https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-espeon-ex-umbreon-ex-gift-box/) — 249.90€
 - **MercadiaGames** — [30th Celebration Simplified Chinese Espeon ex Deluxe Deck Set](https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-espeon-ex-luxury-set/) — 49.90€
 - **MercadiaGames** — [30th Celebration Simplified Chinese Greninja ex Card Display Set](https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-greninja-ex-card-display-set/) — 39.90€

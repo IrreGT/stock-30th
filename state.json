@@ -816,6 +816,30 @@
    "title": "PROMOÇÃO Pokémon 30th Celebration 2-Pack Blister Eevee",
    "url": "https://lootlab.pt/p/pokemon-30th-celebration-2-pack-blister-eevee"
   },
+  "https://lootlab.pt/p/pokemon-30th-celebration-battle-deck-aleatorio": {
+   "available": true,
+   "domain": "lootlab.pt",
+   "price": null,
+   "store": "LootLab",
+   "title": "NOVO Pokémon 30th Celebration Battle Deck (aleatório)",
+   "url": "https://lootlab.pt/p/pokemon-30th-celebration-battle-deck-aleatorio"
+  },
+  "https://lootlab.pt/p/pokemon-30th-celebration-booster-bundle": {
+   "available": false,
+   "domain": "lootlab.pt",
+   "price": null,
+   "store": "LootLab",
+   "title": "NOVO Pokémon 30th Celebration Booster Bundle",
+   "url": "https://lootlab.pt/p/pokemon-30th-celebration-booster-bundle"
+  },
+  "https://lootlab.pt/p/pokemon-30th-celebration-ditto-premium-collection": {
+   "available": true,
+   "domain": "lootlab.pt",
+   "price": null,
+   "store": "LootLab",
+   "title": "NOVO Pokémon 30th Celebration: Ditto Premium Collection",
+   "url": "https://lootlab.pt/p/pokemon-30th-celebration-ditto-premium-collection"
+  },
   "https://lootlab.pt/p/pokemon-30th-celebration-elite-trainer-box": {
    "available": false,
    "domain": "lootlab.pt",
@@ -823,6 +847,30 @@
    "store": "LootLab",
    "title": "PROMOÇÃO Pokémon 30th Celebration Elite Trainer Box",
    "url": "https://lootlab.pt/p/pokemon-30th-celebration-elite-trainer-box"
+  },
+  "https://lootlab.pt/p/pokemon-30th-celebration-mew-figure-collection": {
+   "available": true,
+   "domain": "lootlab.pt",
+   "price": null,
+   "store": "LootLab",
+   "title": "NOVO Pokémon 30th Celebration: Mew Figure Collection",
+   "url": "https://lootlab.pt/p/pokemon-30th-celebration-mew-figure-collection"
+  },
+  "https://lootlab.pt/p/pokemon-30th-celebration-mewtwo-figure-collection": {
+   "available": true,
+   "domain": "lootlab.pt",
+   "price": null,
+   "store": "LootLab",
+   "title": "NOVO Pokémon 30th Celebration: Mewtwo Figure Collection",
+   "url": "https://lootlab.pt/p/pokemon-30th-celebration-mewtwo-figure-collection"
+  },
+  "https://lootlab.pt/p/pokemon-30th-celebration-mini-tin-aleatorio": {
+   "available": true,
+   "domain": "lootlab.pt",
+   "price": null,
+   "store": "LootLab",
+   "title": "NOVO Pokémon 30th Celebration Mini Tin (Aleatório)",
+   "url": "https://lootlab.pt/p/pokemon-30th-celebration-mini-tin-aleatorio"
   },
   "https://lootlab.pt/p/pokemon-30th-celebration-poster-collection": {
    "available": false,
@@ -871,6 +919,14 @@
    "store": "LotusValley",
    "title": "30th Celebration: Espeon ex Battle Deck",
    "url": "https://lotusvalley.pt/produto/30th-celebration-espeon-ex-battle-deck/"
+  },
+  "https://lotusvalley.pt/produto/30th-celebration-espeon-ex-ultra-premium-collection/": {
+   "available": true,
+   "domain": "lotusvalley.pt",
+   "price": "400.00",
+   "store": "LotusValley",
+   "title": "30th Celebration: Espeon ex Ultra-Premium Collection",
+   "url": "https://lotusvalley.pt/produto/30th-celebration-espeon-ex-ultra-premium-collection/"
   },
   "https://lotusvalley.pt/produto/30th-celebration-greninja-ex-box/": {
    "available": true,
@@ -951,6 +1007,54 @@
    "store": "LotusValley",
    "title": "Peluche Pokémon 30th Anniversary Pikachu 20 cm",
    "url": "https://lotusvalley.pt/produto/peluche-pokemon-30th-anniversary-pikachu-20-cm/"
+  },
+  "https://manatcg.com/products/pokemon-tcg-30th-celebration-2-pack-blister-eevee": {
+   "available": false,
+   "domain": "manatcg.com",
+   "price": "24.99",
+   "store": "ManaTCG",
+   "title": "Pokémon TCG: 30th Celebration 2-Pack Blister (Eevee)",
+   "url": "https://manatcg.com/products/pokemon-tcg-30th-celebration-2-pack-blister-eevee"
+  },
+  "https://manatcg.com/products/pokemon-tcg-30th-celebration-greninja-ex-box": {
+   "available": false,
+   "domain": "manatcg.com",
+   "price": "48.99",
+   "store": "ManaTCG",
+   "title": "Pokémon TCG: 30th Celebration Greninja ex Box",
+   "url": "https://manatcg.com/products/pokemon-tcg-30th-celebration-greninja-ex-box"
+  },
+  "https://manatcg.com/products/pokemon-tcg-30th-celebration-greninja-ex-tin": {
+   "available": false,
+   "domain": "manatcg.com",
+   "price": "43.99",
+   "store": "ManaTCG",
+   "title": "Pokémon TCG: 30th Celebration Greninja ex Tin",
+   "url": "https://manatcg.com/products/pokemon-tcg-30th-celebration-greninja-ex-tin"
+  },
+  "https://manatcg.com/products/pokemon-tcg-30th-celebration-mini-tin-random": {
+   "available": true,
+   "domain": "manatcg.com",
+   "price": "22.99",
+   "store": "ManaTCG",
+   "title": "Pokémon TCG: 30th Celebration Mini Tin",
+   "url": "https://manatcg.com/products/pokemon-tcg-30th-celebration-mini-tin-random"
+  },
+  "https://manatcg.com/products/pokemon-tcg-30th-celebration-poster-collection": {
+   "available": false,
+   "domain": "manatcg.com",
+   "price": "36.99",
+   "store": "ManaTCG",
+   "title": "Pokémon TCG: 30th Celebration Poster Collection",
+   "url": "https://manatcg.com/products/pokemon-tcg-30th-celebration-poster-collection"
+  },
+  "https://manatcg.com/products/pokemon-tcg-30th-celebration-sylveon-ex-tin": {
+   "available": false,
+   "domain": "manatcg.com",
+   "price": "47.99",
+   "store": "ManaTCG",
+   "title": "Pokémon TCG: 30th Celebration Sylveon ex Tin",
+   "url": "https://manatcg.com/products/pokemon-tcg-30th-celebration-sylveon-ex-tin"
   },
   "https://mercadiagames.pt/produto/30th-celebration-dream-painting-collection-pikachu-figure-set-simplified-chinese/": {
    "available": true,
@@ -1072,21 +1176,77 @@
    "title": "30TH Anniversary Celebration Original Partner Card Set Vol.2",
    "url": "https://pokeboxstore.pt/produto/30th-anniversary-celebration-original-partner-card-set-vol-2/"
   },
-  "https://pokeboxstore.pt/produto/30th-celebration-booster-box-japanese/": {
-   "available": false,
+  "https://pokeboxstore.pt/produto/30th-celebration-first-partners-card-set-alola-japanese/": {
+   "available": null,
    "domain": "pokeboxstore.pt",
    "price": null,
    "store": "PokeboxStore",
-   "title": "30th Celebration Booster Box (Japonês)",
-   "url": "https://pokeboxstore.pt/produto/30th-celebration-booster-box-japanese/"
+   "title": "30th Celebration First Partners Card Set – Alola (Japanese)",
+   "url": "https://pokeboxstore.pt/produto/30th-celebration-first-partners-card-set-alola-japanese/"
   },
-  "https://pokeboxstore.pt/produto/30th-celebration-booster-pack-japones/": {
-   "available": false,
+  "https://pokeboxstore.pt/produto/30th-celebration-first-partners-card-set-galar-japanese/": {
+   "available": null,
    "domain": "pokeboxstore.pt",
    "price": null,
    "store": "PokeboxStore",
-   "title": "30th Celebration Booster Pack (Japonês)",
-   "url": "https://pokeboxstore.pt/produto/30th-celebration-booster-pack-japones/"
+   "title": "30th Celebration First Partners Card Set – Galar (Japanese)",
+   "url": "https://pokeboxstore.pt/produto/30th-celebration-first-partners-card-set-galar-japanese/"
+  },
+  "https://pokeboxstore.pt/produto/30th-celebration-first-partners-card-set-hoenn-japanese/": {
+   "available": null,
+   "domain": "pokeboxstore.pt",
+   "price": null,
+   "store": "PokeboxStore",
+   "title": "30th Celebration First Partners Card Set – Hoenn (Japanese)",
+   "url": "https://pokeboxstore.pt/produto/30th-celebration-first-partners-card-set-hoenn-japanese/"
+  },
+  "https://pokeboxstore.pt/produto/30th-celebration-first-partners-card-set-johto-japanese/": {
+   "available": null,
+   "domain": "pokeboxstore.pt",
+   "price": null,
+   "store": "PokeboxStore",
+   "title": "30th Celebration First Partners Card Set – Johto (Japanese)",
+   "url": "https://pokeboxstore.pt/produto/30th-celebration-first-partners-card-set-johto-japanese/"
+  },
+  "https://pokeboxstore.pt/produto/30th-celebration-first-partners-card-set-kalos-japanese/": {
+   "available": null,
+   "domain": "pokeboxstore.pt",
+   "price": null,
+   "store": "PokeboxStore",
+   "title": "30th Celebration First Partners Card Set – Kalos (Japanese)",
+   "url": "https://pokeboxstore.pt/produto/30th-celebration-first-partners-card-set-kalos-japanese/"
+  },
+  "https://pokeboxstore.pt/produto/30th-celebration-first-partners-card-set-kanto-japanese/": {
+   "available": null,
+   "domain": "pokeboxstore.pt",
+   "price": null,
+   "store": "PokeboxStore",
+   "title": "30th Celebration First Partners Card Set – Kanto (Japanese)",
+   "url": "https://pokeboxstore.pt/produto/30th-celebration-first-partners-card-set-kanto-japanese/"
+  },
+  "https://pokeboxstore.pt/produto/30th-celebration-first-partners-card-set-paldea-japanese/": {
+   "available": null,
+   "domain": "pokeboxstore.pt",
+   "price": null,
+   "store": "PokeboxStore",
+   "title": "30th Celebration First Partners Card Set – Paldea (Japanese)",
+   "url": "https://pokeboxstore.pt/produto/30th-celebration-first-partners-card-set-paldea-japanese/"
+  },
+  "https://pokeboxstore.pt/produto/30th-celebration-first-partners-card-set-sinnoh-japanese/": {
+   "available": null,
+   "domain": "pokeboxstore.pt",
+   "price": null,
+   "store": "PokeboxStore",
+   "title": "30th Celebration First Partners Card Set – Sinnoh (Japanese)",
+   "url": "https://pokeboxstore.pt/produto/30th-celebration-first-partners-card-set-sinnoh-japanese/"
+  },
+  "https://pokeboxstore.pt/produto/30th-celebration-first-partners-card-set-unova-japanese/": {
+   "available": null,
+   "domain": "pokeboxstore.pt",
+   "price": null,
+   "store": "PokeboxStore",
+   "title": "30th Celebration First Partners Card Set – Unova (Japanese)",
+   "url": "https://pokeboxstore.pt/produto/30th-celebration-first-partners-card-set-unova-japanese/"
   },
   "https://pokeboxstore.pt/produto/booster-box-30th-anniversary-celebration-chines/": {
    "available": null,
@@ -1095,14 +1255,6 @@
    "store": "PokeboxStore",
    "title": "Booster Box – 30th Anniversary Celebration (Chinês)",
    "url": "https://pokeboxstore.pt/produto/booster-box-30th-anniversary-celebration-chines/"
-  },
-  "https://pokeboxstore.pt/produto/booster-bundle-30th-anniversary-celebration/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "Booster Bundle – 30th Anniversary Celebration",
-   "url": "https://pokeboxstore.pt/produto/booster-bundle-30th-anniversary-celebration/"
   },
   "https://pokeboxstore.pt/produto/booster-pack-30th-anniversary-celebration-chines/": {
    "available": null,
@@ -1585,7 +1737,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-mini-tin-aleatorio/"
   }
  },
- "last_run": "2026-11-06 16:15 UTC",
+ "last_run": "2026-11-06 21:36 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
