@@ -520,14 +520,6 @@
    "title": "PKM 30th Celebration: Ditto Premium Collection EN",
    "url": "https://diver.pt/pt/pkm-special-editions/106277-pkm-30th-celebration-ditto-premium-collection-en.html"
   },
-  "https://diver.pt/pt/pkm-special-editions/106278-pkm-30th-celebration-mewtwo-figure-collection-en.html": {
-   "available": false,
-   "domain": "diver.pt",
-   "price": "79,99 €",
-   "store": "Diver",
-   "title": "PKM 30th Celebration: Mewtwo Figure Collection EN",
-   "url": "https://diver.pt/pt/pkm-special-editions/106278-pkm-30th-celebration-mewtwo-figure-collection-en.html"
-  },
   "https://diver.pt/pt/pkm-special-editions/106279-pkm-30th-celebration-mew-figure-collection-en.html": {
    "available": false,
    "domain": "diver.pt",
@@ -688,14 +680,6 @@
    "title": "Pokémon 30th Celebration Elite Trainer Box",
    "url": "https://geekhaven.pt/products/pokemon-30th-celebration-elite-trainer-box"
   },
-  "https://geekhaven.pt/products/pokemon-30th-celebration-ex-box-greninja": {
-   "available": false,
-   "domain": "geekhaven.pt",
-   "price": "36.00",
-   "store": "Geekhaven",
-   "title": "Pokémon 30th Celebration Ex Box Greninja",
-   "url": "https://geekhaven.pt/products/pokemon-30th-celebration-ex-box-greninja"
-  },
   "https://geekhaven.pt/products/pokemon-30th-celebration-ex-box-sylveon": {
    "available": false,
    "domain": "geekhaven.pt",
@@ -736,14 +720,6 @@
    "title": "Pokémon 30th Celebration Tech Sticker Collection Exeggutor",
    "url": "https://geekhaven.pt/products/pokemon-30th-celebration-tech-sticker-collection-exeggutor"
   },
-  "https://geekhaven.pt/products/pokemon-30th-celebration-tech-sticker-collection-lucario": {
-   "available": false,
-   "domain": "geekhaven.pt",
-   "price": "27.00",
-   "store": "Geekhaven",
-   "title": "Pokémon 30th Celebration Tech Sticker Collection Lucario",
-   "url": "https://geekhaven.pt/products/pokemon-30th-celebration-tech-sticker-collection-lucario"
-  },
   "https://geekhaven.pt/products/pokemon-30th-celebration-ultra-premium-collection-day": {
    "available": false,
    "domain": "geekhaven.pt",
@@ -759,38 +735,6 @@
    "store": "Geekhaven",
    "title": "Pokémon 30th Celebration Ultra Premium Collection Night",
    "url": "https://geekhaven.pt/products/pokemon-30th-celebration-ultra-premium-collection-night"
-  },
-  "https://godofcards.com/products/pokemon-30th-anniversary-celebration-partner-card-set-display-vol-1-8-boxen-s-chinesisch": {
-   "available": true,
-   "domain": "godofcards.com",
-   "price": "114.95",
-   "store": "God of Cards",
-   "title": "Pokemon 30th Anniversary Celebration Partner Card Set Display Vol. 1 (8 Boxen) S-Chinesisch",
-   "url": "https://godofcards.com/products/pokemon-30th-anniversary-celebration-partner-card-set-display-vol-1-8-boxen-s-chinesisch"
-  },
-  "https://godofcards.com/products/pokemon-30th-anniversary-celebration-partner-card-set-vol-1-s-chinesisch": {
-   "available": true,
-   "domain": "godofcards.com",
-   "price": "13.95",
-   "store": "God of Cards",
-   "title": "Pokemon 30th Anniversary Celebration Partner Card Set Vol. 1 S-Chinesisch",
-   "url": "https://godofcards.com/products/pokemon-30th-anniversary-celebration-partner-card-set-vol-1-s-chinesisch"
-  },
-  "https://iberiancard.com/products/break-pokemon-30th-anniversary-first-partner-vol-1-chines-simplificado": {
-   "available": true,
-   "domain": "iberiancard.com",
-   "price": "14.90",
-   "store": "IberianCard",
-   "title": "Break Pokémon 30th Anniversary – First Partner Vol. 1 (Chinês Simplificado)",
-   "url": "https://iberiancard.com/products/break-pokemon-30th-anniversary-first-partner-vol-1-chines-simplificado"
-  },
-  "https://iberiancard.com/products/pokemon-30th-anniversary-first-partner-vol-1-chines-simplificado": {
-   "available": true,
-   "domain": "iberiancard.com",
-   "price": "14.90",
-   "store": "IberianCard",
-   "title": "Pokémon 30th Anniversary – First Partner Vol. 1 (Chinês Simplificado)",
-   "url": "https://iberiancard.com/products/pokemon-30th-anniversary-first-partner-vol-1-chines-simplificado"
   },
   "https://kaissa.gr/b2b_gr/paichnidia-me-kartes/pokemon/30th-celebration.html": {
    "available": null,
@@ -1689,7 +1633,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-mini-tin-aleatorio/"
   }
  },
- "last_run": "2026-11-07 07:17 UTC",
+ "last_run": "2026-11-07 14:11 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
