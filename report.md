@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-11-08 19:39 UTC
+# Estado do monitor — 2026-11-08 23:10 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -37,14 +37,14 @@
 | [MercadiaGames](https://mercadiagames.pt) | woo | 7 | 7 |  |
 | [Miniversos](https://miniversos.pt) | shopify | 0 | 0 |  |
 | [MyPopMania](https://mypopmania.pt) | html:/pesquisa?controller=search&s={q} | 0 | 0 |  |
-| [MysticMirage](https://mysticmirage.shop) | html:/search?q={q} | 0 | 0 |  |
+| [MysticMirage](https://mysticmirage.shop) | html:/search?q={q} | 1 | 0 |  |
 | [OhliCards](https://ohlicards.pt) | woo | 6 | 4 |  |
 | [OPortoGG](https://oportogg.com) | shopify | 4 | 3 |  |
 | [Packpoint](https://packpoint.pt) | shopify | 0 | 0 |  |
-| [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 |  |
+| [PandaCollecting](https://pandacollecting.com) | html:/?s={q}&post_type=product | 15 | 4 |  |
 | [Papelinho](https://papelinho.pt) | presta | 0 | 0 |  |
 | [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 5 | 0 |  |
-| [PokeboxStore](https://pokeboxstore.pt) | error | 0 | 0 |  |
+| [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 36 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 9 | 0 |  |
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
 | [Psydeck](https://psydeck.com) | shopify | 15 | 8 |  |
@@ -132,6 +132,10 @@
 - **PTMerch** — [30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.2](https://ptmerch.com/pt/special-edition-pokemon/17927-30th-anniversary-celebration-simplified-chinese-original-partner-card-set-vol2-6942600406599.html) — 19,00 €€
 - **PTMerch** — [30th Celebration - Coin Set (Simplified Chinese)](https://ptmerch.com/pt/30th-celebration/18488-30th-celebration-coin-set-simplified-chinese-6942600436626.html) — 22,50 €€
 - **PTMerch** — [30th Celebration - Dream Painting Collection Pikachu Figure Set (Simplified Chinese)](https://ptmerch.com/pt/30th-celebration/18487-30th-celebration-dream-painting-collection-pikachu-figure-set-simplified-chinese-6942600454095.html) — 35,00 €€
+- **PandaCollecting** — [30th Celebration Espeon ex and Umbreon ex Premium Deck Set](https://pandacollecting.com/product/30th-celebration-espeon-ex-and-umbreon-ex-premium-deck-set/)
+- **PandaCollecting** — [30th Celebration Simplified Chinese Espeon ex Luxury Set](https://pandacollecting.com/product/30th-celebration-simplified-chinese-espeon-ex-luxury-set/)
+- **PandaCollecting** — [Pikachu 30th Celebration Plush](https://pandacollecting.com/product/pikachu-30th-celebration-plush/)
+- **PandaCollecting** — [Pikachu 30th Celebration Plush Key Chain](https://pandacollecting.com/product/pikachu-30th-celebration-plush-key-chain/)
 - **Psydeck** — [30th Celebration 2-Pack Blister Eevee](https://psydeck.com/products/30th-celebration-2-pack-blister-eevee) — 28.00€
 - **Psydeck** — [30th Celebration Elite Trainer Box](https://psydeck.com/products/30th-celebration-elite-trainer-box) — 130.00€
 - **Psydeck** — [30th Celebration Espeon ex Battle Deck](https://psydeck.com/products/30th-celebration-espeon-ex-battle-deck) — 48.00€
