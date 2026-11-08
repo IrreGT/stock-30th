@@ -1,9 +1,9 @@
-# Estado do monitor — 2026-11-08 01:47 UTC
+# Estado do monitor — 2026-11-08 08:04 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
-| [AJogar](https://ajogar.com) | shopify | 10 | 1 |  |
+| [AJogar](https://ajogar.com) | shopify | 11 | 1 |  |
 | [AnixWays](https://anixways.com) | woo | 26 | 6 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 14 | 7 |  |
@@ -21,12 +21,12 @@
 | [El Corte Inglés](https://elcorteingles.pt) | error | 0 | 0 |  |
 | [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 |  |
 | [Gatorcards](https://gatorcards.pt) | shopify | 8 | 1 |  |
-| [Geekhaven](https://geekhaven.pt) | shopify | 0 | 0 |  |
+| [Geekhaven](https://geekhaven.pt) | shopify | 12 | 0 |  |
 | [GgLounge](https://gglounge.pt) | woo | 0 | 0 |  |
 | [GM Cards & Toys](https://gmcardsandtoys.com) | shopify | 0 | 0 |  |
-| [God of Cards](https://godofcards.com) | shopify | 0 | 0 |  |
-| [IberianCard](https://iberiancard.com) | shopify | 0 | 0 |  |
-| [Kaissa](https://kaissa.gr) | html:/?s={q}&post_type=product | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='kaissa.gr', port=443): Read timed out. (read timeout=20) |
+| [God of Cards](https://godofcards.com) | shopify | 2 | 2 |  |
+| [IberianCard](https://iberiancard.com) | shopify | 2 | 2 |  |
+| [Kaissa](https://kaissa.gr) | html:/?s={q}&post_type=product | 1 | 0 |  |
 | [LojaDosPops](https://lojadospops.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [LootLab](https://lootlab.pt) | html:/search?q={q} | 10 | 5 |  |
 | [LostForgeStore](https://lostforgestore.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
@@ -49,7 +49,7 @@
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
 | [Psydeck](https://psydeck.com) | shopify | 0 | 0 |  |
 | [PTMerch](https://ptmerch.com) | presta | 5 | 4 |  |
-| [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 |  |
+| [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [Rota151](https://rota151.pt) | woo | 0 | 0 |  |
 | [SenhorGato](https://lojasenhorgato.pt) | shopify | 0 | 0 |  |
 | [Shop4Nerds](https://shop4nerds.pt) | error | 0 | 0 |  |
@@ -88,6 +88,10 @@
 - **Diver** — [PKM 30th Celebration: Mewtwo Figure Collection EN](https://diver.pt/pt/pkm-special-editions/106278-pkm-30th-celebration-mewtwo-figure-collection-en.html) — 79,99 €€
 - **Drawstep** — [PKM - 30th Celebration - Elite Trainer Box](https://drawstep.com/products/pkm-30th-celebration-elite-trainer-box) — 140.00€
 - **Gatorcards** — [30th Celebration Booster Bundle](https://gatorcards.pt/products/30th-celebration-booster-bundle) — 74.00€
+- **God of Cards** — [Pokemon 30th Anniversary Celebration Partner Card Set Display Vol. 1 (8 Boxen) S-Chinesisch](https://godofcards.com/products/pokemon-30th-anniversary-celebration-partner-card-set-display-vol-1-8-boxen-s-chinesisch) — 114.95€
+- **God of Cards** — [Pokemon 30th Anniversary Celebration Partner Card Set Vol. 1 S-Chinesisch](https://godofcards.com/products/pokemon-30th-anniversary-celebration-partner-card-set-vol-1-s-chinesisch) — 13.95€
+- **IberianCard** — [Break Pokémon 30th Anniversary – First Partner Vol. 1 (Chinês Simplificado)](https://iberiancard.com/products/break-pokemon-30th-anniversary-first-partner-vol-1-chines-simplificado) — 14.90€
+- **IberianCard** — [Pokémon 30th Anniversary – First Partner Vol. 1 (Chinês Simplificado)](https://iberiancard.com/products/pokemon-30th-anniversary-first-partner-vol-1-chines-simplificado) — 14.90€
 - **LootLab** — [NOVO Pokémon 30th Celebration Battle Deck (aleatório)](https://lootlab.pt/p/pokemon-30th-celebration-battle-deck-aleatorio)
 - **LootLab** — [NOVO Pokémon 30th Celebration Mini Tin (Aleatório)](https://lootlab.pt/p/pokemon-30th-celebration-mini-tin-aleatorio)
 - **LootLab** — [NOVO Pokémon 30th Celebration: Ditto Premium Collection](https://lootlab.pt/p/pokemon-30th-celebration-ditto-premium-collection)
