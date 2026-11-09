@@ -344,6 +344,14 @@
    "title": "30th Celebration Booster",
    "url": "https://biridama.pt/products/30th-celebration-booster-s-chinese"
   },
+  "https://biridama.pt/products/30th-celebration-ditto-premium-collection": {
+   "available": false,
+   "domain": "biridama.pt",
+   "price": "105.00",
+   "store": "Biridama",
+   "title": "30th Celebration: Ditto Premium Collection",
+   "url": "https://biridama.pt/products/30th-celebration-ditto-premium-collection"
+  },
   "https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese": {
    "available": true,
    "domain": "biridama.pt",
@@ -351,6 +359,14 @@
    "store": "Biridama",
    "title": "30th Celebration Card Showcase Set",
    "url": "https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese"
+  },
+  "https://biridama.pt/products/30th-celebration-mew-figure-collection": {
+   "available": false,
+   "domain": "biridama.pt",
+   "price": "80.00",
+   "store": "Biridama",
+   "title": "30th Celebration: Mew Figure Collection",
+   "url": "https://biridama.pt/products/30th-celebration-mew-figure-collection"
   },
   "https://biridama.pt/products/30th-celebration-umbreon-ex-luxury-set-s-chinese": {
    "available": true,
@@ -511,22 +527,6 @@
    "store": "Diver",
    "title": "PKM 30th Celebration: Ditto Premium Collection EN",
    "url": "https://diver.pt/pt/pkm-special-editions/106277-pkm-30th-celebration-ditto-premium-collection-en.html"
-  },
-  "https://diver.pt/pt/pkm-special-editions/106278-pkm-30th-celebration-mewtwo-figure-collection-en.html": {
-   "available": true,
-   "domain": "diver.pt",
-   "price": "79,99 €",
-   "store": "Diver",
-   "title": "PKM 30th Celebration: Mewtwo Figure Collection EN",
-   "url": "https://diver.pt/pt/pkm-special-editions/106278-pkm-30th-celebration-mewtwo-figure-collection-en.html"
-  },
-  "https://diver.pt/pt/pkm-special-editions/106279-pkm-30th-celebration-mew-figure-collection-en.html": {
-   "available": true,
-   "domain": "diver.pt",
-   "price": "79,99 €",
-   "store": "Diver",
-   "title": "PKM 30th Celebration: Mew Figure Collection EN",
-   "url": "https://diver.pt/pt/pkm-special-editions/106279-pkm-30th-celebration-mew-figure-collection-en.html"
   },
   "https://diver.pt/pt/pkm-special-editions/106281-pkm-30th-celebration-battle-deck-en.html": {
    "available": false,
@@ -1841,7 +1841,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-mini-tin-aleatorio/"
   }
  },
- "last_run": "2026-11-09 02:40 UTC",
+ "last_run": "2026-11-09 10:23 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
