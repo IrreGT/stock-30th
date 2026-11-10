@@ -1,10 +1,10 @@
-# Estado do monitor — 2026-11-09 20:58 UTC
+# Estado do monitor — 2026-11-10 03:24 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
-| [AJogar](https://ajogar.com) | shopify | 12 | 1 |  |
-| [AnixWays](https://anixways.com) | woo | 26 | 7 |  |
+| [AJogar](https://ajogar.com) | shopify | 11 | 1 |  |
+| [AnixWays](https://anixways.com) | woo | 27 | 8 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 15 | 7 |  |
 | [Brokards](https://brokards.com) | shopify | 11 | 0 |  |
@@ -21,7 +21,7 @@
 | [El Corte Inglés](https://elcorteingles.pt) | error | 0 | 0 |  |
 | [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 |  |
 | [Gatorcards](https://gatorcards.pt) | shopify | 8 | 1 |  |
-| [Geekhaven](https://geekhaven.pt) | shopify | 12 | 0 |  |
+| [Geekhaven](https://geekhaven.pt) | shopify | 13 | 0 |  |
 | [GgLounge](https://gglounge.pt) | woo | 0 | 0 |  |
 | [GM Cards & Toys](https://gmcardsandtoys.com) | shopify | 0 | 0 |  |
 | [God of Cards](https://godofcards.com) | shopify | 2 | 2 |  |
@@ -47,22 +47,22 @@
 | [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 36 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 9 | 0 |  |
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
-| [Psydeck](https://psydeck.com) | shopify | 0 | 0 |  |
+| [Psydeck](https://psydeck.com) | shopify | 14 | 7 |  |
 | [PTMerch](https://ptmerch.com) | presta | 5 | 4 |  |
 | [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 |  |
 | [Rota151](https://rota151.pt) | woo | 0 | 0 |  |
 | [SenhorGato](https://lojasenhorgato.pt) | shopify | 6 | 3 |  |
 | [Shop4Nerds](https://shop4nerds.pt) | error | 0 | 0 |  |
 | [Stickerpoint](https://stickerpoint.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
-| [TCGFamily](https://tcg-family.com) | shopify | 0 | 0 |  |
+| [TCGFamily](https://tcg-family.com) | shopify | 4 | 3 |  |
 | [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 10 | 0 |  |
-| [TemplarsArena](https://templarsarena.com) | shopify | 0 | 0 |  |
+| [TemplarsArena](https://templarsarena.com) | shopify | 12 | 9 |  |
 | [The Kanto Market](https://thekantomarket.com) | shopify | 0 | 0 |  |
-| [Totobayshop](https://totobayshop.com) | shopify | 0 | 0 |  |
+| [Totobayshop](https://totobayshop.com) | shopify | 12 | 2 |  |
 | [ToysRUsPT](https://toysrus.pt) | error | 0 | 0 |  |
 | [TriplaceGames](https://triplacegames.com) | html:/search?q={q} | 14 | 0 |  |
-| [UntradableStore](https://untradablestore.com) | shopify | 0 | 0 |  |
-| [VenturaCardGames](https://venturacardgames.com) | shopify | 0 | 0 |  |
+| [UntradableStore](https://untradablestore.com) | shopify | 9 | 0 |  |
+| [VenturaCardGames](https://venturacardgames.com) | shopify | 1 | 1 |  |
 | [VersusGameCenter](https://versusgamecenter.pt) | shopify | 0 | 0 |  |
 | [WeatherlightGames](https://weatherlightgames.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [ZukaCards](https://zukacards.com) | shopify | 0 | 0 |  |
@@ -77,6 +77,7 @@
 - **AnixWays** — [30th Celebration: Espeon EX Battle Deck](https://anixways.com/product/30th-celebration-espeon-ex-battle-deck/) — 40.00€
 - **AnixWays** — [30th Celebration: Mew Figure Collection](https://anixways.com/product/30th-celebration-mew-figure-collection/) — 90.00€
 - **AnixWays** — [30th Celebration: Mewtwo Figure Collection](https://anixways.com/product/30th-celebration-mewtwo-figure-collection/) — 90.00€
+- **AnixWays** — [Pokémon Battle Figure Action Figure Multipack 30th Anniversary](https://anixways.com/product/pokemon-battle-figure-action-figure-multipack-30th-anniversary/) — 44.00€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.1](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1) — 15.50€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.3](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-3) — 16.00€
 - **Biridama** — [30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.2](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-2) — 14.00€
@@ -138,6 +139,28 @@
 - **PandaCollecting** — [30th Celebration Simplified Chinese Espeon ex Luxury Set](https://pandacollecting.com/product/30th-celebration-simplified-chinese-espeon-ex-luxury-set/)
 - **PandaCollecting** — [Pikachu 30th Celebration Plush](https://pandacollecting.com/product/pikachu-30th-celebration-plush/)
 - **PandaCollecting** — [Pikachu 30th Celebration Plush Key Chain](https://pandacollecting.com/product/pikachu-30th-celebration-plush-key-chain/)
+- **Psydeck** — [30th Celebration 2-Pack Blister Eevee](https://psydeck.com/products/30th-celebration-2-pack-blister-eevee) — 28.00€
+- **Psydeck** — [30th Celebration Elite Trainer Box](https://psydeck.com/products/30th-celebration-elite-trainer-box) — 130.00€
+- **Psydeck** — [30th Celebration Espeon ex Battle Deck](https://psydeck.com/products/30th-celebration-espeon-ex-battle-deck) — 48.00€
+- **Psydeck** — [30th Celebration Umbreon ex Battle Deck](https://psydeck.com/products/30th-celebration-umbreon-ex-battle-deck) — 48.00€
+- **Psydeck** — [30th Celebration ex Box Greninja ex](https://psydeck.com/products/30th-celebration-ex-box-greninja-ex) — 55.00€
+- **Psydeck** — [30th Celebration ex Box Sylveon ex](https://psydeck.com/products/30th-celebration-ex-box-sylveon-ex) — 55.00€
+- **Psydeck** — [30th Celebration ex Tin Greninja ex](https://psydeck.com/products/30th-celebration-ex-tin-greninja-ex) — 49.80€
 - **SenhorGato** — [TCG Pokémon - 30th Anniversary First Partner Series 1 - Chinese](https://lojasenhorgato.pt/products/tcg-pokemon-30th-anniversary-first-partner-series-1-chinese) — 15.00€
 - **SenhorGato** — [TCG Pokémon - 30th Anniversary First Partner Series 2 - Chinese](https://lojasenhorgato.pt/products/tcg-pokemon-30th-anniversary-first-partner-series-2-chinese) — 15.00€
 - **SenhorGato** — [TCG Pokémon - 30th Anniversary First Partner Series 3 - Chinese](https://lojasenhorgato.pt/products/tcg-pokemon-30th-anniversary-first-partner-series-3-chinese) — 15.00€
+- **TCGFamily** — [30th Celebration - Battle Deck](https://tcg-family.com/products/30th-celebration-battle-deck) — 50.00€
+- **TCGFamily** — [Pokémon TCG 30th Anniversary Celebration Coin Set CHINESE Ver.](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-coin-set-chinese-ver) — 22.00€
+- **TCGFamily** — [Pokémon TCG – 30th Anniversary Dream Painting Pikachu Figure Set Blind Box (Simplified Chinese)](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese) — 34.00€
+- **TemplarsArena** — [30th Celebration 2-Pack Blister Eevee](https://templarsarena.com/products/30th-celebration-2-pack-blister-eevee) — 30.00€
+- **TemplarsArena** — [30th Celebration Booster Bundle - English](https://templarsarena.com/products/30th-celebration-booster-bundle) — 75.00€
+- **TemplarsArena** — [30th Celebration Elite Trainer Box](https://templarsarena.com/products/30th-celebration-elite-trainer-box) — 159.90€
+- **TemplarsArena** — [30th Celebration Poster Collection](https://templarsarena.com/products/30th-celebration-poster-collection) — 50.00€
+- **TemplarsArena** — [30th Celebration: Greninja ex Box](https://templarsarena.com/products/30th-celebration-greninja-ex-box) — 55.00€
+- **TemplarsArena** — [30th Celebration: Sylveon ex Box](https://templarsarena.com/products/30th-celebration-sylveon-ex-box) — 55.00€
+- **TemplarsArena** — [Pokémon 30th Anniversary First Partner Vol. 3 - Chinese](https://templarsarena.com/products/pokemon-30th-anniversary-first-partner-vol-3-chinese) — 16.00€
+- **TemplarsArena** — [Pokémon TCG: 30th Celebration Ultra-Premium Collection—Night (Umbreon)](https://templarsarena.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon) — 544.00€
+- **TemplarsArena** — [Pokémon: 30th Celebration booster](https://templarsarena.com/products/pokemon-30th-celebration-booster) — 15.00€
+- **Totobayshop** — [30th Celebration - Mini Tin (Day)](https://totobayshop.com/products/30th-celebration-mini-tin-copy) — 24.30€
+- **Totobayshop** — [30th Celebration - Mini Tin (Night)](https://totobayshop.com/products/30th-celebration-mini-tin-copy-1) — 24.30€
+- **VenturaCardGames** — [Pokémon TCG 30th Celebration Elite Trainer Box English](https://venturacardgames.com/products/pokemon-tcg-30th-celebration-elite-trainer-box-english) — 174.90€
