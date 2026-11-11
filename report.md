@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-11-10 23:47 UTC
+# Estado do monitor — 2026-11-11 03:10 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@
 | [DrawPhase](https://drawphase.pt) | shopify | 0 | 0 |  |
 | [Drawstep](https://drawstep.com) | shopify | 7 | 1 |  |
 | [El Corte Inglés](https://elcorteingles.pt) | error | 0 | 0 |  |
-| [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 |  |
+| [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 | ConnectTimeout: HTTPSConnectionPool(host='games-island.eu', port=443): Max retries exceeded with url: /products.json?limit=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='games-island.eu', por |
 | [Gatorcards](https://gatorcards.pt) | shopify | 8 | 1 |  |
-| [Geekhaven](https://geekhaven.pt) | shopify | 12 | 0 |  |
+| [Geekhaven](https://geekhaven.pt) | shopify | 13 | 0 |  |
 | [GgLounge](https://gglounge.pt) | woo | 2 | 0 |  |
 | [GM Cards & Toys](https://gmcardsandtoys.com) | shopify | 0 | 0 |  |
-| [God of Cards](https://godofcards.com) | shopify | 0 | 0 |  |
+| [God of Cards](https://godofcards.com) | shopify | 2 | 2 |  |
 | [IberianCard](https://iberiancard.com) | shopify | 0 | 0 |  |
 | [Kaissa](https://kaissa.gr) | html:/?s={q}&post_type=product | 1 | 0 |  |
 | [LojaDosPops](https://lojadospops.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
@@ -41,10 +41,10 @@
 | [OhliCards](https://ohlicards.pt) | woo | 6 | 4 |  |
 | [OPortoGG](https://oportogg.com) | shopify | 0 | 0 |  |
 | [Packpoint](https://packpoint.pt) | shopify | 0 | 0 |  |
-| [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 |  |
+| [PandaCollecting](https://pandacollecting.com) | html:/?s={q}&post_type=product | 15 | 4 |  |
 | [Papelinho](https://papelinho.pt) | presta | 1 | 1 |  |
 | [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 5 | 0 |  |
-| [PokeboxStore](https://pokeboxstore.pt) | error | 0 | 0 |  |
+| [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 37 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 0 | 0 |  |
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
 | [Psydeck](https://psydeck.com) | shopify | 0 | 0 |  |
@@ -89,6 +89,8 @@
 - **Diver** — [PKM 30th Celebration: Battle Deck EN](https://diver.pt/pt/pkm-special-editions/106281-pkm-30th-celebration-battle-deck-en.html) — 47,99 €€
 - **Drawstep** — [PKM - 30th Celebration - Elite Trainer Box](https://drawstep.com/products/pkm-30th-celebration-elite-trainer-box) — 140.00€
 - **Gatorcards** — [30th Celebration Booster Bundle](https://gatorcards.pt/products/30th-celebration-booster-bundle) — 74.00€
+- **God of Cards** — [Pokemon 30th Anniversary Celebration Partner Card Set Display Vol. 1 (8 Boxen) S-Chinesisch](https://godofcards.com/products/pokemon-30th-anniversary-celebration-partner-card-set-display-vol-1-8-boxen-s-chinesisch) — 114.95€
+- **God of Cards** — [Pokemon 30th Anniversary Celebration Partner Card Set Vol. 1 S-Chinesisch](https://godofcards.com/products/pokemon-30th-anniversary-celebration-partner-card-set-vol-1-s-chinesisch) — 13.95€
 - **LootLab** — [NOVO Pokémon 30th Celebration Battle Deck (aleatório)](https://lootlab.pt/p/pokemon-30th-celebration-battle-deck-aleatorio)
 - **LootLab** — [NOVO Pokémon 30th Celebration Mini Tin (Aleatório)](https://lootlab.pt/p/pokemon-30th-celebration-mini-tin-aleatorio)
 - **LootLab** — [NOVO Pokémon 30th Celebration: Ditto Premium Collection](https://lootlab.pt/p/pokemon-30th-celebration-ditto-premium-collection)
@@ -127,4 +129,8 @@
 - **PTMerch** — [30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.2](https://ptmerch.com/pt/special-edition-pokemon/17927-30th-anniversary-celebration-simplified-chinese-original-partner-card-set-vol2-6942600406599.html) — 19,00 €€
 - **PTMerch** — [30th Celebration - Coin Set (Simplified Chinese)](https://ptmerch.com/pt/30th-celebration/18488-30th-celebration-coin-set-simplified-chinese-6942600436626.html) — 22,50 €€
 - **PTMerch** — [30th Celebration - Dream Painting Collection Pikachu Figure Set (Simplified Chinese)](https://ptmerch.com/pt/30th-celebration/18487-30th-celebration-dream-painting-collection-pikachu-figure-set-simplified-chinese-6942600454095.html) — 35,00 €€
+- **PandaCollecting** — [30th Celebration Espeon ex and Umbreon ex Premium Deck Set](https://pandacollecting.com/product/30th-celebration-espeon-ex-and-umbreon-ex-premium-deck-set/)
+- **PandaCollecting** — [30th Celebration Simplified Chinese Espeon ex Luxury Set](https://pandacollecting.com/product/30th-celebration-simplified-chinese-espeon-ex-luxury-set/)
+- **PandaCollecting** — [Pikachu 30th Celebration Plush](https://pandacollecting.com/product/pikachu-30th-celebration-plush/)
+- **PandaCollecting** — [Pikachu 30th Celebration Plush Key Chain](https://pandacollecting.com/product/pikachu-30th-celebration-plush-key-chain/)
 - **Papelinho** — [Pokémon TCG 30th Celebration Figure Collection | Mew e Mewtwo 1 und.](https://papelinho.pt/jogos-brinquedos/jogos-de-cartas/pokemon-tcg-30th-celebration-figure-collection-mew-e-mewtwo-1-und#/74-pack_pokemon-mew) — 79,99 €€
