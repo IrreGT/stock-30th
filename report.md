@@ -1,10 +1,10 @@
-# Estado do monitor — 2026-11-12 08:15 UTC
+# Estado do monitor — 2026-11-12 16:52 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
 | [AJogar](https://ajogar.com) | shopify | 12 | 1 |  |
-| [AnixWays](https://anixways.com) | woo | 27 | 8 |  |
+| [AnixWays](https://anixways.com) | woo | 27 | 9 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 13 | 8 |  |
 | [Brokards](https://brokards.com) | shopify | 11 | 0 |  |
@@ -13,15 +13,15 @@
 | [CentroXogo](https://centroxogo.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [Charbinder](https://charbinder.com) | shopify | 1 | 1 |  |
 | [Colecionar](https://colecionar.pt) | error | 0 | 0 |  |
-| [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 3 | 0 |  |
+| [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [Continente](https://continente.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Diver](https://diver.pt) | presta | 2 | 1 |  |
 | [DrawPhase](https://drawphase.pt) | shopify | 0 | 0 |  |
 | [Drawstep](https://drawstep.com) | shopify | 7 | 1 |  |
 | [El Corte Inglés](https://elcorteingles.pt) | error | 0 | 0 |  |
 | [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 |  |
-| [Gatorcards](https://gatorcards.pt) | shopify | 8 | 1 |  |
-| [Geekhaven](https://geekhaven.pt) | shopify | 12 | 0 |  |
+| [Gatorcards](https://gatorcards.pt) | shopify | 0 | 0 |  |
+| [Geekhaven](https://geekhaven.pt) | shopify | 0 | 0 |  |
 | [GgLounge](https://gglounge.pt) | woo | 2 | 0 |  |
 | [GM Cards & Toys](https://gmcardsandtoys.com) | shopify | 0 | 0 |  |
 | [God of Cards](https://godofcards.com) | shopify | 0 | 0 |  |
@@ -77,6 +77,7 @@
 - **AnixWays** — [30th Celebration: Espeon EX Battle Deck](https://anixways.com/product/30th-celebration-espeon-ex-battle-deck/) — 40.00€
 - **AnixWays** — [30th Celebration: Mew Figure Collection](https://anixways.com/product/30th-celebration-mew-figure-collection/) — 90.00€
 - **AnixWays** — [30th Celebration: Mewtwo Figure Collection](https://anixways.com/product/30th-celebration-mewtwo-figure-collection/) — 90.00€
+- **AnixWays** — [30th Celebration: Umbreon EX Ultra-Premium Collection](https://anixways.com/product/30th-celebration-umbreon-ex-ultra-premium-collection/) — 420.00€
 - **AnixWays** — [Pokémon Battle Figure Action Figure Multipack 30th Anniversary](https://anixways.com/product/pokemon-battle-figure-action-figure-multipack-30th-anniversary/) — 44.00€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.1](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1) — 15.50€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.3](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-3) — 16.00€
@@ -89,7 +90,6 @@
 - **Charbinder** — [Pokémon TCG 30th Anniversary First Partner Card Set Vol. 1 (CN)](https://charbinder.com/products/pokemon-tcg-30th-anniversary-first-partner-card-set-vol-1-cn) — 17.90€
 - **Diver** — [PKM 30th Celebration: Battle Deck EN](https://diver.pt/pt/pkm-special-editions/106281-pkm-30th-celebration-battle-deck-en.html) — 47,99 €€
 - **Drawstep** — [PKM - 30th Celebration - Elite Trainer Box](https://drawstep.com/products/pkm-30th-celebration-elite-trainer-box) — 140.00€
-- **Gatorcards** — [30th Celebration Booster Bundle](https://gatorcards.pt/products/30th-celebration-booster-bundle) — 74.00€
 - **LootLab** — [NOVO Pokémon 30th Celebration Battle Deck (aleatório)](https://lootlab.pt/p/pokemon-30th-celebration-battle-deck-aleatorio)
 - **LootLab** — [NOVO Pokémon 30th Celebration Mini Tin (Aleatório)](https://lootlab.pt/p/pokemon-30th-celebration-mini-tin-aleatorio)
 - **LootLab** — [NOVO Pokémon 30th Celebration: Ditto Premium Collection](https://lootlab.pt/p/pokemon-30th-celebration-ditto-premium-collection)
