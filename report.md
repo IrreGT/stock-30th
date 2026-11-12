@@ -1,12 +1,12 @@
-# Estado do monitor — 2026-11-12 16:52 UTC
+# Estado do monitor — 2026-11-12 22:38 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
-| [AJogar](https://ajogar.com) | shopify | 12 | 1 |  |
+| [AJogar](https://ajogar.com) | shopify | 11 | 1 |  |
 | [AnixWays](https://anixways.com) | woo | 27 | 9 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 0 | 0 |  |
-| [Biridama](https://biridama.pt) | shopify | 13 | 8 |  |
+| [Biridama](https://biridama.pt) | shopify | 13 | 9 |  |
 | [Brokards](https://brokards.com) | shopify | 11 | 0 |  |
 | [Byulverse](https://byulverse.eu) | html:/search?q={q} | 0 | 0 |  |
 | [CardFever](https://cardfever.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
@@ -20,8 +20,8 @@
 | [Drawstep](https://drawstep.com) | shopify | 7 | 1 |  |
 | [El Corte Inglés](https://elcorteingles.pt) | error | 0 | 0 |  |
 | [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 |  |
-| [Gatorcards](https://gatorcards.pt) | shopify | 0 | 0 |  |
-| [Geekhaven](https://geekhaven.pt) | shopify | 0 | 0 |  |
+| [Gatorcards](https://gatorcards.pt) | shopify | 8 | 1 |  |
+| [Geekhaven](https://geekhaven.pt) | shopify | 10 | 0 |  |
 | [GgLounge](https://gglounge.pt) | woo | 2 | 0 |  |
 | [GM Cards & Toys](https://gmcardsandtoys.com) | shopify | 0 | 0 |  |
 | [God of Cards](https://godofcards.com) | shopify | 0 | 0 |  |
@@ -44,7 +44,7 @@
 | [PandaCollecting](https://pandacollecting.com) | html:/?s={q}&post_type=product | 15 | 4 |  |
 | [Papelinho](https://papelinho.pt) | presta | 1 | 1 |  |
 | [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 5 | 0 |  |
-| [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 37 | 0 |  |
+| [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 40 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 0 | 0 |  |
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
 | [Psydeck](https://psydeck.com) | shopify | 0 | 0 |  |
@@ -84,12 +84,14 @@
 - **Biridama** — [30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.2](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-2) — 14.00€
 - **Biridama** — [30th Celebration Booster](https://biridama.pt/products/30th-celebration-booster-s-chinese) — 5.50€
 - **Biridama** — [30th Celebration Booster Box S-Chinese](https://biridama.pt/products/30th-celebration-booster-box-s-chinese) — 111.00€
+- **Biridama** — [30th Celebration Poster Collection](https://biridama.pt/products/celebration-poster-collection) — 39.90€
 - **Biridama** — [30th Celebration: Ditto Premium Collection](https://biridama.pt/products/30th-celebration-ditto-premium-collection) — 105.00€
 - **Biridama** — [30th Celebration: Mew Figure Collection](https://biridama.pt/products/30th-celebration-mew-figure-collection) — 80.00€
 - **Biridama** — [30th Celebration: Mewtwo Figure Collection](https://biridama.pt/products/30th-celebration-mewtwo-figure-collection) — 80.00€
 - **Charbinder** — [Pokémon TCG 30th Anniversary First Partner Card Set Vol. 1 (CN)](https://charbinder.com/products/pokemon-tcg-30th-anniversary-first-partner-card-set-vol-1-cn) — 17.90€
 - **Diver** — [PKM 30th Celebration: Battle Deck EN](https://diver.pt/pt/pkm-special-editions/106281-pkm-30th-celebration-battle-deck-en.html) — 47,99 €€
 - **Drawstep** — [PKM - 30th Celebration - Elite Trainer Box](https://drawstep.com/products/pkm-30th-celebration-elite-trainer-box) — 140.00€
+- **Gatorcards** — [30th Celebration Booster Bundle](https://gatorcards.pt/products/30th-celebration-booster-bundle) — 74.00€
 - **LootLab** — [NOVO Pokémon 30th Celebration Battle Deck (aleatório)](https://lootlab.pt/p/pokemon-30th-celebration-battle-deck-aleatorio)
 - **LootLab** — [NOVO Pokémon 30th Celebration Mini Tin (Aleatório)](https://lootlab.pt/p/pokemon-30th-celebration-mini-tin-aleatorio)
 - **LootLab** — [NOVO Pokémon 30th Celebration: Ditto Premium Collection](https://lootlab.pt/p/pokemon-30th-celebration-ditto-premium-collection)
