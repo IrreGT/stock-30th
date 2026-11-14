@@ -16,6 +16,14 @@
    "title": "Pokemon 30th Celebration Battle Deck - Espeon ex, English Edition",
    "url": "https://ajogar.com/products/pkm-30-battleespeon"
   },
+  "https://ajogar.com/products/pkm-30-battleumbreon": {
+   "available": false,
+   "domain": "ajogar.com",
+   "price": "34.99",
+   "store": "AJogar",
+   "title": "Pokemon 30th Celebration Battle Deck - Umbreon ex, English Edition",
+   "url": "https://ajogar.com/products/pkm-30-battleumbreon"
+  },
   "https://ajogar.com/products/pkm-30-bundle": {
    "available": false,
    "domain": "ajogar.com",
@@ -55,6 +63,14 @@
    "store": "AJogar",
    "title": "Pokemon 30th Celebration Ex Box - Sylveon, English Edition",
    "url": "https://ajogar.com/products/pkm-30-exboxsylveon"
+  },
+  "https://ajogar.com/products/pkm-30-extinsylveon": {
+   "available": false,
+   "domain": "ajogar.com",
+   "price": "44.99",
+   "store": "AJogar",
+   "title": "Pokemon 30th Celebration Ex Tin - Sylveon, English Edition",
+   "url": "https://ajogar.com/products/pkm-30-extinsylveon"
   },
   "https://ajogar.com/products/pkm-30-figuremew": {
    "available": false,
@@ -1016,6 +1032,22 @@
    "title": "Pokémon TCG: 30th Celebration Greninja ex Tin",
    "url": "https://manatcg.com/products/pokemon-tcg-30th-celebration-greninja-ex-tin"
   },
+  "https://manatcg.com/products/pokemon-tcg-30th-celebration-mew-figure-collection": {
+   "available": true,
+   "domain": "manatcg.com",
+   "price": "69.99",
+   "store": "ManaTCG",
+   "title": "Pokémon TCG: 30th Celebration Mew Figure Collection",
+   "url": "https://manatcg.com/products/pokemon-tcg-30th-celebration-mew-figure-collection"
+  },
+  "https://manatcg.com/products/pokemon-tcg-30th-celebration-mewtwo-figure-collection": {
+   "available": true,
+   "domain": "manatcg.com",
+   "price": "69.99",
+   "store": "ManaTCG",
+   "title": "Pokémon TCG: 30th Celebration Mewtwo Figure Collection",
+   "url": "https://manatcg.com/products/pokemon-tcg-30th-celebration-mewtwo-figure-collection"
+  },
   "https://manatcg.com/products/pokemon-tcg-30th-celebration-mini-tin-random": {
    "available": true,
    "domain": "manatcg.com",
@@ -1119,30 +1151,6 @@
    "store": "MercadiaGames",
    "title": "Pokémon TCG: 30th Celebration – Sylveon ex Box",
    "url": "https://mercadiagames.pt/produto/pokemon-tcg-30th-celebration-sylveon-ex-box/"
-  },
-  "https://oportogg.com/products/pokemon-tcg-30th-celebration-battle-deck-en": {
-   "available": true,
-   "domain": "oportogg.com",
-   "price": "40.90",
-   "store": "OPortoGG",
-   "title": "Pokémon TCG: 30th Celebration – Battle Deck (EN)",
-   "url": "https://oportogg.com/products/pokemon-tcg-30th-celebration-battle-deck-en"
-  },
-  "https://oportogg.com/products/pokemon-tcg-30th-celebration-mew-figure-collection-en": {
-   "available": true,
-   "domain": "oportogg.com",
-   "price": "74.90",
-   "store": "OPortoGG",
-   "title": "Pokémon TCG: 30th Celebration – Mew Figure Collection (EN)",
-   "url": "https://oportogg.com/products/pokemon-tcg-30th-celebration-mew-figure-collection-en"
-  },
-  "https://oportogg.com/products/pokemon-tcg-30th-celebration-mewtwo-figure-collection-en": {
-   "available": true,
-   "domain": "oportogg.com",
-   "price": "74.90",
-   "store": "OPortoGG",
-   "title": "Pokémon TCG: 30th Celebration – Mewtwo Figure Collection (EN)",
-   "url": "https://oportogg.com/products/pokemon-tcg-30th-celebration-mewtwo-figure-collection-en"
   },
   "https://papelinho.pt/jogos-brinquedos/jogos-de-cartas/pokemon-tcg-30th-celebration-figure-collection-mew-e-mewtwo-1-und#/74-pack_pokemon-mew": {
    "available": true,
@@ -1833,7 +1841,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-mini-tin-aleatorio/"
   }
  },
- "last_run": "2026-11-13 23:32 UTC",
+ "last_run": "2026-11-14 03:32 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
