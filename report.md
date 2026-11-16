@@ -1,9 +1,9 @@
-# Estado do monitor — 2026-11-15 20:22 UTC
+# Estado do monitor — 2026-11-16 00:12 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
-| [AJogar](https://ajogar.com) | shopify | 13 | 3 |  |
+| [AJogar](https://ajogar.com) | shopify | 12 | 2 |  |
 | [AnixWays](https://anixways.com) | woo | 27 | 6 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 13 | 9 |  |
@@ -37,7 +37,7 @@
 | [MercadiaGames](https://mercadiagames.pt) | woo | 10 | 10 |  |
 | [Miniversos](https://miniversos.pt) | shopify | 0 | 0 |  |
 | [MyPopMania](https://mypopmania.pt) | html:/pesquisa?controller=search&s={q} | 0 | 0 |  |
-| [MysticMirage](https://mysticmirage.shop) | html:/search?q={q} | 2 | 0 |  |
+| [MysticMirage](https://mysticmirage.shop) | html:/search?q={q} | 3 | 0 |  |
 | [OhliCards](https://ohlicards.pt) | woo | 6 | 4 |  |
 | [OPortoGG](https://oportogg.com) | shopify | 3 | 3 |  |
 | [Packpoint](https://packpoint.pt) | shopify | 0 | 0 |  |
@@ -56,7 +56,7 @@
 | [Stickerpoint](https://stickerpoint.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [TCGFamily](https://tcg-family.com) | shopify | 4 | 3 |  |
 | [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 10 | 0 |  |
-| [TemplarsArena](https://templarsarena.com) | shopify | 14 | 12 |  |
+| [TemplarsArena](https://templarsarena.com) | shopify | 14 | 11 |  |
 | [The Kanto Market](https://thekantomarket.com) | shopify | 0 | 0 |  |
 | [Totobayshop](https://totobayshop.com) | shopify | 12 | 4 |  |
 | [ToysRUsPT](https://toysrus.pt) | error | 0 | 0 |  |
@@ -69,7 +69,6 @@
 
 ## Produtos com stock agora
 
-- **AJogar** — [Morpeko 30th Anniversary 20cm Pastel Peluche](https://ajogar.com/products/morpeko-30th-anniversary-20cm-pastel-peluche) — 22.99€
 - **AJogar** — [Pokemon 30th Anniversary Booster Pack of 6 Cards, Japanese](https://ajogar.com/products/pokemon-30th-anniversary-booster-pack-of-6-cards-japanese) — 10.50€
 - **AJogar** — [Pokemon 30th Celebration Mini Tin - Day Pikachu & Vivillon, English Edition](https://ajogar.com/products/pkm-30-mini5) — 23.99€
 - **AnixWays** — [30th Celebration Greninja EX Tin](https://anixways.com/product/30th-celebration-greninja-ex-tin/) — 47.90€
@@ -77,7 +76,7 @@
 - **AnixWays** — [30th Celebration: Espeon EX Battle Deck](https://anixways.com/product/30th-celebration-espeon-ex-battle-deck/) — 40.00€
 - **AnixWays** — [30th Celebration: Mew Figure Collection](https://anixways.com/product/30th-celebration-mew-figure-collection/) — 90.00€
 - **AnixWays** — [30th Celebration: Mewtwo Figure Collection](https://anixways.com/product/30th-celebration-mewtwo-figure-collection/) — 90.00€
-- **AnixWays** — [Pokémon Battle Figure Action Figure Multipack 30th Anniversary](https://anixways.com/product/pokemon-battle-figure-action-figure-multipack-30th-anniversary/) — 44.00€
+- **AnixWays** — [Pokémon Battle Figure Action Figure Multipack 30th Anniversary](https://anixways.com/product/pokemon-battle-figure-action-figure-multipack-30th-anniversary/) — 45.90€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.1](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1) — 15.50€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.3](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-3) — 16.00€
 - **Biridama** — [30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.2](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-2) — 14.00€
@@ -168,7 +167,6 @@
 - **TemplarsArena** — [30th Celebration: Greninja ex Box](https://templarsarena.com/products/30th-celebration-greninja-ex-box) — 45.00€
 - **TemplarsArena** — [30th Celebration: Sylveon ex Box](https://templarsarena.com/products/30th-celebration-sylveon-ex-box) — 45.00€
 - **TemplarsArena** — [Pokémon 30th Anniversary First Partner Vol. 3 - Chinese](https://templarsarena.com/products/pokemon-30th-anniversary-first-partner-vol-3-chinese) — 16.00€
-- **TemplarsArena** — [Pokémon TCG – First Partner 30th Anniversary – Vol. 2 – Simplified Chinese](https://templarsarena.com/products/pokemon-tcg-first-partner-30th-anniversary-display-vol-2-simplified-chinese) — 16.00€
 - **TemplarsArena** — [Pokémon TCG: 30th Celebration Ultra-Premium Collection—Day (Espeon)](https://templarsarena.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon) — 544.00€
 - **TemplarsArena** — [Pokémon TCG: 30th Celebration Ultra-Premium Collection—Night (Umbreon)](https://templarsarena.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon) — 544.00€
 - **TemplarsArena** — [Pokémon: 30th Celebration Ditto Premium Collection (English)](https://templarsarena.com/products/pokemon-30th-ditto-premium-collection-english) — 99.90€

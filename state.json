@@ -1,13 +1,5 @@
 {
  "items": {
-  "https://ajogar.com/products/morpeko-30th-anniversary-20cm-pastel-peluche": {
-   "available": true,
-   "domain": "ajogar.com",
-   "price": "22.99",
-   "store": "AJogar",
-   "title": "Morpeko 30th Anniversary 20cm Pastel Peluche",
-   "url": "https://ajogar.com/products/morpeko-30th-anniversary-20cm-pastel-peluche"
-  },
   "https://ajogar.com/products/pkm-30-battleespeon": {
    "available": false,
    "domain": "ajogar.com",
@@ -267,7 +259,7 @@
   "https://anixways.com/product/pokemon-battle-figure-action-figure-multipack-30th-anniversary/": {
    "available": true,
    "domain": "anixways.com",
-   "price": "44.00",
+   "price": "45.90",
    "store": "AnixWays",
    "title": "Pokémon Battle Figure Action Figure Multipack 30th Anniversary",
    "url": "https://anixways.com/product/pokemon-battle-figure-action-figure-multipack-30th-anniversary/"
@@ -2088,6 +2080,14 @@
    "title": "30th Celebration: Sylveon ex Box",
    "url": "https://templarsarena.com/products/30th-celebration-sylveon-ex-box"
   },
+  "https://templarsarena.com/products/30th-celebration-sylveon-ex-tin": {
+   "available": false,
+   "domain": "templarsarena.com",
+   "price": "55.00",
+   "store": "TemplarsArena",
+   "title": "30th Celebration Sylveon EX Tin",
+   "url": "https://templarsarena.com/products/30th-celebration-sylveon-ex-tin"
+  },
   "https://templarsarena.com/products/pokemon-30th-anniversary-first-partner-vol-3-chinese": {
    "available": true,
    "domain": "templarsarena.com",
@@ -2135,14 +2135,6 @@
    "store": "TemplarsArena",
    "title": "Pokémon TCG: 30th Celebration Ultra-Premium Collection—Night (Umbreon)",
    "url": "https://templarsarena.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon"
-  },
-  "https://templarsarena.com/products/pokemon-tcg-first-partner-30th-anniversary-display-vol-2-simplified-chinese": {
-   "available": true,
-   "domain": "templarsarena.com",
-   "price": "16.00",
-   "store": "TemplarsArena",
-   "title": "Pokémon TCG – First Partner 30th Anniversary – Vol. 2 – Simplified Chinese",
-   "url": "https://templarsarena.com/products/pokemon-tcg-first-partner-30th-anniversary-display-vol-2-simplified-chinese"
   },
   "https://totobayshop.com/products/30th-celebration-ditto-premium-collection": {
    "available": true,
@@ -2504,6 +2496,14 @@
    "title": "Pokémon 30th Celebration Ditto Collection (Live Breaks)",
    "url": "https://www.mysticmirage.shop/pokemon-30th-celebration-ditto-collection-live-breaks/"
   },
+  "https://www.mysticmirage.shop/pokemon-30th-celebration-mew-figure-collection-live-breaks/": {
+   "available": null,
+   "domain": "mysticmirage.shop",
+   "price": null,
+   "store": "MysticMirage",
+   "title": "Pokémon 30th Celebration Mew Figure Collection (Live Breaks)",
+   "url": "https://www.mysticmirage.shop/pokemon-30th-celebration-mew-figure-collection-live-breaks/"
+  },
   "https://www.mysticmirage.shop/pokemon-30th-celebration-mewtwo-figure-collection-live-breaks/": {
    "available": null,
    "domain": "mysticmirage.shop",
@@ -2561,7 +2561,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-mini-tin-aleatorio/"
   }
  },
- "last_run": "2026-11-15 20:22 UTC",
+ "last_run": "2026-11-16 00:12 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
