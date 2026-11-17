@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-11-17 00:26 UTC
+# Estado do monitor — 2026-11-17 08:22 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [LootLab](https://lootlab.pt) | html:/search?q={q} | 10 | 5 |  |
 | [LostForgeStore](https://lostforgestore.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [LotusValley](https://lotusvalley.pt) | woo | 11 | 11 |  |
-| [ManaTCG](https://manatcg.com) | shopify | 9 | 4 |  |
+| [ManaTCG](https://manatcg.com) | shopify | 0 | 0 |  |
 | [ManaVault](https://manavault.pt) | shopify | 0 | 0 |  |
 | [MasterPacks](https://masterpacks.pt) | html:/search?q={q} | 0 | 0 |  |
 | [MercadiaGames](https://mercadiagames.pt) | woo | 10 | 10 |  |
@@ -121,10 +121,6 @@
 - **LotusValley** — [30th Celebration:  Umbreon ex Battle Deck](https://lotusvalley.pt/produto/30th-celebration-umbreon-ex-battle-deck/) — 50.00€
 - **LotusValley** — [30th Celebration: Espeon ex Battle Deck](https://lotusvalley.pt/produto/30th-celebration-espeon-ex-battle-deck/) — 50.00€
 - **LotusValley** — [30th Celebration: Sylveon ex Box](https://lotusvalley.pt/produto/30th-celebration-sylveon-ex-box/) — 69.90€
-- **ManaTCG** — [Pokémon TCG: 30th Celebration Ditto Premium Collection](https://manatcg.com/products/pokemon-tcg-30th-celebration-ditto-premium-collection) — 89.99€
-- **ManaTCG** — [Pokémon TCG: 30th Celebration Mew Figure Collection](https://manatcg.com/products/pokemon-tcg-30th-celebration-mew-figure-collection) — 69.99€
-- **ManaTCG** — [Pokémon TCG: 30th Celebration Mewtwo Figure Collection](https://manatcg.com/products/pokemon-tcg-30th-celebration-mewtwo-figure-collection) — 69.99€
-- **ManaTCG** — [Pokémon TCG: 30th Celebration Mini Tin](https://manatcg.com/products/pokemon-tcg-30th-celebration-mini-tin-random) — 22.99€
 - **MercadiaGames** — [30th Celebration Simplified Chinese Espeon ex & Umbreon ex Gift Box](https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-espeon-ex-umbreon-ex-gift-box/) — 249.90€
 - **MercadiaGames** — [30th Celebration Simplified Chinese Espeon ex Deluxe Deck Set](https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-espeon-ex-luxury-set/) — 49.90€
 - **MercadiaGames** — [30th Celebration Simplified Chinese Greninja ex Card Display Set](https://mercadiagames.pt/produto/30th-celebration-simplified-chinese-greninja-ex-card-display-set/) — 39.90€

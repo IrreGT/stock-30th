@@ -968,78 +968,6 @@
    "title": "30th Celebration Elite Trainer Box",
    "url": "https://lotusvalley.pt/produto/30th-celebration/"
   },
-  "https://manatcg.com/products/pokemon-tcg-30th-celebration-2-pack-blister-eevee": {
-   "available": false,
-   "domain": "manatcg.com",
-   "price": "24.99",
-   "store": "ManaTCG",
-   "title": "Pokémon TCG: 30th Celebration 2-Pack Blister (Eevee)",
-   "url": "https://manatcg.com/products/pokemon-tcg-30th-celebration-2-pack-blister-eevee"
-  },
-  "https://manatcg.com/products/pokemon-tcg-30th-celebration-ditto-premium-collection": {
-   "available": true,
-   "domain": "manatcg.com",
-   "price": "89.99",
-   "store": "ManaTCG",
-   "title": "Pokémon TCG: 30th Celebration Ditto Premium Collection",
-   "url": "https://manatcg.com/products/pokemon-tcg-30th-celebration-ditto-premium-collection"
-  },
-  "https://manatcg.com/products/pokemon-tcg-30th-celebration-greninja-ex-box": {
-   "available": false,
-   "domain": "manatcg.com",
-   "price": "48.99",
-   "store": "ManaTCG",
-   "title": "Pokémon TCG: 30th Celebration Greninja ex Box",
-   "url": "https://manatcg.com/products/pokemon-tcg-30th-celebration-greninja-ex-box"
-  },
-  "https://manatcg.com/products/pokemon-tcg-30th-celebration-greninja-ex-tin": {
-   "available": false,
-   "domain": "manatcg.com",
-   "price": "43.99",
-   "store": "ManaTCG",
-   "title": "Pokémon TCG: 30th Celebration Greninja ex Tin",
-   "url": "https://manatcg.com/products/pokemon-tcg-30th-celebration-greninja-ex-tin"
-  },
-  "https://manatcg.com/products/pokemon-tcg-30th-celebration-mew-figure-collection": {
-   "available": true,
-   "domain": "manatcg.com",
-   "price": "69.99",
-   "store": "ManaTCG",
-   "title": "Pokémon TCG: 30th Celebration Mew Figure Collection",
-   "url": "https://manatcg.com/products/pokemon-tcg-30th-celebration-mew-figure-collection"
-  },
-  "https://manatcg.com/products/pokemon-tcg-30th-celebration-mewtwo-figure-collection": {
-   "available": true,
-   "domain": "manatcg.com",
-   "price": "69.99",
-   "store": "ManaTCG",
-   "title": "Pokémon TCG: 30th Celebration Mewtwo Figure Collection",
-   "url": "https://manatcg.com/products/pokemon-tcg-30th-celebration-mewtwo-figure-collection"
-  },
-  "https://manatcg.com/products/pokemon-tcg-30th-celebration-mini-tin-random": {
-   "available": true,
-   "domain": "manatcg.com",
-   "price": "22.99",
-   "store": "ManaTCG",
-   "title": "Pokémon TCG: 30th Celebration Mini Tin",
-   "url": "https://manatcg.com/products/pokemon-tcg-30th-celebration-mini-tin-random"
-  },
-  "https://manatcg.com/products/pokemon-tcg-30th-celebration-poster-collection": {
-   "available": false,
-   "domain": "manatcg.com",
-   "price": "36.99",
-   "store": "ManaTCG",
-   "title": "Pokémon TCG: 30th Celebration Poster Collection",
-   "url": "https://manatcg.com/products/pokemon-tcg-30th-celebration-poster-collection"
-  },
-  "https://manatcg.com/products/pokemon-tcg-30th-celebration-sylveon-ex-tin": {
-   "available": false,
-   "domain": "manatcg.com",
-   "price": "47.99",
-   "store": "ManaTCG",
-   "title": "Pokémon TCG: 30th Celebration Sylveon ex Tin",
-   "url": "https://manatcg.com/products/pokemon-tcg-30th-celebration-sylveon-ex-tin"
-  },
   "https://mercadiagames.pt/produto/30th-celebration-dream-painting-collection-pikachu-figure-set-simplified-chinese/": {
    "available": true,
    "domain": "mercadiagames.pt",
@@ -1921,7 +1849,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-mini-tin-aleatorio/"
   }
  },
- "last_run": "2026-11-17 00:26 UTC",
+ "last_run": "2026-11-17 08:22 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
