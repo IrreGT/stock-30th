@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-11-18 00:02 UTC
+# Estado do monitor — 2026-11-18 07:18 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [MyPopMania](https://mypopmania.pt) | html:/pesquisa?controller=search&s={q} | 0 | 0 |  |
 | [MysticMirage](https://mysticmirage.shop) | html:/search?q={q} | 3 | 0 |  |
 | [OhliCards](https://ohlicards.pt) | woo | 6 | 4 |  |
-| [OPortoGG](https://oportogg.com) | shopify | 3 | 3 |  |
+| [OPortoGG](https://oportogg.com) | shopify | 0 | 0 |  |
 | [Packpoint](https://packpoint.pt) | shopify | 0 | 0 |  |
 | [PandaCollecting](https://pandacollecting.com) | html:/?s={q}&post_type=product | 14 | 3 |  |
 | [Papelinho](https://papelinho.pt) | presta | 1 | 1 |  |
@@ -53,7 +53,7 @@
 | [Rota151](https://rota151.pt) | woo | 0 | 0 |  |
 | [SenhorGato](https://lojasenhorgato.pt) | shopify | 0 | 0 |  |
 | [Shop4Nerds](https://shop4nerds.pt) | error | 0 | 0 |  |
-| [Stickerpoint](https://stickerpoint.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
+| [Stickerpoint](https://stickerpoint.pt) | html:/?s={q}&post_type=product | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [TCGFamily](https://tcg-family.com) | shopify | 0 | 0 |  |
 | [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 10 | 0 |  |
 | [TemplarsArena](https://templarsarena.com) | shopify | 0 | 0 |  |
@@ -86,13 +86,13 @@
 - **Biridama** — [30th Celebration Poster Collection](https://biridama.pt/products/celebration-poster-collection) — 36.90€
 - **Biridama** — [30th Celebration Sylveon ex Tin](https://biridama.pt/products/celebration-sylveon-ex-tin) — 50.00€
 - **Biridama** — [30th Celebration: Mew Figure Collection](https://biridama.pt/products/30th-celebration-mew-figure-collection) — 80.00€
+- **Brokards** — [Pokémon 30th Celebration 2 Pack Blister](https://brokards.com/products/pokemon-30th-celebration-2-pack-blister) — 18.00€
 - **Brokards** — [Pokémon 30th Celebration Booster Bundle](https://brokards.com/products/pokemon-30th-celebration-booster-bundle) — 55.00€
 - **Brokards** — [Pokémon 30th Celebration Ex Box Greninja](https://brokards.com/products/pokemon-30th-celebration-ex-box-greninja) — 40.00€
 - **Brokards** — [Pokémon 30th Celebration Ex Box Sylveon](https://brokards.com/products/pokemon-30th-celebration-ex-box-sylveon) — 40.00€
 - **Brokards** — [Pokémon 30th Celebration Figure Collection Mew](https://brokards.com/products/pokemon-30th-celebration-figure-collection-mew) — 60.00€
 - **Brokards** — [Pokémon 30th Celebration Figure Collection Mewtwo](https://brokards.com/products/pokemon-30th-celebration-figure-collection-mewtwo) — 60.00€
 - **Brokards** — [Pokémon 30th Celebration Mini Tin Day](https://brokards.com/products/pokemon-30th-celebration-mini-tin) — 20.00€
-- **Brokards** — [Pokémon 30th Celebration Mini Tin Night](https://brokards.com/products/pokemon-30th-celebration-mini-tin-night) — 20.00€
 - **Brokards** — [Pokémon 30th Celebration Poster Collection](https://brokards.com/products/pokemon-30th-celebration-poster-collection) — 32.00€
 - **Charbinder** — [Pokémon TCG 30th Anniversary First Partner Card Set Vol. 1 (CN)](https://charbinder.com/products/pokemon-tcg-30th-anniversary-first-partner-card-set-vol-1-cn) — 17.90€
 - **Diver** — [PKM 30th Celebration: Battle Deck EN](https://diver.pt/pt/pkm-special-editions/106281-pkm-30th-celebration-battle-deck-en.html) — 47,99 €€
@@ -135,9 +135,6 @@
 - **MercadiaGames** — [Pokémon TCG: 30th Celebration – Booster Bundle](https://mercadiagames.pt/produto/pokemon-tcg-30th-celebration-booster-bundle/) — 69.90€
 - **MercadiaGames** — [Pokémon TCG: 30th Celebration – Greninja ex Box](https://mercadiagames.pt/produto/pokemon-tcg-30th-celebration-greninja-ex-box/) — 59.90€
 - **MercadiaGames** — [Pokémon TCG: 30th Celebration – Sylveon ex Box](https://mercadiagames.pt/produto/pokemon-tcg-30th-celebration-sylveon-ex-box/) — 59.00€
-- **OPortoGG** — [Pokémon TCG: 30th Celebration – Battle Deck (EN)](https://oportogg.com/products/pokemon-tcg-30th-celebration-battle-deck-en) — 40.90€
-- **OPortoGG** — [Pokémon TCG: 30th Celebration – Mew Figure Collection (EN)](https://oportogg.com/products/pokemon-tcg-30th-celebration-mew-figure-collection-en) — 74.90€
-- **OPortoGG** — [Pokémon TCG: 30th Celebration – Mewtwo Figure Collection (EN)](https://oportogg.com/products/pokemon-tcg-30th-celebration-mewtwo-figure-collection-en) — 74.90€
 - **OhliCards** — [Pokémon 30th Celebration – Ditto Premium Collection (Inglês)](https://www.ohlicards.pt/produto/pokemon-30th-celebration-ditto-premium-collection-ingles/) — 94.99€
 - **OhliCards** — [Pokémon 30th Celebration – Mew Figure Collection (Inglês)](https://www.ohlicards.pt/produto/pokemon-30th-celebration-mew-figure-collection-ingles/) — 69.99€
 - **OhliCards** — [Pokémon 30th Celebration – Mewtwo Figure Collection (Inglês)](https://www.ohlicards.pt/produto/pokemon-30th-celebration-mewtwo-figure-collection-ingles/) — 69.99€
