@@ -56,14 +56,6 @@
    "title": "Pokemon 30th Celebration Figure Collection - Mewtwo, English Edition",
    "url": "https://ajogar.com/products/pkm-30-figuremewtwo"
   },
-  "https://ajogar.com/products/pkm-30-mini5": {
-   "available": true,
-   "domain": "ajogar.com",
-   "price": "23.99",
-   "store": "AJogar",
-   "title": "Pokemon 30th Celebration Mini Tin - Day Pikachu & Vivillon, English Edition",
-   "url": "https://ajogar.com/products/pkm-30-mini5"
-  },
   "https://ajogar.com/products/pkm-30-ultraday": {
    "available": false,
    "domain": "ajogar.com",
@@ -312,14 +304,6 @@
    "title": "30th Celebration Booster Bundle",
    "url": "https://biridama.pt/products/30-celebration-booster-bundle"
   },
-  "https://biridama.pt/products/30-celebration-night-mini-tin": {
-   "available": true,
-   "domain": "biridama.pt",
-   "price": "26.90",
-   "store": "Biridama",
-   "title": "30th Celebration: Night Mini Tin",
-   "url": "https://biridama.pt/products/30-celebration-night-mini-tin"
-  },
   "https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1": {
    "available": true,
    "domain": "biridama.pt",
@@ -359,14 +343,6 @@
    "store": "Biridama",
    "title": "30th Celebration Booster",
    "url": "https://biridama.pt/products/30th-celebration-booster-s-chinese"
-  },
-  "https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese": {
-   "available": true,
-   "domain": "biridama.pt",
-   "price": "39.50",
-   "store": "Biridama",
-   "title": "30th Celebration Card Showcase Set",
-   "url": "https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese"
   },
   "https://biridama.pt/products/30th-celebration-mew-figure-collection": {
    "available": true,
@@ -408,13 +384,21 @@
    "title": "30th Celebration Elite Trainer Box",
    "url": "https://biridama.pt/products/etb-30th-celebration"
   },
-  "https://brokards.com/products/pokemon-30th-celebration-2-pack-blister": {
-   "available": true,
-   "domain": "brokards.com",
-   "price": "18.00",
-   "store": "Brokards",
-   "title": "Pokémon 30th Celebration 2 Pack Blister",
-   "url": "https://brokards.com/products/pokemon-30th-celebration-2-pack-blister"
+  "https://biridama.pt/products/greninja-ex-box-30th-celebration": {
+   "available": false,
+   "domain": "biridama.pt",
+   "price": "45.00",
+   "store": "Biridama",
+   "title": "30th Celebration: Greninja ex Box",
+   "url": "https://biridama.pt/products/greninja-ex-box-30th-celebration"
+  },
+  "https://biridama.pt/products/sylveon-ex-box-30th-celebration": {
+   "available": false,
+   "domain": "biridama.pt",
+   "price": "45.00",
+   "store": "Biridama",
+   "title": "30th Celebration: Sylveon ex Box",
+   "url": "https://biridama.pt/products/sylveon-ex-box-30th-celebration"
   },
   "https://brokards.com/products/pokemon-30th-celebration-booster-bundle": {
    "available": true,
@@ -496,6 +480,14 @@
    "title": "Pokémon 30th Celebration Poster Collection",
    "url": "https://brokards.com/products/pokemon-30th-celebration-poster-collection"
   },
+  "https://brokards.com/products/pokemon-30th-celebration-tech-sticker-collection-exeggutor": {
+   "available": false,
+   "domain": "brokards.com",
+   "price": "26.00",
+   "store": "Brokards",
+   "title": "Pokémon 30th Celebration Tech Sticker Collection Exeggutor",
+   "url": "https://brokards.com/products/pokemon-30th-celebration-tech-sticker-collection-exeggutor"
+  },
   "https://brokards.com/products/pokemon-30th-celebration-tech-sticker-collection-lucario": {
    "available": false,
    "domain": "brokards.com",
@@ -551,6 +543,30 @@
    "store": "Diver",
    "title": "PKM 30th Celebration: Ultra-Premium Collection - DAY EN",
    "url": "https://diver.pt/pt/pkm-special-editions/106266-pkm-30th-celebration-ultra-premium-collection-day-en.html"
+  },
+  "https://diver.pt/pt/pkm-special-editions/106277-pkm-30th-celebration-ditto-premium-collection-en.html": {
+   "available": true,
+   "domain": "diver.pt",
+   "price": "109,99 €",
+   "store": "Diver",
+   "title": "PKM 30th Celebration: Ditto Premium Collection EN",
+   "url": "https://diver.pt/pt/pkm-special-editions/106277-pkm-30th-celebration-ditto-premium-collection-en.html"
+  },
+  "https://diver.pt/pt/pkm-special-editions/106278-pkm-30th-celebration-mewtwo-figure-collection-en.html": {
+   "available": true,
+   "domain": "diver.pt",
+   "price": "79,99 €",
+   "store": "Diver",
+   "title": "PKM 30th Celebration: Mewtwo Figure Collection EN",
+   "url": "https://diver.pt/pt/pkm-special-editions/106278-pkm-30th-celebration-mewtwo-figure-collection-en.html"
+  },
+  "https://diver.pt/pt/pkm-special-editions/106279-pkm-30th-celebration-mew-figure-collection-en.html": {
+   "available": true,
+   "domain": "diver.pt",
+   "price": "79,99 €",
+   "store": "Diver",
+   "title": "PKM 30th Celebration: Mew Figure Collection EN",
+   "url": "https://diver.pt/pt/pkm-special-editions/106279-pkm-30th-celebration-mew-figure-collection-en.html"
   },
   "https://diver.pt/pt/pkm-special-editions/106281-pkm-30th-celebration-battle-deck-en.html": {
    "available": true,
@@ -837,7 +853,7 @@
    "domain": "lootlab.pt",
    "price": null,
    "store": "LootLab",
-   "title": "NOVO Pokémon 30th Celebration Battle Deck (aleatório)",
+   "title": "Pokémon 30th Celebration Battle Deck (aleatório)",
    "url": "https://lootlab.pt/p/pokemon-30th-celebration-battle-deck-aleatorio"
   },
   "https://lootlab.pt/p/pokemon-30th-celebration-booster-bundle": {
@@ -853,7 +869,7 @@
    "domain": "lootlab.pt",
    "price": null,
    "store": "LootLab",
-   "title": "NOVO Pokémon 30th Celebration: Ditto Premium Collection",
+   "title": "Pokémon 30th Celebration: Ditto Premium Collection",
    "url": "https://lootlab.pt/p/pokemon-30th-celebration-ditto-premium-collection"
   },
   "https://lootlab.pt/p/pokemon-30th-celebration-elite-trainer-box": {
@@ -869,7 +885,7 @@
    "domain": "lootlab.pt",
    "price": null,
    "store": "LootLab",
-   "title": "NOVO Pokémon 30th Celebration: Mew Figure Collection",
+   "title": "Pokémon 30th Celebration: Mew Figure Collection",
    "url": "https://lootlab.pt/p/pokemon-30th-celebration-mew-figure-collection"
   },
   "https://lootlab.pt/p/pokemon-30th-celebration-mewtwo-figure-collection": {
@@ -877,7 +893,7 @@
    "domain": "lootlab.pt",
    "price": null,
    "store": "LootLab",
-   "title": "NOVO Pokémon 30th Celebration: Mewtwo Figure Collection",
+   "title": "Pokémon 30th Celebration: Mewtwo Figure Collection",
    "url": "https://lootlab.pt/p/pokemon-30th-celebration-mewtwo-figure-collection"
   },
   "https://lootlab.pt/p/pokemon-30th-celebration-mini-tin-aleatorio": {
@@ -885,7 +901,7 @@
    "domain": "lootlab.pt",
    "price": null,
    "store": "LootLab",
-   "title": "NOVO Pokémon 30th Celebration Mini Tin (Aleatório)",
+   "title": "Pokémon 30th Celebration Mini Tin (Aleatório)",
    "url": "https://lootlab.pt/p/pokemon-30th-celebration-mini-tin-aleatorio"
   },
   "https://lootlab.pt/p/pokemon-30th-celebration-poster-collection": {
@@ -1135,6 +1151,30 @@
    "store": "MercadiaGames",
    "title": "Pokémon TCG: 30th Celebration – Sylveon ex Box",
    "url": "https://mercadiagames.pt/produto/pokemon-tcg-30th-celebration-sylveon-ex-box/"
+  },
+  "https://oportogg.com/products/pokemon-tcg-30th-celebration-battle-deck-en": {
+   "available": true,
+   "domain": "oportogg.com",
+   "price": "40.90",
+   "store": "OPortoGG",
+   "title": "Pokémon TCG: 30th Celebration – Battle Deck (EN)",
+   "url": "https://oportogg.com/products/pokemon-tcg-30th-celebration-battle-deck-en"
+  },
+  "https://oportogg.com/products/pokemon-tcg-30th-celebration-mew-figure-collection-en": {
+   "available": true,
+   "domain": "oportogg.com",
+   "price": "74.90",
+   "store": "OPortoGG",
+   "title": "Pokémon TCG: 30th Celebration – Mew Figure Collection (EN)",
+   "url": "https://oportogg.com/products/pokemon-tcg-30th-celebration-mew-figure-collection-en"
+  },
+  "https://oportogg.com/products/pokemon-tcg-30th-celebration-mewtwo-figure-collection-en": {
+   "available": true,
+   "domain": "oportogg.com",
+   "price": "74.90",
+   "store": "OPortoGG",
+   "title": "Pokémon TCG: 30th Celebration – Mewtwo Figure Collection (EN)",
+   "url": "https://oportogg.com/products/pokemon-tcg-30th-celebration-mewtwo-figure-collection-en"
   },
   "https://pandacollecting.com/product/30th-anniversary-celebration-simplified-chinese-original-partner-card-set-vol-1/": {
    "available": null,
@@ -1477,7 +1517,7 @@
    "domain": "pokeboxstore.pt",
    "price": null,
    "store": "PokeboxStore",
-   "title": "Conjunto de Cartas – 30th Celebration Card Set (Japonês)",
+   "title": "30th Celebration Card Set – (Conjunto 27 Cartas) (Japonês)",
    "url": "https://pokeboxstore.pt/produto/conjunto-de-cartas-30th-celebration-card-set-japones/"
   },
   "https://pokeboxstore.pt/produto/deck-box-night-edition-30th-anniversary-celebrations-umbreon/": {
@@ -1937,7 +1977,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-mini-tin-aleatorio/"
   }
  },
- "last_run": "2026-11-17 17:47 UTC",
+ "last_run": "2026-11-18 00:02 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
