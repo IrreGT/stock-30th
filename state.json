@@ -56,6 +56,14 @@
    "title": "Pokemon 30th Celebration Figure Collection - Mewtwo, English Edition",
    "url": "https://ajogar.com/products/pkm-30-figuremewtwo"
   },
+  "https://ajogar.com/products/pkm-30-poster": {
+   "available": false,
+   "domain": "ajogar.com",
+   "price": "44.99",
+   "store": "AJogar",
+   "title": "Pokemon 30th Celebration Poster Collection, English Edition",
+   "url": "https://ajogar.com/products/pkm-30-poster"
+  },
   "https://ajogar.com/products/pkm-30-ultraday": {
    "available": false,
    "domain": "ajogar.com",
@@ -2003,7 +2011,7 @@
   "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver": {
    "available": false,
    "domain": "tcg-family.com",
-   "price": "113.00",
+   "price": "112.00",
    "store": "TCGFamily",
    "title": "Pokémon TCG 30th Anniversary Celebration Booster Box Chinese Ver",
    "url": "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver"
@@ -2191,14 +2199,6 @@
    "store": "TemplarsArena",
    "title": "Pokémon: 30th Celebration Mew Figure collection",
    "url": "https://templarsarena.com/products/pokemon-30th-celebration-mew-figure-collection"
-  },
-  "https://templarsarena.com/products/pokemon-30th-ditto-premium-collection-english": {
-   "available": true,
-   "domain": "templarsarena.com",
-   "price": "99.90",
-   "store": "TemplarsArena",
-   "title": "Pokémon: 30th Celebration Ditto Premium Collection (English)",
-   "url": "https://templarsarena.com/products/pokemon-30th-ditto-premium-collection-english"
   },
   "https://templarsarena.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon": {
    "available": true,
@@ -2657,7 +2657,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-mini-tin-aleatorio/"
   }
  },
- "last_run": "2026-11-19 13:10 UTC",
+ "last_run": "2026-11-19 21:32 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
@@ -2691,7 +2691,7 @@
   "lotusvalley.pt": "woo",
   "manatcg.com": "shopify",
   "manavault.pt": "shopify",
-  "masterpacks.pt": "error",
+  "masterpacks.pt": "html:/search?q={q}",
   "mercadiagames.pt": "woo",
   "miniversos.pt": "shopify",
   "mypopmania.pt": "html:/pesquisa?controller=search&s={q}",
