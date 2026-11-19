@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-11-19 04:10 UTC
+# Estado do monitor — 2026-11-19 13:10 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -6,8 +6,8 @@
 | [AJogar](https://ajogar.com) | shopify | 10 | 1 |  |
 | [AnixWays](https://anixways.com) | woo | 27 | 6 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 0 | 0 |  |
-| [Biridama](https://biridama.pt) | shopify | 14 | 12 |  |
-| [Brokards](https://brokards.com) | shopify | 15 | 9 |  |
+| [Biridama](https://biridama.pt) | shopify | 13 | 11 |  |
+| [Brokards](https://brokards.com) | shopify | 12 | 8 |  |
 | [Byulverse](https://byulverse.eu) | html:/search?q={q} | 0 | 0 |  |
 | [CardFever](https://cardfever.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [CentroXogo](https://centroxogo.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
@@ -33,7 +33,7 @@
 | [LotusValley](https://lotusvalley.pt) | woo | 11 | 11 |  |
 | [ManaTCG](https://manatcg.com) | shopify | 9 | 4 |  |
 | [ManaVault](https://manavault.pt) | shopify | 0 | 0 |  |
-| [MasterPacks](https://masterpacks.pt) | html:/search?q={q} | 0 | 0 |  |
+| [MasterPacks](https://masterpacks.pt) | error | 0 | 0 |  |
 | [MercadiaGames](https://mercadiagames.pt) | woo | 10 | 10 |  |
 | [Miniversos](https://miniversos.pt) | shopify | 0 | 0 |  |
 | [MyPopMania](https://mypopmania.pt) | html:/pesquisa?controller=search&s={q} | 0 | 0 |  |
@@ -56,9 +56,9 @@
 | [Stickerpoint](https://stickerpoint.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [TCGFamily](https://tcg-family.com) | shopify | 4 | 3 |  |
 | [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 10 | 0 |  |
-| [TemplarsArena](https://templarsarena.com) | shopify | 14 | 11 |  |
+| [TemplarsArena](https://templarsarena.com) | shopify | 15 | 12 |  |
 | [The Kanto Market](https://thekantomarket.com) | shopify | 0 | 0 |  |
-| [Totobayshop](https://totobayshop.com) | shopify | 13 | 4 |  |
+| [Totobayshop](https://totobayshop.com) | shopify | 12 | 4 |  |
 | [ToysRUsPT](https://toysrus.pt) | error | 0 | 0 |  |
 | [TriplaceGames](https://triplacegames.com) | html:/search?q={q} | 14 | 0 |  |
 | [UntradableStore](https://untradablestore.com) | shopify | 10 | 0 |  |
@@ -86,7 +86,6 @@
 - **Biridama** — [30th Celebration Sylveon ex Tin](https://biridama.pt/products/celebration-sylveon-ex-tin) — 50.00€
 - **Biridama** — [30th Celebration: Day Mini Tin](https://biridama.pt/products/30-celebration-day-mini-tin) — 26.90€
 - **Biridama** — [30th Celebration: Greninja ex Box](https://biridama.pt/products/greninja-ex-box-30th-celebration) — 45.00€
-- **Biridama** — [30th Celebration: Mew Figure Collection](https://biridama.pt/products/30th-celebration-mew-figure-collection) — 80.00€
 - **Biridama** — [30th Celebration: Sylveon ex Box](https://biridama.pt/products/sylveon-ex-box-30th-celebration) — 45.00€
 - **Brokards** — [Pokémon 30th Celebration 2 Pack Blister](https://brokards.com/products/pokemon-30th-celebration-2-pack-blister) — 18.00€
 - **Brokards** — [Pokémon 30th Celebration Booster Bundle](https://brokards.com/products/pokemon-30th-celebration-booster-bundle) — 55.00€
@@ -95,7 +94,6 @@
 - **Brokards** — [Pokémon 30th Celebration Figure Collection Mew](https://brokards.com/products/pokemon-30th-celebration-figure-collection-mew) — 60.00€
 - **Brokards** — [Pokémon 30th Celebration Figure Collection Mewtwo](https://brokards.com/products/pokemon-30th-celebration-figure-collection-mewtwo) — 60.00€
 - **Brokards** — [Pokémon 30th Celebration Mini Tin Day](https://brokards.com/products/pokemon-30th-celebration-mini-tin) — 20.00€
-- **Brokards** — [Pokémon 30th Celebration Mini Tin Night](https://brokards.com/products/pokemon-30th-celebration-mini-tin-night) — 20.00€
 - **Brokards** — [Pokémon 30th Celebration Poster Collection](https://brokards.com/products/pokemon-30th-celebration-poster-collection) — 32.00€
 - **Charbinder** — [Pokémon TCG 30th Anniversary First Partner Card Set Vol. 1 (CN)](https://charbinder.com/products/pokemon-tcg-30th-anniversary-first-partner-card-set-vol-1-cn) — 17.90€
 - **Diver** — [PKM 30th Celebration: Battle Deck EN](https://diver.pt/pt/pkm-special-editions/106281-pkm-30th-celebration-battle-deck-en.html) — 47,99 €€
@@ -181,6 +179,7 @@
 - **TemplarsArena** — [30th Celebration Poster Collection](https://templarsarena.com/products/30th-celebration-poster-collection) — 40.00€
 - **TemplarsArena** — [30th Celebration: Greninja ex Box](https://templarsarena.com/products/30th-celebration-greninja-ex-box) — 45.00€
 - **TemplarsArena** — [30th Celebration: Sylveon ex Box](https://templarsarena.com/products/30th-celebration-sylveon-ex-box) — 45.00€
+- **TemplarsArena** — [Pokémon TCG – First Partner 30th Anniversary – Vol. 2 – Simplified Chinese](https://templarsarena.com/products/pokemon-tcg-first-partner-30th-anniversary-display-vol-2-simplified-chinese) — 16.00€
 - **TemplarsArena** — [Pokémon TCG: 30th Celebration Ultra-Premium Collection—Day (Espeon)](https://templarsarena.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon) — 544.00€
 - **TemplarsArena** — [Pokémon TCG: 30th Celebration Ultra-Premium Collection—Night (Umbreon)](https://templarsarena.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon) — 544.00€
 - **TemplarsArena** — [Pokémon: 30th Celebration Ditto Premium Collection (English)](https://templarsarena.com/products/pokemon-30th-ditto-premium-collection-english) — 99.90€

@@ -352,14 +352,6 @@
    "title": "30th Celebration Booster",
    "url": "https://biridama.pt/products/30th-celebration-booster-s-chinese"
   },
-  "https://biridama.pt/products/30th-celebration-mew-figure-collection": {
-   "available": true,
-   "domain": "biridama.pt",
-   "price": "80.00",
-   "store": "Biridama",
-   "title": "30th Celebration: Mew Figure Collection",
-   "url": "https://biridama.pt/products/30th-celebration-mew-figure-collection"
-  },
   "https://biridama.pt/products/celebration-greninja-ex-tin": {
    "available": false,
    "domain": "biridama.pt",
@@ -480,14 +472,6 @@
    "title": "Pokémon 30th Celebration Mini Tin Day",
    "url": "https://brokards.com/products/pokemon-30th-celebration-mini-tin"
   },
-  "https://brokards.com/products/pokemon-30th-celebration-mini-tin-night": {
-   "available": true,
-   "domain": "brokards.com",
-   "price": "20.00",
-   "store": "Brokards",
-   "title": "Pokémon 30th Celebration Mini Tin Night",
-   "url": "https://brokards.com/products/pokemon-30th-celebration-mini-tin-night"
-  },
   "https://brokards.com/products/pokemon-30th-celebration-poster-collection": {
    "available": true,
    "domain": "brokards.com",
@@ -496,14 +480,6 @@
    "title": "Pokémon 30th Celebration Poster Collection",
    "url": "https://brokards.com/products/pokemon-30th-celebration-poster-collection"
   },
-  "https://brokards.com/products/pokemon-30th-celebration-tech-sticker-collection-exeggutor": {
-   "available": false,
-   "domain": "brokards.com",
-   "price": "26.00",
-   "store": "Brokards",
-   "title": "Pokémon 30th Celebration Tech Sticker Collection Exeggutor",
-   "url": "https://brokards.com/products/pokemon-30th-celebration-tech-sticker-collection-exeggutor"
-  },
   "https://brokards.com/products/pokemon-30th-celebration-tech-sticker-collection-lucario": {
    "available": false,
    "domain": "brokards.com",
@@ -511,14 +487,6 @@
    "store": "Brokards",
    "title": "Pokémon 30th Celebration Tech Sticker Collection Lucario",
    "url": "https://brokards.com/products/pokemon-30th-celebration-tech-sticker-collection-lucario"
-  },
-  "https://brokards.com/products/pokemon-30th-celebration-tin": {
-   "available": false,
-   "domain": "brokards.com",
-   "price": "40.00",
-   "store": "Brokards",
-   "title": "Pokémon 30th Celebration Sylveon Ex Tin",
-   "url": "https://brokards.com/products/pokemon-30th-celebration-tin"
   },
   "https://brokards.com/products/pokemon-30th-celebration-ultra-premium-collection-envio-aleatorio": {
    "available": false,
@@ -1512,14 +1480,6 @@
    "title": "1x Mini Tin – 30th Anniversary Celebration (2packs)",
    "url": "https://pokeboxstore.pt/produto/1x-mini-tin-30th-anniversary-celebration-2packs/"
   },
-  "https://pokeboxstore.pt/produto/30th-anniversary-celebration-original-partner-card-set-vol-2/": {
-   "available": null,
-   "domain": "pokeboxstore.pt",
-   "price": null,
-   "store": "PokeboxStore",
-   "title": "30TH Anniversary Celebration Original Partner Card Set Vol.2",
-   "url": "https://pokeboxstore.pt/produto/30th-anniversary-celebration-original-partner-card-set-vol-2/"
-  },
   "https://pokeboxstore.pt/produto/30th-celebration-first-partners-card-set-alola-japanese/": {
    "available": null,
    "domain": "pokeboxstore.pt",
@@ -1591,6 +1551,14 @@
    "store": "PokeboxStore",
    "title": "30th Celebration First Partners Card Set – Unova (Japanese)",
    "url": "https://pokeboxstore.pt/produto/30th-celebration-first-partners-card-set-unova-japanese/"
+  },
+  "https://pokeboxstore.pt/produto/30th-celebration-umbreon-moeda-3-cm/": {
+   "available": null,
+   "domain": "pokeboxstore.pt",
+   "price": null,
+   "store": "PokeboxStore",
+   "title": "30th Celebration: “Umbreon” Moeda – 3 cm",
+   "url": "https://pokeboxstore.pt/produto/30th-celebration-umbreon-moeda-3-cm/"
   },
   "https://pokeboxstore.pt/produto/booster-box-30th-anniversary-celebration-chines/": {
    "available": null,
@@ -2035,7 +2003,7 @@
   "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver": {
    "available": false,
    "domain": "tcg-family.com",
-   "price": "112.00",
+   "price": "113.00",
    "store": "TCGFamily",
    "title": "Pokémon TCG 30th Anniversary Celebration Booster Box Chinese Ver",
    "url": "https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-booster-box-chinese-ver"
@@ -2248,6 +2216,14 @@
    "title": "Pokémon TCG: 30th Celebration Ultra-Premium Collection—Night (Umbreon)",
    "url": "https://templarsarena.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon"
   },
+  "https://templarsarena.com/products/pokemon-tcg-first-partner-30th-anniversary-display-vol-2-simplified-chinese": {
+   "available": true,
+   "domain": "templarsarena.com",
+   "price": "16.00",
+   "store": "TemplarsArena",
+   "title": "Pokémon TCG – First Partner 30th Anniversary – Vol. 2 – Simplified Chinese",
+   "url": "https://templarsarena.com/products/pokemon-tcg-first-partner-30th-anniversary-display-vol-2-simplified-chinese"
+  },
   "https://totobayshop.com/products/30th-celebration-ditto-premium-collection": {
    "available": true,
    "domain": "totobayshop.com",
@@ -2319,14 +2295,6 @@
    "store": "Totobayshop",
    "title": "30th Celebration - Tech Sticker Exeggutor",
    "url": "https://totobayshop.com/products/30th-celebration-tech-sticker-eggxecutor"
-  },
-  "https://totobayshop.com/products/30th-celebration-tin-sylveon": {
-   "available": false,
-   "domain": "totobayshop.com",
-   "price": "46.00",
-   "store": "Totobayshop",
-   "title": "30th Celebration ex Tin - Sylveon",
-   "url": "https://totobayshop.com/products/30th-celebration-tin-sylveon"
   },
   "https://totobayshop.com/products/ascended-heroes-booster-bundle": {
    "available": false,
@@ -2689,7 +2657,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-mini-tin-aleatorio/"
   }
  },
- "last_run": "2026-11-19 04:10 UTC",
+ "last_run": "2026-11-19 13:10 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
@@ -2723,7 +2691,7 @@
   "lotusvalley.pt": "woo",
   "manatcg.com": "shopify",
   "manavault.pt": "shopify",
-  "masterpacks.pt": "html:/search?q={q}",
+  "masterpacks.pt": "error",
   "mercadiagames.pt": "woo",
   "miniversos.pt": "shopify",
   "mypopmania.pt": "html:/pesquisa?controller=search&s={q}",
