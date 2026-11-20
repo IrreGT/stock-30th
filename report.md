@@ -1,12 +1,12 @@
-# Estado do monitor — 2026-11-20 10:27 UTC
+# Estado do monitor — 2026-11-20 18:45 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
-| [AJogar](https://ajogar.com) | shopify | 12 | 1 |  |
+| [AJogar](https://ajogar.com) | shopify | 13 | 5 |  |
 | [AnixWays](https://anixways.com) | woo | 27 | 6 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 0 | 0 |  |
-| [Biridama](https://biridama.pt) | shopify | 13 | 11 |  |
+| [Biridama](https://biridama.pt) | shopify | 14 | 12 |  |
 | [Brokards](https://brokards.com) | shopify | 12 | 8 |  |
 | [Byulverse](https://byulverse.eu) | html:/search?q={q} | 0 | 0 |  |
 | [CardFever](https://cardfever.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
@@ -15,13 +15,13 @@
 | [Colecionar](https://colecionar.pt) | error | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
 | [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [Continente](https://continente.pt) | html:/search?q={q} | 0 | 0 |  |
-| [Diver](https://diver.pt) | presta | 6 | 5 |  |
+| [Diver](https://diver.pt) | presta | 6 | 4 |  |
 | [DrawPhase](https://drawphase.pt) | shopify | 0 | 0 |  |
 | [Drawstep](https://drawstep.com) | shopify | 7 | 1 |  |
 | [El Corte Inglés](https://elcorteingles.pt) | error | 0 | 0 |  |
-| [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 |  |
+| [Games Island](https://games-island.eu) | error | 0 | 0 |  |
 | [Gatorcards](https://gatorcards.pt) | shopify | 11 | 4 |  |
-| [Geekhaven](https://geekhaven.pt) | shopify | 12 | 0 |  |
+| [Geekhaven](https://geekhaven.pt) | shopify | 13 | 8 |  |
 | [GgLounge](https://gglounge.pt) | woo | 2 | 0 |  |
 | [GM Cards & Toys](https://gmcardsandtoys.com) | shopify | 0 | 0 |  |
 | [God of Cards](https://godofcards.com) | shopify | 2 | 2 |  |
@@ -44,10 +44,10 @@
 | [PandaCollecting](https://pandacollecting.com) | html:/?s={q}&post_type=product | 14 | 3 |  |
 | [Papelinho](https://papelinho.pt) | presta | 1 | 1 |  |
 | [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 9 | 0 |  |
-| [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 38 | 0 |  |
+| [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 41 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 9 | 1 |  |
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
-| [Psydeck](https://psydeck.com) | shopify | 13 | 7 |  |
+| [Psydeck](https://psydeck.com) | shopify | 13 | 8 |  |
 | [PTMerch](https://ptmerch.com) | presta | 5 | 4 |  |
 | [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 |  |
 | [Rota151](https://rota151.pt) | woo | 0 | 0 |  |
@@ -70,23 +70,28 @@
 ## Produtos com stock agora
 
 - **AJogar** — [Pokemon 30th Anniversary Booster Pack of 6 Cards, Japanese](https://ajogar.com/products/pokemon-30th-anniversary-booster-pack-of-6-cards-japanese) — 10.00€
+- **AJogar** — [Pokemon 30th Celebration Ex Box - Greninja, English Edition](https://ajogar.com/products/pkm-30-exboxgreninja) — 32.99€
+- **AJogar** — [Pokemon 30th Celebration Ex Box - Sylveon, English Edition](https://ajogar.com/products/pkm-30-exboxsylveon) — 32.99€
+- **AJogar** — [Pokemon 30th Celebration Ex Tin - Sylveon, English Edition](https://ajogar.com/products/pkm-30-extinsylveon) — 36.99€
+- **AJogar** — [Pokemon 30th Celebration Mini Tin - Day Pikachu & Vivillon, English Edition](https://ajogar.com/products/pkm-30-mini5) — 19.99€
 - **AnixWays** — [30th Celebration Greninja EX Tin](https://anixways.com/product/30th-celebration-greninja-ex-tin/) — 47.90€
 - **AnixWays** — [30th Celebration Poster Collection](https://anixways.com/product/30th-celebration-poster-collection/) — 44.90€
 - **AnixWays** — [30th Celebration: Espeon EX Battle Deck](https://anixways.com/product/30th-celebration-espeon-ex-battle-deck/) — 40.00€
 - **AnixWays** — [30th Celebration: Mew Figure Collection](https://anixways.com/product/30th-celebration-mew-figure-collection/) — 90.00€
 - **AnixWays** — [30th Celebration: Mewtwo Figure Collection](https://anixways.com/product/30th-celebration-mewtwo-figure-collection/) — 90.00€
 - **AnixWays** — [Pokémon Battle Figure Action Figure Multipack 30th Anniversary](https://anixways.com/product/pokemon-battle-figure-action-figure-multipack-30th-anniversary/) — 45.90€
-- **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.1](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1) — 15.50€
-- **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.3](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-3) — 16.00€
-- **Biridama** — [30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.2](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-2) — 14.00€
+- **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.1](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1) — 14.49€
+- **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.3](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-3) — 14.99€
+- **Biridama** — [30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.2](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-2) — 12.99€
 - **Biridama** — [30th Celebration Booster](https://biridama.pt/products/30th-celebration-booster-s-chinese) — 5.50€
-- **Biridama** — [30th Celebration Booster Box S-Chinese](https://biridama.pt/products/30th-celebration-booster-box-s-chinese) — 111.00€
-- **Biridama** — [30th Celebration Booster Bundle](https://biridama.pt/products/30-celebration-booster-bundle) — 69.90€
-- **Biridama** — [30th Celebration Poster Collection](https://biridama.pt/products/celebration-poster-collection) — 36.90€
-- **Biridama** — [30th Celebration Sylveon ex Tin](https://biridama.pt/products/celebration-sylveon-ex-tin) — 50.00€
-- **Biridama** — [30th Celebration: Day Mini Tin](https://biridama.pt/products/30-celebration-day-mini-tin) — 26.90€
-- **Biridama** — [30th Celebration: Greninja ex Box](https://biridama.pt/products/greninja-ex-box-30th-celebration) — 45.00€
-- **Biridama** — [30th Celebration: Sylveon ex Box](https://biridama.pt/products/sylveon-ex-box-30th-celebration) — 45.00€
+- **Biridama** — [30th Celebration Booster Box S-Chinese](https://biridama.pt/products/30th-celebration-booster-box-s-chinese) — 104.99€
+- **Biridama** — [30th Celebration Booster Bundle](https://biridama.pt/products/30-celebration-booster-bundle) — 62.49€
+- **Biridama** — [30th Celebration Card Showcase Set](https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese) — 37.49€
+- **Biridama** — [30th Celebration Luxury Set](https://biridama.pt/products/30th-celebration-umbreon-ex-luxury-set-s-chinese) — 39.49€
+- **Biridama** — [30th Celebration Poster Collection](https://biridama.pt/products/celebration-poster-collection) — 34.99€
+- **Biridama** — [30th Celebration: Day Mini Tin](https://biridama.pt/products/30-celebration-day-mini-tin) — 23.99€
+- **Biridama** — [30th Celebration: Greninja ex Box](https://biridama.pt/products/greninja-ex-box-30th-celebration) — 40.49€
+- **Biridama** — [30th Celebration: Sylveon ex Box](https://biridama.pt/products/sylveon-ex-box-30th-celebration) — 40.49€
 - **Brokards** — [Pokémon 30th Celebration 2 Pack Blister](https://brokards.com/products/pokemon-30th-celebration-2-pack-blister) — 18.00€
 - **Brokards** — [Pokémon 30th Celebration Booster Bundle](https://brokards.com/products/pokemon-30th-celebration-booster-bundle) — 55.00€
 - **Brokards** — [Pokémon 30th Celebration Ex Box Greninja](https://brokards.com/products/pokemon-30th-celebration-ex-box-greninja) — 40.00€
@@ -100,12 +105,19 @@
 - **Diver** — [PKM 30th Celebration: Ditto Premium Collection EN](https://diver.pt/pt/pkm-special-editions/106277-pkm-30th-celebration-ditto-premium-collection-en.html) — 109,99 €€
 - **Diver** — [PKM 30th Celebration: Mew Figure Collection EN](https://diver.pt/pt/pkm-special-editions/106279-pkm-30th-celebration-mew-figure-collection-en.html) — 79,99 €€
 - **Diver** — [PKM 30th Celebration: Mewtwo Figure Collection EN](https://diver.pt/pt/pkm-special-editions/106278-pkm-30th-celebration-mewtwo-figure-collection-en.html) — 79,99 €€
-- **Diver** — [PKM 30th Celebration: Ultra-Premium Collection - DAY EN](https://diver.pt/pt/pkm-special-editions/106266-pkm-30th-celebration-ultra-premium-collection-day-en.html) — 379,95 €€
 - **Drawstep** — [PKM - 30th Celebration - Elite Trainer Box](https://drawstep.com/products/pkm-30th-celebration-elite-trainer-box) — 140.00€
 - **Gatorcards** — [30th Celebration Booster Bundle](https://gatorcards.pt/products/30th-celebration-booster-bundle) — 74.00€
 - **Gatorcards** — [30th Celebration Ditto Premium Collection](https://gatorcards.pt/products/30th-celebration-ditto-premium-collection) — 80.00€
 - **Gatorcards** — [30th Celebration Mew Figure Collection](https://gatorcards.pt/products/30th-celebration-mew-figure-collection) — 60.00€
 - **Gatorcards** — [30th Celebration Mewtwo Figure Collection](https://gatorcards.pt/products/30th-celebration-mewtwo-figure-collection) — 60.00€
+- **Geekhaven** — [Pokémon 30th Celebration 2 Pack Blister](https://geekhaven.pt/products/pokemon-30th-celebration-2-pack-blister) — 18.00€
+- **Geekhaven** — [Pokémon 30th Celebration Booster Bundle](https://geekhaven.pt/products/pokemon-30th-celebration-booster-bundle) — 55.00€
+- **Geekhaven** — [Pokémon 30th Celebration Ex Box Greninja](https://geekhaven.pt/products/pokemon-30th-celebration-ex-box-greninja) — 40.00€
+- **Geekhaven** — [Pokémon 30th Celebration Ex Box Sylveon](https://geekhaven.pt/products/pokemon-30th-celebration-ex-box-sylveon) — 40.00€
+- **Geekhaven** — [Pokémon 30th Celebration Figure Collection Mew](https://geekhaven.pt/products/pokemon-30th-celebration-figure-collection-mew) — 60.00€
+- **Geekhaven** — [Pokémon 30th Celebration Figure Collection Mewtwo](https://geekhaven.pt/products/pokemon-30th-celebration-figure-collection-mewtwo) — 60.00€
+- **Geekhaven** — [Pokémon 30th Celebration Poster Collection](https://geekhaven.pt/products/pokemon-30th-celebration-poster-collection) — 32.00€
+- **Geekhaven** — [Pokémon 30th Celebration Sylveon Ex Tin](https://geekhaven.pt/products/pokemon-30th-celebration-sylveon-ex-tin) — 40.00€
 - **God of Cards** — [Pokemon 30th Anniversary Celebration Partner Card Set Display Vol. 1 (8 Boxen) S-Chinesisch](https://godofcards.com/products/pokemon-30th-anniversary-celebration-partner-card-set-display-vol-1-8-boxen-s-chinesisch) — 114.95€
 - **God of Cards** — [Pokemon 30th Anniversary Celebration Partner Card Set Vol. 1 S-Chinesisch](https://godofcards.com/products/pokemon-30th-anniversary-celebration-partner-card-set-vol-1-s-chinesisch) — 13.95€
 - **IberianCard** — [Pokémon 30th Anniversary – First Partner Vol. 1 (Chinês Simplificado)](https://iberiancard.com/products/pokemon-30th-anniversary-first-partner-vol-1-chines-simplificado) — 14.90€
@@ -161,6 +173,7 @@
 - **Papelinho** — [Pokémon TCG 30th Celebration Figure Collection | Mew e Mewtwo 1 und.](https://papelinho.pt/jogos-brinquedos/jogos-de-cartas/pokemon-tcg-30th-celebration-figure-collection-mew-e-mewtwo-1-und#/74-pack_pokemon-mew) — 79,99 €€
 - **Pokelotas** — [30th Celebration Simplified Chinese Booster Box](https://pokelotas.com/products/30th-celebration-simplified-chinese-booster-box) — 96.99€
 - **Psydeck** — [30th Celebration 2-Pack Blister Eevee](https://psydeck.com/products/30th-celebration-2-pack-blister-eevee) — 28.00€
+- **Psydeck** — [30th Celebration Elite Trainer Box](https://psydeck.com/products/30th-celebration-elite-trainer-box) — 130.00€
 - **Psydeck** — [30th Celebration Poster Collection](https://psydeck.com/products/30th-celebration-poster-collection-2) — 35.00€
 - **Psydeck** — [30th Celebration Umbreon ex Battle Deck](https://psydeck.com/products/30th-celebration-umbreon-ex-battle-deck) — 48.00€
 - **Psydeck** — [30th Celebration ex Box Greninja ex](https://psydeck.com/products/30th-celebration-ex-box-greninja-ex) — 55.00€
