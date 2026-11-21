@@ -1,9 +1,9 @@
-# Estado do monitor — 2026-11-20 18:45 UTC
+# Estado do monitor — 2026-11-21 00:20 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
-| [AJogar](https://ajogar.com) | shopify | 13 | 5 |  |
+| [AJogar](https://ajogar.com) | shopify | 13 | 2 |  |
 | [AnixWays](https://anixways.com) | woo | 27 | 6 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 14 | 12 |  |
@@ -19,9 +19,9 @@
 | [DrawPhase](https://drawphase.pt) | shopify | 0 | 0 |  |
 | [Drawstep](https://drawstep.com) | shopify | 7 | 1 |  |
 | [El Corte Inglés](https://elcorteingles.pt) | error | 0 | 0 |  |
-| [Games Island](https://games-island.eu) | error | 0 | 0 |  |
+| [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 |  |
 | [Gatorcards](https://gatorcards.pt) | shopify | 11 | 4 |  |
-| [Geekhaven](https://geekhaven.pt) | shopify | 13 | 8 |  |
+| [Geekhaven](https://geekhaven.pt) | shopify | 13 | 7 |  |
 | [GgLounge](https://gglounge.pt) | woo | 2 | 0 |  |
 | [GM Cards & Toys](https://gmcardsandtoys.com) | shopify | 0 | 0 |  |
 | [God of Cards](https://godofcards.com) | shopify | 2 | 2 |  |
@@ -38,7 +38,7 @@
 | [Miniversos](https://miniversos.pt) | shopify | 0 | 0 |  |
 | [MyPopMania](https://mypopmania.pt) | html:/pesquisa?controller=search&s={q} | 0 | 0 |  |
 | [MysticMirage](https://mysticmirage.shop) | html:/search?q={q} | 3 | 0 |  |
-| [OhliCards](https://ohlicards.pt) | woo | 6 | 4 |  |
+| [OhliCards](https://ohlicards.pt) | woo | 0 | 0 | ConnectTimeout: HTTPSConnectionPool(host='ohlicards.pt', port=443): Max retries exceeded with url: /wp-json/wc/store/v1/products?search=30th+celebration&per_page=50 (Caused by ConnectTimeoutError(<HTT |
 | [OPortoGG](https://oportogg.com) | shopify | 3 | 3 |  |
 | [Packpoint](https://packpoint.pt) | shopify | 0 | 0 |  |
 | [PandaCollecting](https://pandacollecting.com) | html:/?s={q}&post_type=product | 14 | 3 |  |
@@ -70,10 +70,7 @@
 ## Produtos com stock agora
 
 - **AJogar** — [Pokemon 30th Anniversary Booster Pack of 6 Cards, Japanese](https://ajogar.com/products/pokemon-30th-anniversary-booster-pack-of-6-cards-japanese) — 10.00€
-- **AJogar** — [Pokemon 30th Celebration Ex Box - Greninja, English Edition](https://ajogar.com/products/pkm-30-exboxgreninja) — 32.99€
-- **AJogar** — [Pokemon 30th Celebration Ex Box - Sylveon, English Edition](https://ajogar.com/products/pkm-30-exboxsylveon) — 32.99€
-- **AJogar** — [Pokemon 30th Celebration Ex Tin - Sylveon, English Edition](https://ajogar.com/products/pkm-30-extinsylveon) — 36.99€
-- **AJogar** — [Pokemon 30th Celebration Mini Tin - Day Pikachu & Vivillon, English Edition](https://ajogar.com/products/pkm-30-mini5) — 19.99€
+- **AJogar** — [Pokemon 30th Celebration Mini Tin - Day Pikachu & Vivillon, English Edition](https://ajogar.com/products/pkm-30-mini5) — 17.99€
 - **AnixWays** — [30th Celebration Greninja EX Tin](https://anixways.com/product/30th-celebration-greninja-ex-tin/) — 47.90€
 - **AnixWays** — [30th Celebration Poster Collection](https://anixways.com/product/30th-celebration-poster-collection/) — 44.90€
 - **AnixWays** — [30th Celebration: Espeon EX Battle Deck](https://anixways.com/product/30th-celebration-espeon-ex-battle-deck/) — 40.00€
@@ -114,7 +111,6 @@
 - **Geekhaven** — [Pokémon 30th Celebration Booster Bundle](https://geekhaven.pt/products/pokemon-30th-celebration-booster-bundle) — 55.00€
 - **Geekhaven** — [Pokémon 30th Celebration Ex Box Greninja](https://geekhaven.pt/products/pokemon-30th-celebration-ex-box-greninja) — 40.00€
 - **Geekhaven** — [Pokémon 30th Celebration Ex Box Sylveon](https://geekhaven.pt/products/pokemon-30th-celebration-ex-box-sylveon) — 40.00€
-- **Geekhaven** — [Pokémon 30th Celebration Figure Collection Mew](https://geekhaven.pt/products/pokemon-30th-celebration-figure-collection-mew) — 60.00€
 - **Geekhaven** — [Pokémon 30th Celebration Figure Collection Mewtwo](https://geekhaven.pt/products/pokemon-30th-celebration-figure-collection-mewtwo) — 60.00€
 - **Geekhaven** — [Pokémon 30th Celebration Poster Collection](https://geekhaven.pt/products/pokemon-30th-celebration-poster-collection) — 32.00€
 - **Geekhaven** — [Pokémon 30th Celebration Sylveon Ex Tin](https://geekhaven.pt/products/pokemon-30th-celebration-sylveon-ex-tin) — 40.00€

@@ -25,7 +25,7 @@
    "url": "https://ajogar.com/products/pkm-30-etb"
   },
   "https://ajogar.com/products/pkm-30-exboxgreninja": {
-   "available": true,
+   "available": false,
    "domain": "ajogar.com",
    "price": "32.99",
    "store": "AJogar",
@@ -33,7 +33,7 @@
    "url": "https://ajogar.com/products/pkm-30-exboxgreninja"
   },
   "https://ajogar.com/products/pkm-30-exboxsylveon": {
-   "available": true,
+   "available": false,
    "domain": "ajogar.com",
    "price": "32.99",
    "store": "AJogar",
@@ -41,7 +41,7 @@
    "url": "https://ajogar.com/products/pkm-30-exboxsylveon"
   },
   "https://ajogar.com/products/pkm-30-extinsylveon": {
-   "available": true,
+   "available": false,
    "domain": "ajogar.com",
    "price": "36.99",
    "store": "AJogar",
@@ -67,7 +67,7 @@
   "https://ajogar.com/products/pkm-30-mini5": {
    "available": true,
    "domain": "ajogar.com",
-   "price": "19.99",
+   "price": "17.99",
    "store": "AJogar",
    "title": "Pokemon 30th Celebration Mini Tin - Day Pikachu & Vivillon, English Edition",
    "url": "https://ajogar.com/products/pkm-30-mini5"
@@ -777,7 +777,7 @@
    "url": "https://geekhaven.pt/products/pokemon-30th-celebration-ex-box-sylveon"
   },
   "https://geekhaven.pt/products/pokemon-30th-celebration-figure-collection-mew": {
-   "available": true,
+   "available": false,
    "domain": "geekhaven.pt",
    "price": "60.00",
    "store": "Geekhaven",
@@ -2697,7 +2697,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-mini-tin-aleatorio/"
   }
  },
- "last_run": "2026-11-20 18:45 UTC",
+ "last_run": "2026-11-21 00:20 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
@@ -2716,7 +2716,7 @@
   "drawphase.pt": "shopify",
   "drawstep.com": "shopify",
   "elcorteingles.pt": "error",
-  "games-island.eu": "error",
+  "games-island.eu": "html:/search?q={q}",
   "gatorcards.pt": "shopify",
   "geekhaven.pt": "shopify",
   "gglounge.pt": "woo",
