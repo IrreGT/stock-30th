@@ -1,10 +1,10 @@
-# Estado do monitor — 2026-11-21 00:20 UTC
+# Estado do monitor — 2026-11-21 07:29 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
 | [AJogar](https://ajogar.com) | shopify | 13 | 2 |  |
-| [AnixWays](https://anixways.com) | woo | 27 | 6 |  |
+| [AnixWays](https://anixways.com) | woo | 0 | 0 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 14 | 12 |  |
 | [Brokards](https://brokards.com) | shopify | 12 | 8 |  |
@@ -13,14 +13,14 @@
 | [CentroXogo](https://centroxogo.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [Charbinder](https://charbinder.com) | shopify | 1 | 1 |  |
 | [Colecionar](https://colecionar.pt) | error | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
-| [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
+| [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='conbini.pt', port=443): Read timed out. (read timeout=20) |
 | [Continente](https://continente.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Diver](https://diver.pt) | presta | 6 | 4 |  |
 | [DrawPhase](https://drawphase.pt) | shopify | 0 | 0 |  |
 | [Drawstep](https://drawstep.com) | shopify | 7 | 1 |  |
 | [El Corte Inglés](https://elcorteingles.pt) | error | 0 | 0 |  |
 | [Games Island](https://games-island.eu) | html:/search?q={q} | 0 | 0 |  |
-| [Gatorcards](https://gatorcards.pt) | shopify | 11 | 4 |  |
+| [Gatorcards](https://gatorcards.pt) | shopify | 10 | 3 |  |
 | [Geekhaven](https://geekhaven.pt) | shopify | 13 | 7 |  |
 | [GgLounge](https://gglounge.pt) | woo | 2 | 0 |  |
 | [GM Cards & Toys](https://gmcardsandtoys.com) | shopify | 0 | 0 |  |
@@ -38,7 +38,7 @@
 | [Miniversos](https://miniversos.pt) | shopify | 0 | 0 |  |
 | [MyPopMania](https://mypopmania.pt) | html:/pesquisa?controller=search&s={q} | 0 | 0 |  |
 | [MysticMirage](https://mysticmirage.shop) | html:/search?q={q} | 3 | 0 |  |
-| [OhliCards](https://ohlicards.pt) | woo | 0 | 0 | ConnectTimeout: HTTPSConnectionPool(host='ohlicards.pt', port=443): Max retries exceeded with url: /wp-json/wc/store/v1/products?search=30th+celebration&per_page=50 (Caused by ConnectTimeoutError(<HTT |
+| [OhliCards](https://ohlicards.pt) | woo | 6 | 4 |  |
 | [OPortoGG](https://oportogg.com) | shopify | 3 | 3 |  |
 | [Packpoint](https://packpoint.pt) | shopify | 0 | 0 |  |
 | [PandaCollecting](https://pandacollecting.com) | html:/?s={q}&post_type=product | 14 | 3 |  |
@@ -47,7 +47,7 @@
 | [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 41 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 9 | 1 |  |
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
-| [Psydeck](https://psydeck.com) | shopify | 13 | 8 |  |
+| [Psydeck](https://psydeck.com) | shopify | 12 | 8 |  |
 | [PTMerch](https://ptmerch.com) | presta | 5 | 4 |  |
 | [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 |  |
 | [Rota151](https://rota151.pt) | woo | 0 | 0 |  |
@@ -71,12 +71,6 @@
 
 - **AJogar** — [Pokemon 30th Anniversary Booster Pack of 6 Cards, Japanese](https://ajogar.com/products/pokemon-30th-anniversary-booster-pack-of-6-cards-japanese) — 10.00€
 - **AJogar** — [Pokemon 30th Celebration Mini Tin - Day Pikachu & Vivillon, English Edition](https://ajogar.com/products/pkm-30-mini5) — 17.99€
-- **AnixWays** — [30th Celebration Greninja EX Tin](https://anixways.com/product/30th-celebration-greninja-ex-tin/) — 47.90€
-- **AnixWays** — [30th Celebration Poster Collection](https://anixways.com/product/30th-celebration-poster-collection/) — 44.90€
-- **AnixWays** — [30th Celebration: Espeon EX Battle Deck](https://anixways.com/product/30th-celebration-espeon-ex-battle-deck/) — 40.00€
-- **AnixWays** — [30th Celebration: Mew Figure Collection](https://anixways.com/product/30th-celebration-mew-figure-collection/) — 90.00€
-- **AnixWays** — [30th Celebration: Mewtwo Figure Collection](https://anixways.com/product/30th-celebration-mewtwo-figure-collection/) — 90.00€
-- **AnixWays** — [Pokémon Battle Figure Action Figure Multipack 30th Anniversary](https://anixways.com/product/pokemon-battle-figure-action-figure-multipack-30th-anniversary/) — 45.90€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.1](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1) — 14.49€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.3](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-3) — 14.99€
 - **Biridama** — [30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.2](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-2) — 12.99€
@@ -106,7 +100,6 @@
 - **Gatorcards** — [30th Celebration Booster Bundle](https://gatorcards.pt/products/30th-celebration-booster-bundle) — 74.00€
 - **Gatorcards** — [30th Celebration Ditto Premium Collection](https://gatorcards.pt/products/30th-celebration-ditto-premium-collection) — 80.00€
 - **Gatorcards** — [30th Celebration Mew Figure Collection](https://gatorcards.pt/products/30th-celebration-mew-figure-collection) — 60.00€
-- **Gatorcards** — [30th Celebration Mewtwo Figure Collection](https://gatorcards.pt/products/30th-celebration-mewtwo-figure-collection) — 60.00€
 - **Geekhaven** — [Pokémon 30th Celebration 2 Pack Blister](https://geekhaven.pt/products/pokemon-30th-celebration-2-pack-blister) — 18.00€
 - **Geekhaven** — [Pokémon 30th Celebration Booster Bundle](https://geekhaven.pt/products/pokemon-30th-celebration-booster-bundle) — 55.00€
 - **Geekhaven** — [Pokémon 30th Celebration Ex Box Greninja](https://geekhaven.pt/products/pokemon-30th-celebration-ex-box-greninja) — 40.00€
