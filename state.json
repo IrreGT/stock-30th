@@ -321,7 +321,7 @@
    "url": "https://anixways.com/product/pokemon-plush-figure-30th-anniversary-vulpix-20-cm/"
   },
   "https://biridama.pt/products/30-celebration-booster-bundle": {
-   "available": true,
+   "available": false,
    "domain": "biridama.pt",
    "price": "62.49",
    "store": "Biridama",
@@ -472,22 +472,6 @@
    "title": "Pokémon 30th Celebration Espeon Ex Battle Deck",
    "url": "https://brokards.com/products/pokemon-30th-celebration-espeon-ex-battle-deck"
   },
-  "https://brokards.com/products/pokemon-30th-celebration-ex-box-greninja": {
-   "available": true,
-   "domain": "brokards.com",
-   "price": "40.00",
-   "store": "Brokards",
-   "title": "Pokémon 30th Celebration Ex Box Greninja",
-   "url": "https://brokards.com/products/pokemon-30th-celebration-ex-box-greninja"
-  },
-  "https://brokards.com/products/pokemon-30th-celebration-ex-box-sylveon": {
-   "available": true,
-   "domain": "brokards.com",
-   "price": "40.00",
-   "store": "Brokards",
-   "title": "Pokémon 30th Celebration Ex Box Sylveon",
-   "url": "https://brokards.com/products/pokemon-30th-celebration-ex-box-sylveon"
-  },
   "https://brokards.com/products/pokemon-30th-celebration-figure-collection-mew": {
    "available": true,
    "domain": "brokards.com",
@@ -504,13 +488,13 @@
    "title": "Pokémon 30th Celebration Figure Collection Mewtwo",
    "url": "https://brokards.com/products/pokemon-30th-celebration-figure-collection-mewtwo"
   },
-  "https://brokards.com/products/pokemon-30th-celebration-mini-tin": {
+  "https://brokards.com/products/pokemon-30th-celebration-greninja-ex-tin": {
    "available": true,
    "domain": "brokards.com",
-   "price": "20.00",
+   "price": "40.00",
    "store": "Brokards",
-   "title": "Pokémon 30th Celebration Mini Tin Day",
-   "url": "https://brokards.com/products/pokemon-30th-celebration-mini-tin"
+   "title": "Pokémon 30th Celebration Greninja Ex Tin",
+   "url": "https://brokards.com/products/pokemon-30th-celebration-greninja-ex-tin"
   },
   "https://brokards.com/products/pokemon-30th-celebration-poster-collection": {
    "available": true,
@@ -520,13 +504,13 @@
    "title": "Pokémon 30th Celebration Poster Collection",
    "url": "https://brokards.com/products/pokemon-30th-celebration-poster-collection"
   },
-  "https://brokards.com/products/pokemon-30th-celebration-tech-sticker-collection-lucario": {
+  "https://brokards.com/products/pokemon-30th-celebration-tin": {
    "available": false,
    "domain": "brokards.com",
-   "price": "26.00",
+   "price": "40.00",
    "store": "Brokards",
-   "title": "Pokémon 30th Celebration Tech Sticker Collection Lucario",
-   "url": "https://brokards.com/products/pokemon-30th-celebration-tech-sticker-collection-lucario"
+   "title": "Pokémon 30th Celebration Sylveon Ex Tin",
+   "url": "https://brokards.com/products/pokemon-30th-celebration-tin"
   },
   "https://brokards.com/products/pokemon-30th-celebration-ultra-premium-collection-envio-aleatorio": {
    "available": false,
@@ -1776,78 +1760,6 @@
    "title": "Umbreon Glitter Battle Figura – 30th Anniversary (7,50 cm)",
    "url": "https://pokeboxstore.pt/produto/umbreon-glitter-battle-figure-30th-anniversary-750-cm/"
   },
-  "https://pokelotas.com/products/30th-celebration-2-pack-blister": {
-   "available": false,
-   "domain": "pokelotas.com",
-   "price": "19.99",
-   "store": "Pokelotas",
-   "title": "30th Celebration  - 2 Pack Blister",
-   "url": "https://pokelotas.com/products/30th-celebration-2-pack-blister"
-  },
-  "https://pokelotas.com/products/30th-celebration-booster-bundle": {
-   "available": false,
-   "domain": "pokelotas.com",
-   "price": "57.49",
-   "store": "Pokelotas",
-   "title": "30th Celebration Booster Bundle",
-   "url": "https://pokelotas.com/products/30th-celebration-booster-bundle"
-  },
-  "https://pokelotas.com/products/30th-celebration-elite-trainer-box": {
-   "available": false,
-   "domain": "pokelotas.com",
-   "price": "129.99",
-   "store": "Pokelotas",
-   "title": "30th Celebration Elite Trainer Box",
-   "url": "https://pokelotas.com/products/30th-celebration-elite-trainer-box"
-  },
-  "https://pokelotas.com/products/30th-celebration-ex-box": {
-   "available": false,
-   "domain": "pokelotas.com",
-   "price": "39.99",
-   "store": "Pokelotas",
-   "title": "30th Celebration Ex Box",
-   "url": "https://pokelotas.com/products/30th-celebration-ex-box"
-  },
-  "https://pokelotas.com/products/30th-celebration-poster-collection": {
-   "available": false,
-   "domain": "pokelotas.com",
-   "price": "34.99",
-   "store": "Pokelotas",
-   "title": "30th Celebration Poster Collection",
-   "url": "https://pokelotas.com/products/30th-celebration-poster-collection"
-  },
-  "https://pokelotas.com/products/30th-celebration-simplified-chinese-booster-box": {
-   "available": true,
-   "domain": "pokelotas.com",
-   "price": "96.99",
-   "store": "Pokelotas",
-   "title": "30th Celebration Simplified Chinese Booster Box",
-   "url": "https://pokelotas.com/products/30th-celebration-simplified-chinese-booster-box"
-  },
-  "https://pokelotas.com/products/30th-celebration-tech-sticker-collection": {
-   "available": false,
-   "domain": "pokelotas.com",
-   "price": "29.99",
-   "store": "Pokelotas",
-   "title": "30th Celebration Tech Sticker Collection",
-   "url": "https://pokelotas.com/products/30th-celebration-tech-sticker-collection"
-  },
-  "https://pokelotas.com/products/30th-celebrations-mini-tins": {
-   "available": false,
-   "domain": "pokelotas.com",
-   "price": "26.99",
-   "store": "Pokelotas",
-   "title": "30th Celebration Mini Tins",
-   "url": "https://pokelotas.com/products/30th-celebrations-mini-tins"
-  },
-  "https://pokelotas.com/products/30th-celebrations-tins": {
-   "available": false,
-   "domain": "pokelotas.com",
-   "price": "43.99",
-   "store": "Pokelotas",
-   "title": "30th Celebration Tins",
-   "url": "https://pokelotas.com/products/30th-celebrations-tins"
-  },
   "https://ptmerch.com/pt/30th-celebration/18486-30th-celebration-booster-box-simplified-chinese-6942600405783.html": {
    "available": false,
    "domain": "ptmerch.com",
@@ -2153,7 +2065,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-mini-tin-aleatorio/"
   }
  },
- "last_run": "2026-11-22 01:16 UTC",
+ "last_run": "2026-11-22 08:10 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
