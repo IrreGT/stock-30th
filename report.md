@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-11-22 21:56 UTC
+# Estado do monitor — 2026-11-23 02:24 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -47,18 +47,18 @@
 | [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 41 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 9 | 1 |  |
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
-| [Psydeck](https://psydeck.com) | shopify | 12 | 7 |  |
+| [Psydeck](https://psydeck.com) | shopify | 13 | 5 |  |
 | [PTMerch](https://ptmerch.com) | presta | 5 | 4 |  |
 | [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 |  |
 | [Rota151](https://rota151.pt) | woo | 0 | 0 |  |
-| [SenhorGato](https://lojasenhorgato.pt) | shopify | 0 | 0 |  |
+| [SenhorGato](https://lojasenhorgato.pt) | shopify | 6 | 3 |  |
 | [Shop4Nerds](https://shop4nerds.pt) | error | 0 | 0 |  |
 | [Stickerpoint](https://stickerpoint.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
-| [TCGFamily](https://tcg-family.com) | shopify | 0 | 0 |  |
+| [TCGFamily](https://tcg-family.com) | shopify | 4 | 3 |  |
 | [TCGHaven](https://tcghaven.pt) | html:/search?q={q} | 10 | 0 |  |
-| [TemplarsArena](https://templarsarena.com) | shopify | 0 | 0 |  |
+| [TemplarsArena](https://templarsarena.com) | shopify | 13 | 9 |  |
 | [The Kanto Market](https://thekantomarket.com) | shopify | 0 | 0 |  |
-| [Totobayshop](https://totobayshop.com) | shopify | 0 | 0 |  |
+| [Totobayshop](https://totobayshop.com) | shopify | 11 | 4 |  |
 | [ToysRUsPT](https://toysrus.pt) | error | 0 | 0 |  |
 | [TriplaceGames](https://triplacegames.com) | html:/search?q={q} | 14 | 0 |  |
 | [UntradableStore](https://untradablestore.com) | shopify | 0 | 0 |  |
@@ -71,7 +71,7 @@
 
 - **AJogar** — [Pokemon 30th Anniversary Booster Pack of 6 Cards, Japanese](https://ajogar.com/products/pokemon-30th-anniversary-booster-pack-of-6-cards-japanese) — 9.00€
 - **AnixWays** — [30th Celebration Greninja EX Tin](https://anixways.com/product/30th-celebration-greninja-ex-tin/) — 47.90€
-- **AnixWays** — [30th Celebration Poster Collection](https://anixways.com/product/30th-celebration-poster-collection/) — 44.90€
+- **AnixWays** — [30th Celebration Poster Collection](https://anixways.com/product/30th-celebration-poster-collection/) — 35.92€
 - **AnixWays** — [30th Celebration: Espeon EX Battle Deck](https://anixways.com/product/30th-celebration-espeon-ex-battle-deck/) — 40.00€
 - **AnixWays** — [30th Celebration: Mew Figure Collection](https://anixways.com/product/30th-celebration-mew-figure-collection/) — 90.00€
 - **AnixWays** — [30th Celebration: Mewtwo Figure Collection](https://anixways.com/product/30th-celebration-mewtwo-figure-collection/) — 90.00€
@@ -89,10 +89,10 @@
 - **Biridama** — [30th Celebration: Sylveon ex Box](https://biridama.pt/products/sylveon-ex-box-30th-celebration) — 40.49€
 - **Brokards** — [Pokémon 30th Celebration 2 Pack Blister](https://brokards.com/products/pokemon-30th-celebration-2-pack-blister) — 18.00€
 - **Brokards** — [Pokémon 30th Celebration Booster Bundle](https://brokards.com/products/pokemon-30th-celebration-booster-bundle) — 55.00€
-- **Brokards** — [Pokémon 30th Celebration Espeon Ex Battle Deck](https://brokards.com/products/pokemon-30th-celebration-espeon-ex-battle-deck) — 36.00€
 - **Brokards** — [Pokémon 30th Celebration Figure Collection Mew](https://brokards.com/products/pokemon-30th-celebration-figure-collection-mew) — 60.00€
 - **Brokards** — [Pokémon 30th Celebration Figure Collection Mewtwo](https://brokards.com/products/pokemon-30th-celebration-figure-collection-mewtwo) — 60.00€
 - **Brokards** — [Pokémon 30th Celebration Greninja Ex Tin](https://brokards.com/products/pokemon-30th-celebration-greninja-ex-tin) — 40.00€
+- **Brokards** — [Pokémon 30th Celebration Mini Tin Day](https://brokards.com/products/pokemon-30th-celebration-mini-tin) — 20.00€
 - **Brokards** — [Pokémon 30th Celebration Poster Collection](https://brokards.com/products/pokemon-30th-celebration-poster-collection) — 32.00€
 - **Charbinder** — [Pokémon TCG 30th Anniversary First Partner Card Set Vol. 1 (CN)](https://charbinder.com/products/pokemon-tcg-30th-anniversary-first-partner-card-set-vol-1-cn) — 17.90€
 - **Diver** — [PKM 30th Celebration: Battle Deck EN](https://diver.pt/pt/pkm-special-editions/106281-pkm-30th-celebration-battle-deck-en.html) — 47,99 €€
@@ -122,17 +122,17 @@
 - **LootLab** — [Pokémon 30th Celebration: Ditto Premium Collection](https://lootlab.pt/p/pokemon-30th-celebration-ditto-premium-collection)
 - **LootLab** — [Pokémon 30th Celebration: Mew Figure Collection](https://lootlab.pt/p/pokemon-30th-celebration-mew-figure-collection)
 - **LootLab** — [Pokémon 30th Celebration: Mewtwo Figure Collection](https://lootlab.pt/p/pokemon-30th-celebration-mewtwo-figure-collection)
-- **LotusValley** — [30th Celebration Booster Bundle](https://lotusvalley.pt/produto/30th-celebration-booster-bundle/) — 90.00€
-- **LotusValley** — [30th Celebration Ditto Premium Collection](https://lotusvalley.pt/produto/30th-celebration-ditto-premium-collection/) — 120.00€
-- **LotusValley** — [30th Celebration Elite Trainer Box](https://lotusvalley.pt/produto/30th-celebration/) — 149.90€
-- **LotusValley** — [30th Celebration Greninja ex Box](https://lotusvalley.pt/produto/30th-celebration-greninja-ex-box/) — 69.90€
-- **LotusValley** — [30th Celebration Mew Figure Collection](https://lotusvalley.pt/produto/30th-celebration-mew-figure-collection/) — 100.00€
-- **LotusValley** — [30th Celebration Mewtwo Figure Collection](https://lotusvalley.pt/produto/30th-celebration-mewtwo-figure-collection/) — 100.00€
-- **LotusValley** — [30th Celebration Mini Tin (Arte Aleatória)](https://lotusvalley.pt/produto/30th-celebration-mini-tin-arte-aleatoria/) — 29.90€
-- **LotusValley** — [30th Celebration Poster Collection](https://lotusvalley.pt/produto/30th-celebration-poster-collection/) — 44.90€
-- **LotusValley** — [30th Celebration:  Umbreon ex Battle Deck](https://lotusvalley.pt/produto/30th-celebration-umbreon-ex-battle-deck/) — 50.00€
-- **LotusValley** — [30th Celebration: Espeon ex Battle Deck](https://lotusvalley.pt/produto/30th-celebration-espeon-ex-battle-deck/) — 50.00€
-- **LotusValley** — [30th Celebration: Sylveon ex Box](https://lotusvalley.pt/produto/30th-celebration-sylveon-ex-box/) — 69.90€
+- **LotusValley** — [30th Celebration Booster Bundle](https://lotusvalley.pt/produto/30th-celebration-booster-bundle/) — 65.00€
+- **LotusValley** — [30th Celebration Ditto Premium Collection](https://lotusvalley.pt/produto/30th-celebration-ditto-premium-collection/) — 90.00€
+- **LotusValley** — [30th Celebration Elite Trainer Box](https://lotusvalley.pt/produto/30th-celebration/) — 135.00€
+- **LotusValley** — [30th Celebration Greninja ex Box](https://lotusvalley.pt/produto/30th-celebration-greninja-ex-box/) — 45.00€
+- **LotusValley** — [30th Celebration Mew Figure Collection](https://lotusvalley.pt/produto/30th-celebration-mew-figure-collection/) — 75.00€
+- **LotusValley** — [30th Celebration Mewtwo Figure Collection](https://lotusvalley.pt/produto/30th-celebration-mewtwo-figure-collection/) — 75.00€
+- **LotusValley** — [30th Celebration Mini Tin (Arte Aleatória)](https://lotusvalley.pt/produto/30th-celebration-mini-tin-arte-aleatoria/) — 25.00€
+- **LotusValley** — [30th Celebration Poster Collection](https://lotusvalley.pt/produto/30th-celebration-poster-collection/) — 35.00€
+- **LotusValley** — [30th Celebration:  Umbreon ex Battle Deck](https://lotusvalley.pt/produto/30th-celebration-umbreon-ex-battle-deck/) — 35.00€
+- **LotusValley** — [30th Celebration: Espeon ex Battle Deck](https://lotusvalley.pt/produto/30th-celebration-espeon-ex-battle-deck/) — 35.00€
+- **LotusValley** — [30th Celebration: Sylveon ex Box](https://lotusvalley.pt/produto/30th-celebration-sylveon-ex-box/) — 45.00€
 - **ManaTCG** — [Pokémon TCG: 30th Celebration Ditto Premium Collection](https://manatcg.com/products/pokemon-tcg-30th-celebration-ditto-premium-collection) — 89.99€
 - **ManaTCG** — [Pokémon TCG: 30th Celebration Mew Figure Collection](https://manatcg.com/products/pokemon-tcg-30th-celebration-mew-figure-collection) — 69.99€
 - **ManaTCG** — [Pokémon TCG: 30th Celebration Mewtwo Figure Collection](https://manatcg.com/products/pokemon-tcg-30th-celebration-mewtwo-figure-collection) — 69.99€
@@ -163,9 +163,26 @@
 - **Papelinho** — [Pokémon TCG 30th Celebration Figure Collection | Mew e Mewtwo 1 und.](https://papelinho.pt/jogos-brinquedos/jogos-de-cartas/pokemon-tcg-30th-celebration-figure-collection-mew-e-mewtwo-1-und#/74-pack_pokemon-mew) — 79,99 €€
 - **Pokelotas** — [30th Celebration Simplified Chinese Booster Box](https://pokelotas.com/products/30th-celebration-simplified-chinese-booster-box) — 96.99€
 - **Psydeck** — [30th Celebration Elite Trainer Box](https://psydeck.com/products/30th-celebration-elite-trainer-box) — 130.00€
-- **Psydeck** — [30th Celebration Espeon ex Battle Deck](https://psydeck.com/products/30th-celebration-espeon-ex-battle-deck) — 48.00€
 - **Psydeck** — [30th Celebration Poster Collection](https://psydeck.com/products/30th-celebration-poster-collection-2) — 35.00€
-- **Psydeck** — [30th Celebration Umbreon ex Battle Deck](https://psydeck.com/products/30th-celebration-umbreon-ex-battle-deck) — 48.00€
 - **Psydeck** — [30th Celebration ex Box Greninja ex](https://psydeck.com/products/30th-celebration-ex-box-greninja-ex) — 55.00€
 - **Psydeck** — [30th Celebration ex Tin Greninja ex](https://psydeck.com/products/30th-celebration-ex-tin-greninja-ex) — 49.80€
 - **Psydeck** — [30th Celebration ex Tin Sylveon ex](https://psydeck.com/products/30th-celebration-ex-tin-sylveon-ex) — 49.80€
+- **SenhorGato** — [TCG Pokémon - 30th Anniversary First Partner Series 1 - Chinese](https://lojasenhorgato.pt/products/tcg-pokemon-30th-anniversary-first-partner-series-1-chinese) — 15.00€
+- **SenhorGato** — [TCG Pokémon - 30th Anniversary First Partner Series 2 - Chinese](https://lojasenhorgato.pt/products/tcg-pokemon-30th-anniversary-first-partner-series-2-chinese) — 15.00€
+- **SenhorGato** — [TCG Pokémon - 30th Anniversary First Partner Series 3 - Chinese](https://lojasenhorgato.pt/products/tcg-pokemon-30th-anniversary-first-partner-series-3-chinese) — 15.00€
+- **TCGFamily** — [30th Celebration - Battle Deck](https://tcg-family.com/products/30th-celebration-battle-deck) — 49.00€
+- **TCGFamily** — [Pokémon TCG 30th Anniversary Celebration Coin Set CHINESE Ver.](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-celebration-coin-set-chinese-ver) — 22.00€
+- **TCGFamily** — [Pokémon TCG – 30th Anniversary Dream Painting Pikachu Figure Set Blind Box (Simplified Chinese)](https://tcg-family.com/products/pokemon-tcg-30th-anniversary-dream-painting-pikachu-figure-set-blind-box-simplified-chinese) — 33.00€
+- **TemplarsArena** — [30th Celebration 2-Pack Blister Eevee](https://templarsarena.com/products/30th-celebration-2-pack-blister-eevee) — 30.00€
+- **TemplarsArena** — [30th Celebration Booster Bundle - English](https://templarsarena.com/products/30th-celebration-booster-bundle) — 69.90€
+- **TemplarsArena** — [30th Celebration Elite Trainer Box](https://templarsarena.com/products/30th-celebration-elite-trainer-box) — 150.00€
+- **TemplarsArena** — [30th Celebration Poster Collection](https://templarsarena.com/products/30th-celebration-poster-collection) — 40.00€
+- **TemplarsArena** — [30th Celebration: Greninja ex Box](https://templarsarena.com/products/30th-celebration-greninja-ex-box) — 45.00€
+- **TemplarsArena** — [30th Celebration: Sylveon ex Box](https://templarsarena.com/products/30th-celebration-sylveon-ex-box) — 45.00€
+- **TemplarsArena** — [Pokémon TCG – First Partner 30th Anniversary – Vol. 2 – Simplified Chinese](https://templarsarena.com/products/pokemon-tcg-first-partner-30th-anniversary-display-vol-2-simplified-chinese) — 16.00€
+- **TemplarsArena** — [Pokémon TCG: 30th Celebration Ultra-Premium Collection—Day (Espeon)](https://templarsarena.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon) — 544.00€
+- **TemplarsArena** — [Pokémon TCG: 30th Celebration Ultra-Premium Collection—Night (Umbreon)](https://templarsarena.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon) — 544.00€
+- **Totobayshop** — [30th Celebration - Ditto Premium Collection](https://totobayshop.com/products/30th-celebration-ditto-premium-collection) — 98.00€
+- **Totobayshop** — [30th Celebration - Mewtwo Figure Collection](https://totobayshop.com/products/30th-celebration-mewtwo-figure-collection) — 78.40€
+- **Totobayshop** — [30th Celebration - Mini Tin (Day)](https://totobayshop.com/products/30th-celebration-mini-tin-copy) — 24.30€
+- **Totobayshop** — [30th Celebration - Mini Tin (Night)](https://totobayshop.com/products/30th-celebration-mini-tin-copy-1) — 24.30€
