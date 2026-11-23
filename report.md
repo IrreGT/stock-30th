@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-11-23 02:24 UTC
+# Estado do monitor — 2026-11-23 11:04 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Colecionar](https://colecionar.pt) | error | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
 | [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [Continente](https://continente.pt) | html:/search?q={q} | 0 | 0 |  |
-| [Diver](https://diver.pt) | presta | 6 | 4 |  |
+| [Diver](https://diver.pt) | presta | 6 | 5 |  |
 | [DrawPhase](https://drawphase.pt) | shopify | 0 | 0 |  |
 | [Drawstep](https://drawstep.com) | shopify | 7 | 1 |  |
 | [El Corte Inglés](https://elcorteingles.pt) | error | 0 | 0 |  |
@@ -26,7 +26,7 @@
 | [GM Cards & Toys](https://gmcardsandtoys.com) | shopify | 0 | 0 |  |
 | [God of Cards](https://godofcards.com) | shopify | 2 | 2 |  |
 | [IberianCard](https://iberiancard.com) | shopify | 6 | 6 |  |
-| [Kaissa](https://kaissa.gr) | error | 0 | 0 |  |
+| [Kaissa](https://kaissa.gr) | html:/?s={q}&post_type=product | 1 | 0 |  |
 | [LojaDosPops](https://lojadospops.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [LootLab](https://lootlab.pt) | html:/search?q={q} | 10 | 5 |  |
 | [LostForgeStore](https://lostforgestore.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
@@ -47,7 +47,7 @@
 | [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 41 | 0 |  |
 | [Pokelotas](https://pokelotas.com) | shopify | 9 | 1 |  |
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
-| [Psydeck](https://psydeck.com) | shopify | 13 | 5 |  |
+| [Psydeck](https://psydeck.com) | shopify | 13 | 6 |  |
 | [PTMerch](https://ptmerch.com) | presta | 5 | 4 |  |
 | [RorizLair](https://rorizlair.com) | html:/search?q={q} | 0 | 0 |  |
 | [Rota151](https://rota151.pt) | woo | 0 | 0 |  |
@@ -61,7 +61,7 @@
 | [Totobayshop](https://totobayshop.com) | shopify | 11 | 4 |  |
 | [ToysRUsPT](https://toysrus.pt) | error | 0 | 0 |  |
 | [TriplaceGames](https://triplacegames.com) | html:/search?q={q} | 14 | 0 |  |
-| [UntradableStore](https://untradablestore.com) | shopify | 0 | 0 |  |
+| [UntradableStore](https://untradablestore.com) | shopify | 9 | 0 |  |
 | [VenturaCardGames](https://venturacardgames.com) | shopify | 0 | 0 |  |
 | [VersusGameCenter](https://versusgamecenter.pt) | shopify | 0 | 0 |  |
 | [WeatherlightGames](https://weatherlightgames.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
@@ -99,6 +99,7 @@
 - **Diver** — [PKM 30th Celebration: Ditto Premium Collection EN](https://diver.pt/pt/pkm-special-editions/106277-pkm-30th-celebration-ditto-premium-collection-en.html) — 109,99 €€
 - **Diver** — [PKM 30th Celebration: Mew Figure Collection EN](https://diver.pt/pt/pkm-special-editions/106279-pkm-30th-celebration-mew-figure-collection-en.html) — 79,99 €€
 - **Diver** — [PKM 30th Celebration: Mewtwo Figure Collection EN](https://diver.pt/pt/pkm-special-editions/106278-pkm-30th-celebration-mewtwo-figure-collection-en.html) — 79,99 €€
+- **Diver** — [PKM 30th Celebration: Ultra-Premium Collection - DAY EN](https://diver.pt/pt/pkm-special-editions/106266-pkm-30th-celebration-ultra-premium-collection-day-en.html) — 379,95 €€
 - **Drawstep** — [PKM - 30th Celebration - Elite Trainer Box](https://drawstep.com/products/pkm-30th-celebration-elite-trainer-box) — 140.00€
 - **Gatorcards** — [30th Celebration Booster Bundle](https://gatorcards.pt/products/30th-celebration-booster-bundle) — 74.00€
 - **Gatorcards** — [30th Celebration Mew Figure Collection](https://gatorcards.pt/products/30th-celebration-mew-figure-collection) — 60.00€
@@ -164,6 +165,7 @@
 - **Pokelotas** — [30th Celebration Simplified Chinese Booster Box](https://pokelotas.com/products/30th-celebration-simplified-chinese-booster-box) — 96.99€
 - **Psydeck** — [30th Celebration Elite Trainer Box](https://psydeck.com/products/30th-celebration-elite-trainer-box) — 130.00€
 - **Psydeck** — [30th Celebration Poster Collection](https://psydeck.com/products/30th-celebration-poster-collection-2) — 35.00€
+- **Psydeck** — [30th Celebration Umbreon ex Battle Deck](https://psydeck.com/products/30th-celebration-umbreon-ex-battle-deck) — 48.00€
 - **Psydeck** — [30th Celebration ex Box Greninja ex](https://psydeck.com/products/30th-celebration-ex-box-greninja-ex) — 55.00€
 - **Psydeck** — [30th Celebration ex Tin Greninja ex](https://psydeck.com/products/30th-celebration-ex-tin-greninja-ex) — 49.80€
 - **Psydeck** — [30th Celebration ex Tin Sylveon ex](https://psydeck.com/products/30th-celebration-ex-tin-sylveon-ex) — 49.80€
