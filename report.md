@@ -1,20 +1,20 @@
-# Estado do monitor — 2026-11-23 22:35 UTC
+# Estado do monitor — 2026-11-24 06:23 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
 | [ADCardCollectibles](https://adcardcollectibles.com) | shopify | 0 | 0 |  |
 | [AJogar](https://ajogar.com) | shopify | 13 | 1 |  |
-| [AnixWays](https://anixways.com) | woo | 27 | 6 |  |
+| [AnixWays](https://anixways.com) | woo | 0 | 0 |  |
 | [Arkay](https://arkay.pt) | html:/search?q={q} | 0 | 0 |  |
 | [Biridama](https://biridama.pt) | shopify | 14 | 12 |  |
-| [Brokards](https://brokards.com) | shopify | 11 | 7 |  |
+| [Brokards](https://brokards.com) | shopify | 12 | 8 |  |
 | [Byulverse](https://byulverse.eu) | html:/search?q={q} | 0 | 0 |  |
 | [CardFever](https://cardfever.pt) | error | 0 | 0 | ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) |
 | [CentroXogo](https://centroxogo.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
 | [Charbinder](https://charbinder.com) | shopify | 1 | 1 |  |
 | [Colecionar](https://colecionar.pt) | error | 0 | 0 |  |
 | [Conbini](https://conbini.pt) | html:/?s={q}&post_type=product | 0 | 0 |  |
-| [Continente](https://continente.pt) | html:/search?q={q} | 0 | 0 |  |
+| [Continente](https://continente.pt) | error | 0 | 0 |  |
 | [Diver](https://diver.pt) | presta | 7 | 5 |  |
 | [DrawPhase](https://drawphase.pt) | shopify | 0 | 0 |  |
 | [Drawstep](https://drawstep.com) | shopify | 7 | 1 |  |
@@ -41,11 +41,11 @@
 | [OhliCards](https://ohlicards.pt) | woo | 6 | 3 |  |
 | [OPortoGG](https://oportogg.com) | shopify | 7 | 3 |  |
 | [Packpoint](https://packpoint.pt) | shopify | 0 | 0 |  |
-| [PandaCollecting](https://pandacollecting.com) | html:/?s={q}&post_type=product | 14 | 3 |  |
+| [PandaCollecting](https://pandacollecting.com) | error | 0 | 0 |  |
 | [Papelinho](https://papelinho.pt) | presta | 1 | 1 |  |
 | [PlayerSpot](https://playerspot.pt) | html:/search?q={q} | 9 | 0 |  |
-| [PokeboxStore](https://pokeboxstore.pt) | html:/?s={q}&post_type=product | 41 | 0 |  |
-| [Pokelotas](https://pokelotas.com) | shopify | 9 | 1 |  |
+| [PokeboxStore](https://pokeboxstore.pt) | error | 0 | 0 |  |
+| [Pokelotas](https://pokelotas.com) | shopify | 0 | 0 |  |
 | [PressStart](https://pressstart.pt) | html:/search?q={q} | 0 | 0 | TypeError: can only concatenate str (not "NoneType") to str |
 | [Psydeck](https://psydeck.com) | shopify | 0 | 0 |  |
 | [PTMerch](https://ptmerch.com) | presta | 5 | 4 |  |
@@ -70,12 +70,6 @@
 ## Produtos com stock agora
 
 - **AJogar** — [Pokemon 30th Anniversary Booster Pack of 6 Cards, Japanese](https://ajogar.com/products/pokemon-30th-anniversary-booster-pack-of-6-cards-japanese) — 9.00€
-- **AnixWays** — [30th Celebration Greninja EX Tin](https://anixways.com/product/30th-celebration-greninja-ex-tin/) — 47.90€
-- **AnixWays** — [30th Celebration Poster Collection](https://anixways.com/product/30th-celebration-poster-collection/) — 35.92€
-- **AnixWays** — [30th Celebration: Espeon EX Battle Deck](https://anixways.com/product/30th-celebration-espeon-ex-battle-deck/) — 40.00€
-- **AnixWays** — [30th Celebration: Mew Figure Collection](https://anixways.com/product/30th-celebration-mew-figure-collection/) — 90.00€
-- **AnixWays** — [30th Celebration: Mewtwo Figure Collection](https://anixways.com/product/30th-celebration-mewtwo-figure-collection/) — 90.00€
-- **AnixWays** — [Pokémon Battle Figure Action Figure Multipack 30th Anniversary](https://anixways.com/product/pokemon-battle-figure-action-figure-multipack-30th-anniversary/) — 45.90€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.1](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-1) — 14.49€
 - **Biridama** — [30th Anniversary Celebration S-Chinese: Original Partner Card Set Vol.3](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-3) — 14.99€
 - **Biridama** — [30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.2](https://biridama.pt/products/30th-anniversary-celebration-s-chinese-original-partner-card-set-vol-2) — 12.99€
@@ -90,6 +84,7 @@
 - **Biridama** — [30th Celebration: Sylveon ex Box](https://biridama.pt/products/sylveon-ex-box-30th-celebration) — 40.49€
 - **Brokards** — [Pokémon 30th Celebration 2 Pack Blister](https://brokards.com/products/pokemon-30th-celebration-2-pack-blister) — 18.00€
 - **Brokards** — [Pokémon 30th Celebration Booster Bundle](https://brokards.com/products/pokemon-30th-celebration-booster-bundle) — 55.00€
+- **Brokards** — [Pokémon 30th Celebration Espeon Ex Battle Deck](https://brokards.com/products/pokemon-30th-celebration-espeon-ex-battle-deck) — 36.00€
 - **Brokards** — [Pokémon 30th Celebration Figure Collection Mew](https://brokards.com/products/pokemon-30th-celebration-figure-collection-mew) — 60.00€
 - **Brokards** — [Pokémon 30th Celebration Figure Collection Mewtwo](https://brokards.com/products/pokemon-30th-celebration-figure-collection-mewtwo) — 60.00€
 - **Brokards** — [Pokémon 30th Celebration Greninja Ex Tin](https://brokards.com/products/pokemon-30th-celebration-greninja-ex-tin) — 40.00€
@@ -160,8 +155,4 @@
 - **PTMerch** — [30th Anniversary Celebration Simplified Chinese: Original Partner Card Set Vol.2](https://ptmerch.com/pt/special-edition-pokemon/17927-30th-anniversary-celebration-simplified-chinese-original-partner-card-set-vol2-6942600406599.html) — 19,00 €€
 - **PTMerch** — [30th Celebration - Coin Set (Simplified Chinese)](https://ptmerch.com/pt/30th-celebration/18488-30th-celebration-coin-set-simplified-chinese-6942600436626.html) — 22,50 €€
 - **PTMerch** — [30th Celebration - Dream Painting Collection Pikachu Figure Set (Simplified Chinese)](https://ptmerch.com/pt/30th-celebration/18487-30th-celebration-dream-painting-collection-pikachu-figure-set-simplified-chinese-6942600454095.html) — 35,00 €€
-- **PandaCollecting** — [30th Celebration Espeon ex and Umbreon ex Premium Deck Set](https://pandacollecting.com/product/30th-celebration-espeon-ex-and-umbreon-ex-premium-deck-set/)
-- **PandaCollecting** — [30th Celebration Simplified Chinese Espeon ex Luxury Set](https://pandacollecting.com/product/30th-celebration-simplified-chinese-espeon-ex-luxury-set/)
-- **PandaCollecting** — [Pikachu 30th Celebration Plush Key Chain](https://pandacollecting.com/product/pikachu-30th-celebration-plush-key-chain/)
 - **Papelinho** — [Pokémon TCG 30th Celebration Figure Collection | Mew e Mewtwo 1 und.](https://papelinho.pt/jogos-brinquedos/jogos-de-cartas/pokemon-tcg-30th-celebration-figure-collection-mew-e-mewtwo-1-und#/74-pack_pokemon-mew) — 79,99 €€
-- **Pokelotas** — [30th Celebration Simplified Chinese Booster Box](https://pokelotas.com/products/30th-celebration-simplified-chinese-booster-box) — 96.99€
