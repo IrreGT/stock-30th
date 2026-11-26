@@ -384,14 +384,6 @@
    "title": "30th Celebration Card Showcase Set",
    "url": "https://biridama.pt/products/30th-celebration-greninja-ex-card-showcase-set-s-chinese"
   },
-  "https://biridama.pt/products/30th-celebration-umbreon-ex-luxury-set-s-chinese": {
-   "available": true,
-   "domain": "biridama.pt",
-   "price": "39.49",
-   "store": "Biridama",
-   "title": "30th Celebration Luxury Set",
-   "url": "https://biridama.pt/products/30th-celebration-umbreon-ex-luxury-set-s-chinese"
-  },
   "https://biridama.pt/products/celebration-greninja-ex-tin": {
    "available": false,
    "domain": "biridama.pt",
@@ -561,7 +553,7 @@
    "url": "https://diver.pt/pt/pkm-special-editions/106266-pkm-30th-celebration-ultra-premium-collection-day-en.html"
   },
   "https://diver.pt/pt/pkm-special-editions/106268-pkm-30th-celebration-ultra-premium-collection-night-en.html": {
-   "available": true,
+   "available": false,
    "domain": "diver.pt",
    "price": "379,95 €",
    "store": "Diver",
@@ -2753,7 +2745,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-mini-tin-aleatorio/"
   }
  },
- "last_run": "2026-11-25 20:38 UTC",
+ "last_run": "2026-11-26 03:08 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
