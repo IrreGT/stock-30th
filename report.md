@@ -1,4 +1,4 @@
-# Estado do monitor — 2026-11-28 04:06 UTC
+# Estado do monitor — 2026-11-28 12:56 UTC
 
 | Loja | Método | Produtos encontrados | Com stock | Erro |
 |---|---|---|---|---|
@@ -108,11 +108,11 @@
 - **God of Cards** — [Pokemon 30th Anniversary Celebration Partner Card Set Display Vol. 1 (8 Boxen) S-Chinesisch](https://godofcards.com/products/pokemon-30th-anniversary-celebration-partner-card-set-display-vol-1-8-boxen-s-chinesisch) — 114.95€
 - **God of Cards** — [Pokemon 30th Anniversary Celebration Partner Card Set Vol. 1 S-Chinesisch](https://godofcards.com/products/pokemon-30th-anniversary-celebration-partner-card-set-vol-1-s-chinesisch) — 13.95€
 - **IberianCard** — [Pokémon 30th Anniversary – First Partner Vol. 1 (Chinês Simplificado)](https://iberiancard.com/products/pokemon-30th-anniversary-first-partner-vol-1-chines-simplificado) — 14.90€
-- **IberianCard** — [Pokémon TCG – 30th Celebration: Ditto Premium Collection (EN)](https://iberiancard.com/products/pokemon-tcg-30th-celebration-ditto-premium-collection-en) — 89.90€
-- **IberianCard** — [Pokémon TCG – 30th Celebration: Espeon ex Battle Deck (EN)](https://iberiancard.com/products/pokemon-tcg-30th-celebration-espeon-ex-battle-deck-en) — 45.90€
-- **IberianCard** — [Pokémon TCG – 30th Celebration: Mew Figure Collection (English)](https://iberiancard.com/products/pokemon-tcg-30th-celebration-mew-figure-collection-english) — 74.90€
-- **IberianCard** — [Pokémon TCG – 30th Celebration: Mewtwo Figure Collection (EN)](https://iberiancard.com/products/pokemon-tcg-30th-celebration-mewtwo-figure-collection-en) — 74.90€
-- **IberianCard** — [Pokémon TCG – 30th Celebration: Umbreon ex Battle Deck (EN)](https://iberiancard.com/products/pokemon-tcg-30th-celebration-umbreon-ex-battle-deck-en) — 45.90€
+- **IberianCard** — [Pokémon TCG – 30th Celebration: Ditto Premium Collection (EN)](https://iberiancard.com/products/pokemon-tcg-30th-celebration-ditto-premium-collection-en) — 82.90€
+- **IberianCard** — [Pokémon TCG – 30th Celebration: Espeon ex Battle Deck (EN)](https://iberiancard.com/products/pokemon-tcg-30th-celebration-espeon-ex-battle-deck-en) — 29.90€
+- **IberianCard** — [Pokémon TCG – 30th Celebration: Mew Figure Collection (English)](https://iberiancard.com/products/pokemon-tcg-30th-celebration-mew-figure-collection-english) — 67.40€
+- **IberianCard** — [Pokémon TCG – 30th Celebration: Mewtwo Figure Collection (EN)](https://iberiancard.com/products/pokemon-tcg-30th-celebration-mewtwo-figure-collection-en) — 69.90€
+- **IberianCard** — [Pokémon TCG – 30th Celebration: Umbreon ex Battle Deck (EN)](https://iberiancard.com/products/pokemon-tcg-30th-celebration-umbreon-ex-battle-deck-en) — 29.90€
 - **LootLab** — [Pokémon 30th Celebration Battle Deck (aleatório)](https://lootlab.pt/p/pokemon-30th-celebration-battle-deck-aleatorio)
 - **LootLab** — [Pokémon 30th Celebration Mini Tin (Aleatório)](https://lootlab.pt/p/pokemon-30th-celebration-mini-tin-aleatorio)
 - **LootLab** — [Pokémon 30th Celebration: Ditto Premium Collection](https://lootlab.pt/p/pokemon-30th-celebration-ditto-premium-collection)

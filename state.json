@@ -803,7 +803,7 @@
   "https://iberiancard.com/products/pokemon-tcg-30th-celebration-ditto-premium-collection-en": {
    "available": true,
    "domain": "iberiancard.com",
-   "price": "89.90",
+   "price": "82.90",
    "store": "IberianCard",
    "title": "Pokémon TCG – 30th Celebration: Ditto Premium Collection (EN)",
    "url": "https://iberiancard.com/products/pokemon-tcg-30th-celebration-ditto-premium-collection-en"
@@ -811,7 +811,7 @@
   "https://iberiancard.com/products/pokemon-tcg-30th-celebration-espeon-ex-battle-deck-en": {
    "available": true,
    "domain": "iberiancard.com",
-   "price": "45.90",
+   "price": "29.90",
    "store": "IberianCard",
    "title": "Pokémon TCG – 30th Celebration: Espeon ex Battle Deck (EN)",
    "url": "https://iberiancard.com/products/pokemon-tcg-30th-celebration-espeon-ex-battle-deck-en"
@@ -819,7 +819,7 @@
   "https://iberiancard.com/products/pokemon-tcg-30th-celebration-mew-figure-collection-english": {
    "available": true,
    "domain": "iberiancard.com",
-   "price": "74.90",
+   "price": "67.40",
    "store": "IberianCard",
    "title": "Pokémon TCG – 30th Celebration: Mew Figure Collection (English)",
    "url": "https://iberiancard.com/products/pokemon-tcg-30th-celebration-mew-figure-collection-english"
@@ -827,7 +827,7 @@
   "https://iberiancard.com/products/pokemon-tcg-30th-celebration-mewtwo-figure-collection-en": {
    "available": true,
    "domain": "iberiancard.com",
-   "price": "74.90",
+   "price": "69.90",
    "store": "IberianCard",
    "title": "Pokémon TCG – 30th Celebration: Mewtwo Figure Collection (EN)",
    "url": "https://iberiancard.com/products/pokemon-tcg-30th-celebration-mewtwo-figure-collection-en"
@@ -835,7 +835,7 @@
   "https://iberiancard.com/products/pokemon-tcg-30th-celebration-umbreon-ex-battle-deck-en": {
    "available": true,
    "domain": "iberiancard.com",
-   "price": "45.90",
+   "price": "29.90",
    "store": "IberianCard",
    "title": "Pokémon TCG – 30th Celebration: Umbreon ex Battle Deck (EN)",
    "url": "https://iberiancard.com/products/pokemon-tcg-30th-celebration-umbreon-ex-battle-deck-en"
@@ -2561,7 +2561,7 @@
    "url": "https://www.ohlicards.pt/produto/pokemon-30th-celebration-mini-tin-aleatorio/"
   }
  },
- "last_run": "2026-11-28 04:06 UTC",
+ "last_run": "2026-11-28 12:56 UTC",
  "methods": {
   "adcardcollectibles.com": "shopify",
   "ajogar.com": "shopify",
